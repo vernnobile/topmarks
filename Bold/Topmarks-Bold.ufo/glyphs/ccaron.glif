@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccaron" format="1">
-  <advance width="1913"/>
+  <advance width="1645"/>
   <unicode hex="010D"/>
   <outline>
     <component base="c"/>
-    <component base="caron" xOffset="295" yOffset="-1037"/>
+    <component base="caron" xOffset="254" yOffset="-892"/>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
 </glyph>

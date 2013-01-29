@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccedilla" format="1">
-  <advance width="1913"/>
+  <advance width="1645"/>
   <unicode hex="00E7"/>
   <outline>
     <component base="c"/>
-    <component base="cedilla" xOffset="451" yOffset="255"/>
+    <component base="cedilla" xOffset="388" yOffset="219"/>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
 </glyph>

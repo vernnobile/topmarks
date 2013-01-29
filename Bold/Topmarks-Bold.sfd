@@ -17,8 +17,8 @@ Layer: 1 0 "Fore"  0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1359425169
-ModificationTime: 1359425169
+CreationTime: 1359431074
+ModificationTime: 1359431376
 PfmFamily: 0
 TTFWeight: 700
 TTFWidth: 5
@@ -43,13 +43,417 @@ Lookup: 258 0 0 "kernHorizontalKerninginLatinloo"  {"kernHorizontalKerninginLati
 Lookup: 258 0 0 "pos_pair_kernlatn_0"  {"pos_pair_kernlatn_0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "vernon adams" "vernon adams" "Copyright (c) 2011 by vernon adams. All rights reserved." 
+PickledData: "(dp1
+S'com.typemytype.robofont.segmentType'
+p2
+S'curve'
+p3
+sS'com.typemytype.robofont.sort'
+p4
+((dp5
+S'allowPseudoUnicode'
+p6
+I01
+sS'type'
+p7
+S'alphabetical'
+p8
+sS'ascending'
+p9
+I01
+s(dp10
+g6
+I01
+sg7
+S'category'
+p11
+sg9
+I01
+s(dp12
+g6
+I01
+sg7
+S'unicode'
+p13
+sg9
+I01
+s(dp14
+g6
+I01
+sg7
+S'script'
+p15
+sg9
+I01
+s(dp16
+g6
+I01
+sg7
+S'suffix'
+p17
+sg9
+I01
+s(dp18
+g6
+I01
+sg7
+S'decompositionBase'
+p19
+sg9
+I01
+stp20
+sS'public.glyphOrder'
+p21
+(S'A'
+S'Agrave'
+S'Aacute'
+S'Acircumflex'
+S'Atilde'
+S'Adieresis'
+S'Aring'
+S'Amacron'
+S'Abreve'
+S'Aogonek'
+S'uni0200'
+S'uni0202'
+S'B'
+S'C'
+S'Ccedilla'
+S'Cacute'
+S'Ccaron'
+S'D'
+S'E'
+S'Egrave'
+S'Eacute'
+S'Ecircumflex'
+S'Edieresis'
+S'Emacron'
+S'Eogonek'
+S'uni0204'
+S'uni0206'
+S'F'
+S'G'
+S'Gcommaaccent'
+S'H'
+S'I'
+S'Igrave'
+S'Iacute'
+S'Icircumflex'
+S'Idieresis'
+S'Itilde'
+S'Imacron'
+S'Iogonek'
+S'uni0208'
+S'uni020A'
+S'J'
+S'Jcircumflex'
+S'K'
+S'L'
+S'M'
+S'N'
+S'Ntilde'
+S'Nacute'
+S'O'
+S'Ograve'
+S'Oacute'
+S'Ocircumflex'
+S'Otilde'
+S'Odieresis'
+S'uni020C'
+S'uni020E'
+S'P'
+S'Q'
+S'R'
+S'Racute'
+S'Rcommaaccent'
+S'Rcaron'
+S'uni0210'
+S'uni0212'
+S'S'
+S'Sacute'
+S'Scaron'
+S'Scommaaccent'
+S'T'
+S'uni021A'
+S'U'
+S'Ugrave'
+S'Uacute'
+S'Ucircumflex'
+S'Udieresis'
+S'uni0214'
+S'uni0216'
+S'V'
+S'W'
+S'X'
+S'Y'
+S'Yacute'
+S'Ydieresis'
+S'Z'
+S'Zacute'
+S'Zdotaccent'
+S'Zcaron'
+S'AE'
+S'Eth'
+S'Oslash'
+S'Thorn'
+S'IJ'
+S'Ldot'
+S'Lslash'
+S'OE'
+S'J.alt'
+S'Delta'
+S'uni03A9'
+S'a'
+S'agrave'
+S'aacute'
+S'acircumflex'
+S'atilde'
+S'adieresis'
+S'aring'
+S'amacron'
+S'abreve'
+S'aogonek'
+S'uni0201'
+S'uni0203'
+S'b'
+S'c'
+S'ccedilla'
+S'cacute'
+S'ccaron'
+S'd'
+S'e'
+S'egrave'
+S'eacute'
+S'ecircumflex'
+S'edieresis'
+S'emacron'
+S'eogonek'
+S'uni0205'
+S'uni0207'
+S'f'
+S'g'
+S'gcommaaccent'
+S'h'
+S'i'
+S'igrave'
+S'iacute'
+S'icircumflex'
+S'idieresis'
+S'itilde'
+S'imacron'
+S'iogonek'
+S'uni0209'
+S'uni020B'
+S'j'
+S'jcircumflex'
+S'k'
+S'kcommaaccent'
+S'l'
+S'm'
+S'n'
+S'ntilde'
+S'nacute'
+S'o'
+S'ograve'
+S'oacute'
+S'ocircumflex'
+S'otilde'
+S'odieresis'
+S'uni020D'
+S'uni020F'
+S'p'
+S'q'
+S'r'
+S'rcommaaccent'
+S'rcaron'
+S'uni0211'
+S'uni0213'
+S's'
+S'sacute'
+S'scaron'
+S'scommaaccent'
+S't'
+S'uni021B'
+S'u'
+S'ugrave'
+S'uacute'
+S'ucircumflex'
+S'udieresis'
+S'uni0215'
+S'uni0217'
+S'v'
+S'w'
+S'x'
+S'y'
+S'yacute'
+S'ydieresis'
+S'z'
+S'zacute'
+S'zdotaccent'
+S'zcaron'
+S'ordfeminine'
+S'ordmasculine'
+S'germandbls'
+S'ae'
+S'eth'
+S'oslash'
+S'thorn'
+S'hbar'
+S'dotlessi'
+S'ij'
+S'kgreenlandic'
+S'ldot'
+S'lslash'
+S'oe'
+S'florin'
+S'uni0237'
+S'uniFB01'
+S'uniFB02'
+S'a.alt'
+S'e.alt'
+S'k.alt'
+S'n.alt'
+S's.alt'
+S'u.alt'
+S'mu'
+S'uni03BC'
+S'pi'
+S'circumflex'
+S'caron'
+S'uni0307'
+S'dblgravecmb'
+S'uni0311'
+S'commaaccentcomb'
+S'zero'
+S'one'
+S'two'
+S'three'
+S'four'
+S'five'
+S'six'
+S'seven'
+S'eight'
+S'nine'
+S'nine.alt'
+S'uni00B2'
+S'uni00B3'
+S'uni00B9'
+S'onequarter'
+S'onehalf'
+S'threequarters'
+S'uni2074'
+S'underscore'
+S'hyphen'
+S'endash'
+S'emdash'
+S'parenleft'
+S'bracketleft'
+S'braceleft'
+S'quotesinglbase'
+S'quotedblbase'
+S'parenright'
+S'bracketright'
+S'braceright'
+S'guillemotleft'
+S'quoteleft'
+S'quotedblleft'
+S'guilsinglleft'
+S'guillemotright'
+S'quoteright'
+S'quotedblright'
+S'guilsinglright'
+S'exclam'
+S'quotedbl'
+S'numbersign'
+S'percent'
+S'ampersand'
+S'quotesingle'
+S'asterisk'
+S'comma'
+S'period'
+S'slash'
+S'colon'
+S'semicolon'
+S'question'
+S'at'
+S'backslash'
+S'exclamdown'
+S'periodcentered'
+S'questiondown'
+S'dagger'
+S'daggerdbl'
+S'bullet'
+S'ellipsis'
+S'perthousand'
+S'plus'
+S'less'
+S'equal'
+S'greater'
+S'bar'
+S'asciitilde'
+S'logicalnot'
+S'plusminus'
+S'multiply'
+S'divide'
+S'fraction'
+S'partialdiff'
+S'product'
+S'summation'
+S'minus'
+S'radical'
+S'infinity'
+S'integral'
+S'approxequal'
+S'notequal'
+S'lessequal'
+S'greaterequal'
+S'dollar'
+S'cent'
+S'sterling'
+S'currency'
+S'yen'
+S'Euro'
+S'asciicircum'
+S'grave'
+S'dieresis'
+S'macron'
+S'acute'
+S'cedilla'
+S'breve'
+S'dotaccent'
+S'ring'
+S'ogonek'
+S'tilde'
+S'hungarumlaut'
+S'brokenbar'
+S'section'
+S'copyright'
+S'registered'
+S'degree'
+S'paragraph'
+S'trademark'
+S'lozenge'
+S'space'
+S'uni00A0'
+S'uni000D'
+S'.notdef'
+S'onesuperior'
+S'threesuperior'
+S'twosuperior'
+S'uniF6C3'
+tp22
+sS'com.typemytype.robofont.layerOrder'
+p23
+(ts."
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 57 19 7
+WidthSeparation: 210
+WinInfo: 0 16 4
 BeginPrivate: 4
 BlueValues 26 [-80 0 979 1086 1432 1467]
 OtherBlues 11 [-820 -750]
@@ -68,28 +472,40 @@ EndChar
 
 StartChar: A
 Encoding: 65 65 1
-Width: 1524
+Width: 1506
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-76 0 m 1
- 350 0 l 1
- 475 335 l 1
- 1043 335 l 1
- 1164 0 l 1
- 1449 0 l 1
- 887 1448 l 1
- 644 1448 l 1
- 76 0 l 1
-549 533 m 1
- 630 750 l 1
- 759 1121 l 1
- 893 750 l 1
- 971 533 l 1
- 549 533 l 1
+67 0 m 1
+ 341 0 l 1
+ 466 335 l 1
+ 1034 335 l 1
+ 1155 0 l 1
+ 1440 0 l 1
+ 878 1448 l 1
+ 635 1448 l 1
+ 67 0 l 1
+540 533 m 1
+ 621 750 l 1
+ 750 1121 l 1
+ 884 750 l 1
+ 962 533 l 1
+ 540 533 l 1
 EndSplineSet
 EndChar
 
@@ -133,6 +549,11 @@ Width: 1524
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 92 180 N 1 0 0 1 329 -444 2
@@ -145,6 +566,11 @@ Width: 1524
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 113 728 N 1 0 0 1 372 -470 2
@@ -157,6 +583,11 @@ Width: 1524
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 123 710 N 1 0 0 1 349 -442 2
@@ -169,6 +600,11 @@ Width: 1524
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 134 168 N 1 0 0 1 279 -450 2
@@ -181,6 +617,11 @@ Width: 1524
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 163 96 N 1 0 0 1 462 -470 2
@@ -193,6 +634,11 @@ Width: 1524
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 199 175 N 1 0 0 1 284 -450 2
@@ -205,6 +651,11 @@ Width: 1524
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 215 731 N 1 0 0 1 930 238 2
@@ -217,6 +668,11 @@ Width: 1524
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 253 730 N 1 0 0 1 354 -430 2
@@ -229,6 +685,11 @@ Width: 1524
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 271 732 N 1 0 0 1 357 -462 2
@@ -237,56 +698,80 @@ EndChar
 
 StartChar: B
 Encoding: 66 66 12
-Width: 2536
+Width: 1331
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-292 0 m 1
- 848 0 l 2
- 1262 0 1439 127 1439 420 c 0
- 1439 633 1348 740 1136 775 c 1
- 1305 823 1376 920 1376 1100 c 0
- 1376 1345 1198 1448 782 1448 c 2
- 292 1448 l 1
- 292 0 l 1
-551 201 m 1
- 551 657 l 1
- 826 657 l 2
- 1083 657 1193 590 1193 433 c 0
- 1193 268 1088 201 841 201 c 2
- 551 201 l 1
-551 841 m 1
- 551 1248 l 1
- 782 1248 l 2
- 1026 1248 1130 1195 1130 1062 c 0
- 1130 907 1030 841 796 841 c 2
- 551 841 l 1
+99 0 m 1
+ 655 0 l 2
+ 1069 0 1246 127 1246 420 c 0
+ 1246 633 1155 740 943 775 c 1
+ 1112 823 1183 920 1183 1100 c 0
+ 1183 1345 1005 1448 589 1448 c 2
+ 99 1448 l 1
+ 99 0 l 1
+358 201 m 1
+ 358 657 l 1
+ 633 657 l 2
+ 890 657 1000 590 1000 433 c 0
+ 1000 268 895 201 648 201 c 2
+ 358 201 l 1
+358 841 m 1
+ 358 1248 l 1
+ 589 1248 l 2
+ 833 1248 937 1195 937 1062 c 0
+ 937 907 837 841 603 841 c 2
+ 358 841 l 1
 EndSplineSet
 EndChar
 
 StartChar: C
 Encoding: 67 67 13
-Width: 1820
+Width: 1345
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-945 -26 m 0
- 1120 -26 1313 33 1422 122 c 1
- 1344 340 l 1
- 1245 261 1088 209 954 209 c 0
- 650 209 447 414 447 719 c 0
- 447 1032 651 1240 955 1240 c 0
- 1081 1240 1226 1189 1319 1114 c 1
- 1407 1324 l 1
- 1295 1414 1111 1474 946 1474 c 0
- 482 1474 175 1172 175 720 c 0
- 175 274 482 -26 945 -26 c 0
+822 -26 m 0
+ 997 -26 1190 33 1299 122 c 1
+ 1221 340 l 1
+ 1122 261 965 209 831 209 c 0
+ 527 209 324 414 324 719 c 0
+ 324 1032 528 1240 832 1240 c 0
+ 958 1240 1103 1189 1196 1114 c 1
+ 1284 1324 l 1
+ 1172 1414 988 1474 823 1474 c 0
+ 359 1474 52 1172 52 720 c 0
+ 52 274 359 -26 822 -26 c 0
 EndSplineSet
 EndChar
 
@@ -296,6 +781,11 @@ Width: 1820
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 92 180 N 1 0 0 1 502 -461 2
@@ -308,6 +798,11 @@ Width: 1820
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 118 711 N 1 0 0 1 510 -459 2
@@ -320,6 +815,11 @@ Width: 1820
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 121 184 N 1 0 0 1 617 215 2
@@ -328,25 +828,37 @@ EndChar
 
 StartChar: D
 Encoding: 68 68 17
-Width: 1635
+Width: 1494
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-452 211 m 1
- 452 1238 l 1
- 613 1238 l 2
- 1038 1238 1220 1088 1220 735 c 0
- 1220 368 1050 211 654 211 c 2
- 452 211 l 1
-186 0 m 1
- 638 0 l 2
- 1233 0 1488 221 1488 738 c 0
- 1488 1236 1216 1448 580 1448 c 2
- 186 1448 l 1
- 186 0 l 1
+368 211 m 1
+ 368 1238 l 1
+ 529 1238 l 2
+ 954 1238 1136 1088 1136 735 c 0
+ 1136 368 966 211 570 211 c 2
+ 368 211 l 1
+102 0 m 1
+ 554 0 l 2
+ 1149 0 1404 221 1404 738 c 0
+ 1404 1236 1132 1448 496 1448 c 2
+ 102 1448 l 1
+ 102 0 l 1
 EndSplineSet
 EndChar
 
@@ -377,26 +889,38 @@ EndChar
 
 StartChar: E
 Encoding: 69 69 19
-Width: 1262
+Width: 1149
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-186 0 m 1
- 1143 0 l 1
- 1143 211 l 1
- 445 211 l 1
- 445 642 l 1
- 1055 642 l 1
- 1055 838 l 1
- 445 838 l 1
- 445 1238 l 1
- 1093 1238 l 1
- 1093 1448 l 1
- 186 1448 l 1
- 186 0 l 1
+102 0 m 1
+ 1059 0 l 1
+ 1059 211 l 1
+ 361 211 l 1
+ 361 642 l 1
+ 971 642 l 1
+ 971 838 l 1
+ 361 838 l 1
+ 361 1238 l 1
+ 1009 1238 l 1
+ 1009 1448 l 1
+ 102 1448 l 1
+ 102 0 l 1
 EndSplineSet
 EndChar
 
@@ -406,6 +930,11 @@ Width: 1262
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 92 180 N 1 0 0 1 237 -444 2
@@ -418,6 +947,11 @@ Width: 1262
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 123 710 N 1 0 0 1 258 -442 2
@@ -430,6 +964,11 @@ Width: 1262
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 134 168 N 1 0 0 1 187 -450 2
@@ -442,6 +981,11 @@ Width: 1262
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 163 96 N 1 0 0 1 371 -470 2
@@ -454,6 +998,11 @@ Width: 1262
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 199 175 N 1 0 0 1 193 -450 2
@@ -466,6 +1015,11 @@ Width: 1262
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 215 731 N 1 0 0 1 441 229 2
@@ -478,6 +1032,11 @@ Width: 1635
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 173 45 N 1 0 0 1 -52 361 2
@@ -528,51 +1087,75 @@ EndChar
 
 StartChar: F
 Encoding: 70 70 28
-Width: 1209
+Width: 1084
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-186 0 m 1
- 445 0 l 1
- 445 664 l 1
- 1041 664 l 1
- 1041 861 l 1
- 445 861 l 1
- 445 1238 l 1
- 1074 1238 l 1
- 1074 1448 l 1
- 186 1448 l 1
- 186 0 l 1
+102 0 m 1
+ 361 0 l 1
+ 361 664 l 1
+ 957 664 l 1
+ 957 861 l 1
+ 361 861 l 1
+ 361 1238 l 1
+ 990 1238 l 1
+ 990 1448 l 1
+ 102 1448 l 1
+ 102 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: G
 Encoding: 71 71 29
-Width: 1642
+Width: 1510
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-937 -26 m 0
- 1124 -26 1335 12 1467 74 c 1
- 1467 773 l 1
- 906 773 l 1
- 906 595 l 1
- 1240 595 l 1
- 1240 238 l 1
- 1170 209 1055 191 950 191 c 0
- 633 191 421 391 421 701 c 0
- 421 1033 646 1256 982 1256 c 0
- 1101 1256 1255 1214 1371 1153 c 1
- 1453 1338 l 1
- 1320 1420 1120 1474 954 1474 c 0
- 471 1474 148 1159 148 687 c 0
- 148 256 463 -26 937 -26 c 0
+881 -26 m 0
+ 1068 -26 1279 12 1411 74 c 1
+ 1411 773 l 1
+ 850 773 l 1
+ 850 595 l 1
+ 1184 595 l 1
+ 1184 238 l 1
+ 1114 209 999 191 894 191 c 0
+ 577 191 365 391 365 701 c 0
+ 365 1033 590 1256 926 1256 c 0
+ 1045 1256 1199 1214 1315 1153 c 1
+ 1397 1338 l 1
+ 1264 1420 1064 1474 898 1474 c 0
+ 415 1474 92 1159 92 687 c 0
+ 92 256 407 -26 881 -26 c 0
 EndSplineSet
 EndChar
 
@@ -582,6 +1165,11 @@ Width: 1642
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 126 806 N 1 0 0 1 554 350 2
@@ -590,43 +1178,62 @@ EndChar
 
 StartChar: H
 Encoding: 72 72 31
-Width: 1621
+Width: 1459
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-186 0 m 1
- 445 0 l 1
- 445 635 l 1
- 1186 635 l 1
- 1186 0 l 1
- 1435 0 l 1
- 1435 1448 l 1
- 1186 1448 l 1
- 1186 850 l 1
- 445 850 l 1
- 445 1448 l 1
- 186 1448 l 1
- 186 0 l 1
+105 0 m 1
+ 364 0 l 1
+ 364 635 l 1
+ 1105 635 l 1
+ 1105 0 l 1
+ 1354 0 l 1
+ 1354 1448 l 1
+ 1105 1448 l 1
+ 1105 850 l 1
+ 364 850 l 1
+ 364 1448 l 1
+ 105 1448 l 1
+ 105 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: I
 Encoding: 73 73 32
-Width: 630
+Width: 469
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-186 0 m 1
- 445 0 l 1
- 445 1448 l 1
- 186 1448 l 1
- 186 0 l 1
+105 0 m 1
+ 364 0 l 1
+ 364 1448 l 1
+ 105 1448 l 1
+ 105 0 l 1
 EndSplineSet
 EndChar
 
@@ -636,6 +1243,11 @@ Width: 1920
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 41 74 N 1 0 0 1 630 0 2
@@ -648,6 +1260,11 @@ Width: 630
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 92 180 N 1 0 0 1 -116 -444 2
@@ -660,6 +1277,11 @@ Width: 630
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 123 710 N 1 0 0 1 -95 -442 2
@@ -672,6 +1294,11 @@ Width: 630
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 134 168 N 1 0 0 1 -166 -450 2
@@ -684,6 +1311,11 @@ Width: 630
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 163 96 N 1 0 0 1 17 -470 2
@@ -696,6 +1328,11 @@ Width: 630
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 199 175 N 1 0 0 1 -161 -450 2
@@ -708,6 +1345,11 @@ Width: 630
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 215 731 N 1 0 0 1 -19 229 2
@@ -720,6 +1362,11 @@ Width: 630
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 271 732 N 1 0 0 1 -88 -462 2
@@ -728,26 +1375,38 @@ EndChar
 
 StartChar: J
 Encoding: 74 74 41
-Width: 1290
+Width: 1135
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-83 -114 m 1
- 188 -178 304 -212 413 -212 c 0
- 649 -212 853 -55 853 293 c 2
- 853 1238 l 1
- 1123 1238 l 1
- 1123 1448 l 1
- 214 1448 l 1
- 214 1238 l 1
- 594 1238 l 1
- 594 292 l 2
- 594 109 518 22 390 22 c 0
- 325 22 245 45 155 90 c 1
- 83 -114 l 1
+43 -114 m 1
+ 148 -178 264 -212 373 -212 c 0
+ 609 -212 813 -55 813 293 c 2
+ 813 1238 l 1
+ 1083 1238 l 1
+ 1083 1448 l 1
+ 174 1448 l 1
+ 174 1238 l 1
+ 554 1238 l 1
+ 554 292 l 2
+ 554 109 478 22 350 22 c 0
+ 285 22 205 45 115 90 c 1
+ 43 -114 l 1
 EndSplineSet
 EndChar
 
@@ -779,6 +1438,11 @@ Width: 1290
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 123 710 N 1 0 0 1 268 -443 2
@@ -787,44 +1451,68 @@ EndChar
 
 StartChar: K
 Encoding: 75 75 44
-Width: 1339
+Width: 1287
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-186 0 m 1
- 445 0 l 1
- 445 681 l 1
- 1010 0 l 1
- 1341 0 l 1
- 698 773 l 1
- 1307 1448 l 1
- 996 1448 l 1
- 445 822 l 1
- 445 1448 l 1
- 186 1448 l 1
- 186 0 l 1
+87 0 m 1
+ 346 0 l 1
+ 346 681 l 1
+ 911 0 l 1
+ 1242 0 l 1
+ 599 773 l 1
+ 1208 1448 l 1
+ 897 1448 l 1
+ 346 822 l 1
+ 346 1448 l 1
+ 87 1448 l 1
+ 87 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: L
 Encoding: 76 76 45
-Width: 1124
+Width: 1101
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-186 0 m 1
- 1090 0 l 1
- 1090 211 l 1
- 445 211 l 1
- 445 1448 l 1
- 186 1448 l 1
- 186 0 l 1
+103 0 m 1
+ 1007 0 l 1
+ 1007 211 l 1
+ 362 211 l 1
+ 362 1448 l 1
+ 103 1448 l 1
+ 103 0 l 1
 EndSplineSet
 EndChar
 
@@ -834,6 +1522,11 @@ Width: 1124
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 231 183 N 1 0 0 1 0 0 2
@@ -869,56 +1562,80 @@ EndChar
 
 StartChar: M
 Encoding: 77 77 48
-Width: 1995
+Width: 1833
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-186 0 m 1
- 446 0 l 1
- 446 1094 l 1
- 552 875 l 1
- 938 229 l 1
- 1063 229 l 1
- 1452 863 l 1
- 1559 1077 l 1
- 1559 0 l 1
- 1809 0 l 1
- 1809 1448 l 1
- 1513 1448 l 1
- 1087 735 l 1
- 1003 569 l 1
- 917 733 l 1
- 494 1448 l 1
- 186 1448 l 1
- 186 0 l 1
+105 0 m 1
+ 365 0 l 1
+ 365 1094 l 1
+ 471 875 l 1
+ 857 229 l 1
+ 982 229 l 1
+ 1371 863 l 1
+ 1478 1077 l 1
+ 1478 0 l 1
+ 1728 0 l 1
+ 1728 1448 l 1
+ 1432 1448 l 1
+ 1006 735 l 1
+ 922 569 l 1
+ 836 733 l 1
+ 413 1448 l 1
+ 105 1448 l 1
+ 105 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: N
 Encoding: 78 78 49
-Width: 1687
+Width: 1526
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-186 0 m 1
- 417 0 l 1
- 417 1111 l 1
- 538 949 l 1
- 1234 0 l 1
- 1502 0 l 1
- 1502 1448 l 1
- 1271 1448 l 1
- 1271 313 l 1
- 1144 500 l 1
- 451 1448 l 1
- 186 1448 l 1
- 186 0 l 1
+105 0 m 1
+ 336 0 l 1
+ 336 1111 l 1
+ 457 949 l 1
+ 1153 0 l 1
+ 1421 0 l 1
+ 1421 1448 l 1
+ 1190 1448 l 1
+ 1190 313 l 1
+ 1063 500 l 1
+ 370 1448 l 1
+ 105 1448 l 1
+ 105 0 l 1
 EndSplineSet
 EndChar
 
@@ -928,6 +1645,11 @@ Width: 1687
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 92 180 N 1 0 0 1 412 -444 2
@@ -940,6 +1662,11 @@ Width: 1687
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 271 732 N 1 0 0 1 440 -462 2
@@ -948,23 +1675,37 @@ EndChar
 
 StartChar: O
 Encoding: 79 79 52
-Width: 1758
+Width: 1648
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.guides'
+p2
+(tsS'com.typemytype.robofont.layerData'
+p3
+(dp4
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-879 192 m 0
- 604 192 421 408 421 724 c 0
- 421 1046 604 1256 879 1256 c 0
- 1154 1256 1338 1046 1338 724 c 0
- 1338 408 1154 192 879 192 c 0
-879 -26 m 0
- 1318 -26 1611 276 1611 726 c 0
- 1611 1178 1318 1474 879 1474 c 0
- 440 1474 148 1178 148 726 c 0
- 148 276 440 -26 879 -26 c 0
+823 192 m 0
+ 548 192 365 408 365 724 c 0
+ 365 1046 548 1256 823 1256 c 0
+ 1098 1256 1282 1046 1282 724 c 0
+ 1282 408 1098 192 823 192 c 0
+823 -26 m 0
+ 1262 -26 1555 276 1555 726 c 0
+ 1555 1178 1262 1474 823 1474 c 0
+ 384 1474 92 1178 92 726 c 0
+ 92 276 384 -26 823 -26 c 0
 EndSplineSet
 EndChar
 
@@ -1014,6 +1755,11 @@ Width: 1758
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 92 180 N 1 0 0 1 445 -461 2
@@ -1026,6 +1772,11 @@ Width: 1758
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 123 710 N 1 0 0 1 466 -459 2
@@ -1038,6 +1789,11 @@ Width: 1758
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 134 168 N 1 0 0 1 396 -467 2
@@ -1050,6 +1806,11 @@ Width: 1758
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 163 96 N 1 0 0 1 579 -487 2
@@ -1097,6 +1858,11 @@ Width: 1758
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 271 732 N 1 0 0 1 474 -479 2
@@ -1105,76 +1871,112 @@ EndChar
 
 StartChar: P
 Encoding: 80 80 60
-Width: 1331
+Width: 1287
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-186 0 m 1
- 452 0 l 1
- 452 534 l 1
- 666 534 l 2
- 1096 534 1281 675 1281 1003 c 0
- 1281 1316 1090 1448 641 1448 c 2
- 186 1448 l 1
- 186 0 l 1
-452 737 m 1
- 452 1251 l 1
- 665 1251 l 2
- 908 1251 1013 1178 1013 1001 c 0
- 1013 815 915 737 685 737 c 2
- 452 737 l 1
+102 0 m 1
+ 368 0 l 1
+ 368 534 l 1
+ 582 534 l 2
+ 1012 534 1197 675 1197 1003 c 0
+ 1197 1316 1006 1448 557 1448 c 2
+ 102 1448 l 1
+ 102 0 l 1
+368 737 m 1
+ 368 1251 l 1
+ 581 1251 l 2
+ 824 1251 929 1178 929 1001 c 0
+ 929 815 831 737 601 737 c 2
+ 368 737 l 1
 EndSplineSet
 EndChar
 
 StartChar: Q
 Encoding: 81 81 61
-Width: 1758
+Width: 1649
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-1262 -425 m 1
- 1444 -268 l 1
- 1347 -177 1259 -74 1196 55 c 1
- 962 -18 l 1
- 1038 -180 1147 -309 1262 -425 c 1
+1207 -425 m 1
+ 1389 -268 l 1
+ 1292 -177 1204 -74 1141 55 c 1
+ 907 -18 l 1
+ 983 -180 1092 -309 1207 -425 c 1
 EndSplineSet
-Refer: 52 79 N 1 0 0 1 0 0 2
+Refer: 52 79 N 1 0 0 1 -55 0 2
 EndChar
 
 StartChar: R
 Encoding: 82 82 62
-Width: 1393
+Width: 1274
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-186 0 m 1
- 445 0 l 1
- 445 638 l 1
- 643 638 l 2
- 766 638 841 571 892 417 c 1
- 1034 0 l 1
- 1311 0 l 1
- 1168 408 l 2
- 1108 582 1032 672 914 711 c 1
- 1144 771 1243 878 1243 1069 c 0
- 1243 1335 1067 1448 657 1448 c 2
- 186 1448 l 1
- 186 0 l 1
-445 814 m 1
- 445 1251 l 1
- 680 1251 l 2
- 898 1251 992 1214 992 1054 c 0
- 992 887 895 814 670 814 c 2
- 445 814 l 1
+91 0 m 1
+ 350 0 l 1
+ 350 638 l 1
+ 548 638 l 2
+ 671 638 746 571 797 417 c 1
+ 939 0 l 1
+ 1216 0 l 1
+ 1073 408 l 2
+ 1013 582 937 672 819 711 c 1
+ 1049 771 1148 878 1148 1069 c 0
+ 1148 1335 972 1448 562 1448 c 2
+ 91 1448 l 1
+ 91 0 l 1
+350 814 m 1
+ 350 1251 l 1
+ 585 1251 l 2
+ 803 1251 897 1214 897 1054 c 0
+ 897 887 800 814 575 814 c 2
+ 350 814 l 1
 EndSplineSet
 EndChar
 
@@ -1184,6 +1986,11 @@ Width: 1393
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 92 180 N 1 0 0 1 244 -444 2
@@ -1196,6 +2003,11 @@ Width: 1393
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 118 711 N 1 0 0 1 252 -442 2
@@ -1208,6 +2020,11 @@ Width: 1393
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 126 806 N 1 0 0 1 350 367 2
@@ -1216,28 +2033,40 @@ EndChar
 
 StartChar: S
 Encoding: 83 83 66
-Width: 1292
+Width: 1141
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-710 -26 m 0
- 1046 -26 1196 164 1196 391 c 0
- 1196 594 1134 731 732 839 c 0
- 454 914 403 981 403 1070 c 0
- 403 1184 483 1270 695 1270 c 0
- 815 1270 955 1238 1081 1171 c 1
- 1146 1350 l 1
- 1014 1431 842 1474 680 1474 c 0
- 302 1474 165 1270 165 1053 c 0
- 165 880 244 753 579 657 c 1
- 937 552 966 496 966 395 c 0
- 966 259 856 186 691 186 c 0
- 559 186 388 233 212 331 c 1
- 173 121 l 1
- 312 33 525 -26 710 -26 c 0
+601 -26 m 0
+ 937 -26 1087 164 1087 391 c 0
+ 1087 594 1025 731 623 839 c 0
+ 345 914 294 981 294 1070 c 0
+ 294 1184 374 1270 586 1270 c 0
+ 706 1270 846 1238 972 1171 c 1
+ 1037 1350 l 1
+ 905 1431 733 1474 571 1474 c 0
+ 193 1474 56 1270 56 1053 c 0
+ 56 880 135 753 470 657 c 1
+ 828 552 857 496 857 395 c 0
+ 857 259 747 186 582 186 c 0
+ 450 186 279 233 103 331 c 1
+ 64 121 l 1
+ 203 33 416 -26 601 -26 c 0
 EndSplineSet
 EndChar
 
@@ -1247,6 +2076,11 @@ Width: 1292
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 92 180 N 1 0 0 1 249 -433 2
@@ -1259,6 +2093,11 @@ Width: 1292
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 118 711 N 1 0 0 1 257 -432 2
@@ -1271,6 +2110,11 @@ Width: 1292
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 126 806 N 1 0 0 1 299 350 2
@@ -1279,22 +2123,34 @@ EndChar
 
 StartChar: T
 Encoding: 84 84 70
-Width: 1224
+Width: 1311
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-483 0 m 1
- 741 0 l 1
- 741 1251 l 1
- 1168 1251 l 1
- 1168 1448 l 1
- 57 1448 l 1
- 57 1251 l 1
- 483 1251 l 1
- 483 0 l 1
+526 0 m 1
+ 784 0 l 1
+ 784 1251 l 1
+ 1211 1251 l 1
+ 1211 1448 l 1
+ 100 1448 l 1
+ 100 1251 l 1
+ 526 1251 l 1
+ 526 0 l 1
 EndSplineSet
 EndChar
 
@@ -1330,24 +2186,36 @@ EndChar
 
 StartChar: U
 Encoding: 85 85 72
-Width: 1591
+Width: 1462
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-808 -26 m 0
- 1178 -26 1423 205 1423 550 c 2
- 1423 1448 l 1
- 1165 1448 l 1
- 1165 537 l 2
- 1165 327 1023 188 807 188 c 0
- 579 188 427 330 427 544 c 2
- 427 1448 l 1
- 169 1448 l 1
- 169 539 l 2
- 169 200 424 -26 808 -26 c 0
+743 -26 m 0
+ 1113 -26 1358 205 1358 550 c 2
+ 1358 1448 l 1
+ 1100 1448 l 1
+ 1100 537 l 2
+ 1100 327 958 188 742 188 c 0
+ 514 188 362 330 362 544 c 2
+ 362 1448 l 1
+ 104 1448 l 1
+ 104 539 l 2
+ 104 200 359 -26 743 -26 c 0
 EndSplineSet
 EndChar
 
@@ -1357,6 +2225,11 @@ Width: 1591
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 92 180 N 1 0 0 1 368 -461 2
@@ -1369,6 +2242,11 @@ Width: 1591
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 123 710 N 1 0 0 1 389 -459 2
@@ -1381,6 +2259,11 @@ Width: 1591
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 134 168 N 1 0 0 1 318 -467 2
@@ -1393,6 +2276,11 @@ Width: 1591
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 163 96 N 1 0 0 1 501 -487 2
@@ -1401,100 +2289,148 @@ EndChar
 
 StartChar: V
 Encoding: 86 86 77
-Width: 1394
+Width: 1530
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-561 0 m 1
- 839 0 l 1
- 1391 1448 l 1
- 1107 1448 l 1
- 808 629 l 1
- 701 323 l 1
- 586 630 l 1
- 278 1448 l 1
- 3 1448 l 1
- 561 0 l 1
+629 0 m 1
+ 907 0 l 1
+ 1459 1448 l 1
+ 1175 1448 l 1
+ 876 629 l 1
+ 769 323 l 1
+ 654 630 l 1
+ 346 1448 l 1
+ 71 1448 l 1
+ 629 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: W
 Encoding: 87 87 78
-Width: 2221
+Width: 2275
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-1503 0 m 1
- 1724 0 l 1
- 2175 1448 l 1
- 1926 1448 l 1
- 1683 614 l 1
- 1611 386 l 1
- 1530 610 l 1
- 1207 1448 l 1
- 1028 1448 l 1
- 703 614 l 1
- 617 385 l 1
- 550 614 l 1
- 301 1448 l 1
- 46 1448 l 1
- 498 0 l 1
- 719 0 l 1
- 1112 1051 l 1
- 1503 0 l 1
+1530 0 m 1
+ 1751 0 l 1
+ 2202 1448 l 1
+ 1953 1448 l 1
+ 1710 614 l 1
+ 1638 386 l 1
+ 1557 610 l 1
+ 1234 1448 l 1
+ 1055 1448 l 1
+ 730 614 l 1
+ 644 385 l 1
+ 577 614 l 1
+ 328 1448 l 1
+ 73 1448 l 1
+ 525 0 l 1
+ 746 0 l 1
+ 1139 1051 l 1
+ 1530 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: X
 Encoding: 88 88 79
-Width: 1393
+Width: 1503
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
--7 0 m 1
- 267 0 l 1
- 697 561 l 1
- 1112 0 l 1
- 1383 0 l 1
- 860 717 l 1
- 1400 1448 l 1
- 1127 1448 l 1
- 723 905 l 1
- 326 1448 l 1
- 42 1448 l 1
- 560 748 l 1
- -7 0 l 1
+44 0 m 1
+ 318 0 l 1
+ 748 561 l 1
+ 1163 0 l 1
+ 1434 0 l 1
+ 911 717 l 1
+ 1451 1448 l 1
+ 1178 1448 l 1
+ 774 905 l 1
+ 377 1448 l 1
+ 93 1448 l 1
+ 611 748 l 1
+ 44 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: Y
 Encoding: 89 89 80
-Width: 1292
+Width: 1411
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-502 0 m 1
- 771 0 l 1
- 771 582 l 1
- 1282 1448 l 1
- 1023 1448 l 1
- 639 788 l 1
- 280 1448 l 1
- 10 1448 l 1
- 502 580 l 1
- 502 0 l 1
+562 0 m 1
+ 831 0 l 1
+ 831 582 l 1
+ 1342 1448 l 1
+ 1083 1448 l 1
+ 699 788 l 1
+ 340 1448 l 1
+ 70 1448 l 1
+ 562 580 l 1
+ 562 0 l 1
 EndSplineSet
 EndChar
 
@@ -1504,6 +2440,11 @@ Width: 1292
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 92 180 N 1 0 0 1 209 -444 2
@@ -1516,6 +2457,11 @@ Width: 1292
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 134 168 N 1 0 0 1 159 -450 2
@@ -1524,24 +2470,36 @@ EndChar
 
 StartChar: Z
 Encoding: 90 90 83
-Width: 1291
+Width: 1277
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-100 0 m 1
- 1182 0 l 1
- 1182 211 l 1
- 400 211 l 1
- 1190 1268 l 1
- 1190 1448 l 1
- 131 1448 l 1
- 131 1238 l 1
- 893 1238 l 1
- 100 198 l 1
- 100 0 l 1
+92 0 m 1
+ 1174 0 l 1
+ 1174 211 l 1
+ 392 211 l 1
+ 1182 1268 l 1
+ 1182 1448 l 1
+ 123 1448 l 1
+ 123 1238 l 1
+ 885 1238 l 1
+ 92 198 l 1
+ 92 0 l 1
 EndSplineSet
 EndChar
 
@@ -1551,6 +2509,11 @@ Width: 1291
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 92 180 N 1 0 0 1 255 -444 2
@@ -1563,6 +2526,11 @@ Width: 1291
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 118 711 N 1 0 0 1 262 -442 2
@@ -1575,6 +2543,11 @@ Width: 1291
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 137 729 N 1 0 0 1 267 -487 2
@@ -1583,28 +2556,40 @@ EndChar
 
 StartChar: a
 Encoding: 97 97 87
-Width: 1273
+Width: 1243
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-535 -22 m 0
- 675 -22 817 55 871 160 c 1
- 898 64 1017 -4 1164 -4 c 1
- 1243 198 l 1
- 1149 198 1075 255 1075 333 c 2
- 1075 906 l 1
- 979 963 814 1016 676 1016 c 0
- 335 1016 95 771 95 425 c 0
- 95 164 272 -22 535 -22 c 0
-554 174 m 0
- 431 174 343 282 343 434 c 0
- 343 659 476 820 663 820 c 0
- 721 820 792 806 833 784 c 1
- 833 419 l 2
- 833 276 718 174 554 174 c 0
+495 -22 m 0
+ 635 -22 777 55 831 160 c 1
+ 858 64 977 -4 1124 -4 c 1
+ 1203 198 l 1
+ 1109 198 1035 255 1035 333 c 2
+ 1035 906 l 1
+ 939 963 774 1016 636 1016 c 0
+ 295 1016 55 771 55 425 c 0
+ 55 164 232 -22 495 -22 c 0
+514 174 m 0
+ 391 174 303 282 303 434 c 0
+ 303 659 436 820 623 820 c 0
+ 681 820 752 806 793 784 c 1
+ 793 419 l 2
+ 793 276 678 174 514 174 c 0
 EndSplineSet
 EndChar
 
@@ -1640,6 +2625,11 @@ Width: 1273
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 92 180 N 1 0 0 1 198 -894 2
@@ -1652,6 +2642,11 @@ Width: 1273
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 113 728 N 1 0 0 1 241 -920 2
@@ -1664,6 +2659,11 @@ Width: 1273
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 123 710 N 1 0 0 1 218 -892 2
@@ -1693,6 +2693,11 @@ Width: 1273
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 134 168 N 1 0 0 1 148 -900 2
@@ -1750,6 +2755,11 @@ Width: 1273
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 163 96 N 1 0 0 1 331 -919 2
@@ -1762,6 +2772,11 @@ Width: 1273
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 199 175 N 1 0 0 1 153 -900 2
@@ -1770,51 +2785,58 @@ EndChar
 
 StartChar: ampersand
 Encoding: 38 38 97
-Width: 2900
+Width: 1854
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-844 -47 m 0
- 1117 -47 1297 66 1437 203 c 1
- 1542 102 1638 -4 1812 -30 c 1
- 1968 85 l 1
- 1919 96 1875 107 1838 118 c 1
- 1711 160 1634 229 1547 318 c 1
- 1678 485 1775 718 1785 998 c 1
- 1589 1022 l 1
- 1589 973 1585 924 1576 872 c 0
- 1549 710 1489 564 1411 452 c 1
- 924 949 l 1
- 1016 998 1107 1059 1174 1132 c 1
- 1231 1192 1284 1271 1284 1379 c 0
- 1284 1436 1272 1484 1246 1527 c 0
- 1175 1644 1031 1714 844 1714 c 0
- 610 1714 419 1606 419 1373 c 0
- 419 1332 425 1293 438 1259 c 0
- 480 1144 567 1066 648 985 c 1
- 538 926 424 858 341 773 c 0
- 265 696 203 599 203 456 c 0
- 203 377 217 305 250 243 c 0
- 348 57 562 -47 844 -47 c 0
-840 120 m 0
- 778 120 721 129 669 146 c 0
- 535 191 414 288 414 461 c 0
- 414 512 424 557 443 597 c 0
- 507 726 637 799 765 865 c 1
- 1035 599 l 2
- 1116 518 1203 425 1282 349 c 0
- 1297 334 1308 326 1310 326 c 1
- 1196 215 1064 120 840 120 c 0
-802 1062 m 1
- 775 1087 750 1110 728 1133 c 0
- 675 1191 622 1260 622 1367 c 0
- 622 1496 724 1557 853 1557 c 0
- 979 1557 1084 1495 1084 1367 c 0
- 1084 1334 1075 1304 1059 1275 c 0
- 1006 1179 902 1114 802 1062 c 1
+697 -47 m 0
+ 970 -47 1150 66 1290 203 c 1
+ 1395 102 1491 -4 1665 -30 c 1
+ 1821 85 l 1
+ 1772 96 1728 107 1691 118 c 1
+ 1564 160 1487 229 1400 318 c 1
+ 1531 485 1628 718 1638 998 c 1
+ 1442 1022 l 1
+ 1442 973 1438 924 1429 872 c 0
+ 1402 710 1342 564 1264 452 c 1
+ 777 949 l 1
+ 869 998 960 1059 1027 1132 c 1
+ 1084 1192 1137 1271 1137 1379 c 0
+ 1137 1436 1125 1484 1099 1527 c 0
+ 1028 1644 884 1714 697 1714 c 0
+ 463 1714 272 1606 272 1373 c 0
+ 272 1332 278 1293 291 1259 c 0
+ 333 1144 420 1066 501 985 c 1
+ 391 926 277 858 194 773 c 0
+ 118 696 56 599 56 456 c 0
+ 56 377 70 305 103 243 c 0
+ 201 57 415 -47 697 -47 c 0
+693 120 m 0
+ 631 120 574 129 522 146 c 0
+ 388 191 267 288 267 461 c 0
+ 267 512 277 557 296 597 c 0
+ 360 726 490 799 618 865 c 1
+ 888 599 l 2
+ 969 518 1056 425 1135 349 c 0
+ 1150 334 1161 326 1163 326 c 1
+ 1049 215 917 120 693 120 c 0
+655 1062 m 1
+ 628 1087 603 1110 581 1133 c 0
+ 528 1191 475 1260 475 1367 c 0
+ 475 1496 577 1557 706 1557 c 0
+ 832 1557 937 1495 937 1367 c 0
+ 937 1334 928 1304 912 1275 c 0
+ 859 1179 755 1114 655 1062 c 1
 EndSplineSet
 EndChar
 
@@ -1824,6 +2846,11 @@ Width: 1273
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 215 731 N 1 0 0 1 709 227 2
@@ -1873,6 +2900,11 @@ Width: 1273
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 253 730 N 1 0 0 1 224 -880 2
@@ -1928,29 +2960,36 @@ EndChar
 
 StartChar: asterisk
 Encoding: 42 42 103
-Width: 1875
+Width: 989
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-915 1298 m 1
- 1063 1384 l 1
- 827 1679 l 1
- 1136 1782 l 1
- 1060 1928 l 1
- 785 1786 l 1
- 785 2136 l 1
- 618 2136 l 1
- 633 2019 651 1898 666 1780 c 1
- 333 1925 l 1
- 308 1766 l 1
- 629 1675 l 1
- 404 1395 l 1
- 550 1307 l 1
- 730 1610 l 1
- 915 1298 l 1
+691 1298 m 1
+ 839 1384 l 1
+ 603 1679 l 1
+ 912 1782 l 1
+ 836 1928 l 1
+ 561 1786 l 1
+ 561 2136 l 1
+ 394 2136 l 1
+ 409 2019 427 1898 442 1780 c 1
+ 109 1925 l 1
+ 84 1766 l 1
+ 405 1675 l 1
+ 180 1395 l 1
+ 326 1307 l 1
+ 506 1610 l 1
+ 691 1298 l 1
 EndSplineSet
 EndChar
 
@@ -1998,6 +3037,11 @@ Width: 1273
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 271 732 N 1 0 0 1 226 -912 2
@@ -2006,27 +3050,39 @@ EndChar
 
 StartChar: b
 Encoding: 98 98 106
-Width: 1971
+Width: 1248
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-761 -22 m 0
- 1077 -22 1289 198 1289 528 c 0
- 1289 821 1109 1016 839 1016 c 0
- 689 1016 540 947 473 844 c 1
- 473 1550 l 1
- 229 1521 l 1
- 229 69 l 1
- 230 69 444 -22 761 -22 c 0
-744 174 m 0
- 585 174 473 206 473 206 c 1
- 473 607 l 1
- 547 734 676 820 790 820 c 0
- 940 820 1040 699 1040 524 c 0
- 1040 314 922 174 744 174 c 0
+632 -22 m 0
+ 948 -22 1160 198 1160 528 c 0
+ 1160 821 980 1016 710 1016 c 0
+ 560 1016 411 947 344 844 c 1
+ 344 1550 l 1
+ 100 1521 l 1
+ 100 69 l 1
+ 101 69 315 -22 632 -22 c 0
+615 174 m 0
+ 456 174 344 206 344 206 c 1
+ 344 607 l 1
+ 418 734 547 820 661 820 c 0
+ 811 820 911 699 911 524 c 0
+ 911 314 793 174 615 174 c 0
 EndSplineSet
 EndChar
 
@@ -2231,24 +3287,36 @@ EndChar
 
 StartChar: c
 Encoding: 99 99 116
-Width: 1645
+Width: 1050
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-718 -22 m 0
- 855 -22 1008 29 1103 104 c 1
- 1025 290 l 1
- 951 226 833 174 732 174 c 0
- 530 174 400 307 400 493 c 0
- 400 688 521 820 717 820 c 0
- 809 820 925 779 999 721 c 1
- 1070 894 l 1
- 974 966 828 1016 707 1016 c 0
- 373 1016 151 804 151 488 c 0
- 151 182 377 -22 718 -22 c 0
+620 -22 m 0
+ 757 -22 910 29 1005 104 c 1
+ 927 290 l 1
+ 853 226 735 174 634 174 c 0
+ 432 174 302 307 302 493 c 0
+ 302 688 423 820 619 820 c 0
+ 711 820 827 779 901 721 c 1
+ 972 894 l 1
+ 876 966 730 1016 609 1016 c 0
+ 275 1016 53 804 53 488 c 0
+ 53 182 279 -22 620 -22 c 0
 EndSplineSet
 EndChar
 
@@ -2258,6 +3326,11 @@ Width: 1645
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 116 99 N 1 0 0 1 0 0 2
@@ -2290,6 +3363,11 @@ Width: 1645
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 118 711 N 1 0 0 1 254 -892 2
@@ -2302,6 +3380,11 @@ Width: 1645
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 121 184 N 1 0 0 1 388 219 2
@@ -2388,23 +3471,30 @@ EndChar
 
 StartChar: colon
 Encoding: 58 58 124
-Width: 951
+Width: 465
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-280 -20 m 1
- 535 -20 l 1
- 535 227 l 1
- 280 227 l 1
- 280 -20 l 1
-280 980 m 1
- 535 980 l 1
- 535 1227 l 1
- 280 1227 l 1
- 280 980 l 1
+105 -20 m 1
+ 360 -20 l 1
+ 360 227 l 1
+ 105 227 l 1
+ 105 -20 l 1
+105 980 m 1
+ 360 980 l 1
+ 360 1227 l 1
+ 105 1227 l 1
+ 105 980 l 1
 EndSplineSet
 EndChar
 
@@ -2529,30 +3619,42 @@ EndChar
 
 StartChar: d
 Encoding: 100 100 129
-Width: 1956
+Width: 1226
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-639 -22 m 0
- 791 -22 918 45 971 145 c 1
- 981 101 1009 39 1043 -14 c 1
- 1275 29 l 1
- 1228 96 1199 241 1199 389 c 2
- 1199 1544 l 1
- 955 1531 l 1
- 955 929 l 1
- 884 982 780 1016 678 1016 c 0
- 362 1016 151 805 151 486 c 0
- 151 182 347 -22 639 -22 c 0
-660 174 m 0
- 504 174 400 301 400 492 c 0
- 400 689 519 820 696 820 c 0
- 800 820 907 778 955 714 c 1
- 955 518 l 2
- 955 313 833 174 660 174 c 0
+548 -22 m 0
+ 700 -22 827 45 880 145 c 1
+ 890 101 918 39 952 -14 c 1
+ 1184 29 l 1
+ 1137 96 1108 241 1108 389 c 2
+ 1108 1544 l 1
+ 864 1531 l 1
+ 864 929 l 1
+ 793 982 689 1016 587 1016 c 0
+ 271 1016 60 805 60 486 c 0
+ 60 182 256 -22 548 -22 c 0
+569 174 m 0
+ 413 174 309 301 309 492 c 0
+ 309 689 428 820 605 820 c 0
+ 709 820 816 778 864 714 c 1
+ 864 518 l 2
+ 864 313 742 174 569 174 c 0
 EndSplineSet
 EndChar
 
@@ -2717,45 +3819,52 @@ EndChar
 
 StartChar: dollar
 Encoding: 36 36 136
-Width: 2095
+Width: 1202
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-710 -303 m 1
- 855 -303 l 1
- 851 -114 l 1
- 918 -107 982 -95 1042 -73 c 0
- 1204 -14 1348 106 1348 322 c 0
- 1348 459 1299 541 1222 608 c 0
- 1123 694 995 747 851 803 c 1
- 853 1424 l 1
- 997 1420 1111 1380 1194 1306 c 1
- 1251 1456 l 1
- 1157 1536 1017 1585 852 1588 c 1
- 848 1748 l 1
- 703 1748 l 1
- 708 1587 l 1
- 575 1577 462 1516 384 1443 c 0
- 309 1372 242 1266 242 1128 c 0
- 242 1063 255 1007 279 961 c 0
- 363 806 539 736 708 660 c 1
- 703 48 l 1
- 574 54 463 103 375 161 c 1
- 318 3 l 1
- 422 -72 542 -117 705 -120 c 1
- 710 -303 l 1
-848 52 m 1
- 853 610 l 1
- 979 556 1139 494 1139 319 c 0
- 1139 281 1130 247 1115 216 c 0
- 1069 125 970 69 848 52 c 1
-705 859 m 1
- 579 906 464 971 464 1143 c 0
- 464 1300 567 1399 708 1417 c 1
- 705 859 l 1
+516 -303 m 1
+ 661 -303 l 1
+ 657 -114 l 1
+ 724 -107 788 -95 848 -73 c 0
+ 1010 -14 1154 106 1154 322 c 0
+ 1154 459 1105 541 1028 608 c 0
+ 929 694 801 747 657 803 c 1
+ 659 1424 l 1
+ 803 1420 917 1380 1000 1306 c 1
+ 1057 1456 l 1
+ 963 1536 823 1585 658 1588 c 1
+ 654 1748 l 1
+ 509 1748 l 1
+ 514 1587 l 1
+ 381 1577 268 1516 190 1443 c 0
+ 115 1372 48 1266 48 1128 c 0
+ 48 1063 61 1007 85 961 c 0
+ 169 806 345 736 514 660 c 1
+ 509 48 l 1
+ 380 54 269 103 181 161 c 1
+ 124 3 l 1
+ 228 -72 348 -117 511 -120 c 1
+ 516 -303 l 1
+654 52 m 1
+ 659 610 l 1
+ 785 556 945 494 945 319 c 0
+ 945 281 936 247 921 216 c 0
+ 875 125 776 69 654 52 c 1
+511 859 m 1
+ 385 906 270 971 270 1143 c 0
+ 270 1300 373 1399 514 1417 c 1
+ 511 859 l 1
 EndSplineSet
 EndChar
 
@@ -2799,27 +3908,39 @@ EndChar
 
 StartChar: e
 Encoding: 101 101 139
-Width: 1732
+Width: 1094
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-707 -22 m 0
- 859 -22 1035 43 1148 142 c 1
- 1060 312 l 1
- 972 227 832 174 711 174 c 0
- 577 174 459 241 419 347 c 1
- 823 349 1077 502 1077 729 c 0
- 1077 901 921 1016 691 1016 c 0
- 375 1016 151 791 151 499 c 0
- 151 185 373 -22 707 -22 c 0
-395 518 m 1
- 395 527 l 1
- 400 709 538 831 697 831 c 0
- 783 831 840 787 840 722 c 0
- 840 608 672 526 395 518 c 1
+611 -22 m 0
+ 763 -22 939 43 1052 142 c 1
+ 964 312 l 1
+ 876 227 736 174 615 174 c 0
+ 481 174 363 241 323 347 c 1
+ 727 349 981 502 981 729 c 0
+ 981 901 825 1016 595 1016 c 0
+ 279 1016 55 791 55 499 c 0
+ 55 185 277 -22 611 -22 c 0
+299 518 m 1
+ 299 527 l 1
+ 304 709 442 831 601 831 c 0
+ 687 831 744 787 744 722 c 0
+ 744 608 576 526 299 518 c 1
 EndSplineSet
 EndChar
 
@@ -2855,6 +3976,11 @@ Width: 1732
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 139 101 N 1 0 0 1 0 0 2
@@ -2867,6 +3993,11 @@ Width: 1732
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 139 101 N 1 0 0 1 0 0 2
@@ -2879,6 +4010,11 @@ Width: 1732
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 139 101 N 1 0 0 1 0 0 2
@@ -2891,6 +4027,11 @@ Width: 1732
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 163 96 N 1 0 0 1 394 -919 2
@@ -2899,39 +4040,51 @@ EndChar
 
 StartChar: eight
 Encoding: 56 56 145
-Width: 2106
+Width: 1160
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-675 6 m 0
- 813 6 934 46 1017 106 c 0
- 1100 165 1166 256 1166 394 c 0
- 1166 605 1030 720 851 772 c 1
- 1008 820 1132 921 1132 1114 c 0
- 1132 1171 1120 1221 1096 1266 c 0
- 1027 1398 875 1474 675 1474 c 0
- 611 1474 553 1465 496 1450 c 1
- 348 1406 218 1302 218 1114 c 0
- 218 921 340 820 497 772 c 1
- 319 720 183 605 183 394 c 0
- 183 331 197 275 224 227 c 0
- 301 89 463 6 675 6 c 0
-675 147 m 0
- 496 147 359 228 359 406 c 0
- 359 447 368 483 384 515 c 0
- 435 617 545 672 675 698 c 1
- 831 667 990 592 990 406 c 0
- 990 363 983 328 967 295 c 0
- 921 200 816 147 675 147 c 0
-675 844 m 1
- 518 873 390 940 390 1109 c 0
- 390 1146 397 1179 412 1207 c 0
- 456 1290 550 1339 675 1339 c 0
- 830 1339 960 1265 960 1109 c 0
- 960 940 831 873 675 844 c 1
+580 6 m 0
+ 718 6 839 46 922 106 c 0
+ 1005 165 1071 256 1071 394 c 0
+ 1071 605 935 720 756 772 c 1
+ 913 820 1037 921 1037 1114 c 0
+ 1037 1171 1025 1221 1001 1266 c 0
+ 932 1398 780 1474 580 1474 c 0
+ 516 1474 458 1465 401 1450 c 1
+ 253 1406 123 1302 123 1114 c 0
+ 123 921 245 820 402 772 c 1
+ 224 720 88 605 88 394 c 0
+ 88 331 102 275 129 227 c 0
+ 206 89 368 6 580 6 c 0
+580 147 m 0
+ 401 147 264 228 264 406 c 0
+ 264 447 273 483 289 515 c 0
+ 340 617 450 672 580 698 c 1
+ 736 667 895 592 895 406 c 0
+ 895 363 888 328 872 295 c 0
+ 826 200 721 147 580 147 c 0
+580 844 m 1
+ 423 873 295 940 295 1109 c 0
+ 295 1146 302 1179 317 1207 c 0
+ 361 1290 455 1339 580 1339 c 0
+ 735 1339 865 1265 865 1109 c 0
+ 865 940 736 873 580 844 c 1
 EndSplineSet
 EndChar
 
@@ -2968,6 +4121,11 @@ Width: 1732
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 199 175 N 1 0 0 1 216 -900 2
@@ -3014,6 +4172,11 @@ Width: 1732
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 215 731 N 1 0 0 1 643 298 2
@@ -3022,23 +4185,30 @@ EndChar
 
 StartChar: equal
 Encoding: 61 61 151
-Width: 2567
+Width: 1254
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-348 499 m 1
- 1391 499 l 1
- 1391 635 l 1
- 348 635 l 1
- 348 499 l 1
-347 902 m 1
- 1391 902 l 1
- 1391 1041 l 1
- 347 1041 l 1
- 347 902 l 1
+106 499 m 1
+ 1149 499 l 1
+ 1149 635 l 1
+ 106 635 l 1
+ 106 499 l 1
+105 902 m 1
+ 1149 902 l 1
+ 1149 1041 l 1
+ 105 1041 l 1
+ 105 902 l 1
 EndSplineSet
 EndChar
 
@@ -3083,23 +4253,30 @@ EndChar
 
 StartChar: exclam
 Encoding: 33 33 153
-Width: 1297
+Width: 525
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-529 0 m 0
- 633 0 710 74 710 175 c 0
- 710 277 634 351 530 351 c 0
- 426 351 349 278 349 178 c 0
- 349 75 424 0 529 0 c 0
-458 518 m 1
- 587 518 l 1
- 681 1704 l 1
- 367 1704 l 1
- 458 518 l 1
+264 0 m 0
+ 368 0 445 74 445 175 c 0
+ 445 277 369 351 265 351 c 0
+ 161 351 84 278 84 178 c 0
+ 84 75 159 0 264 0 c 0
+193 518 m 1
+ 322 518 l 1
+ 416 1704 l 1
+ 102 1704 l 1
+ 193 518 l 1
 EndSplineSet
 EndChar
 
@@ -3127,60 +4304,79 @@ EndChar
 
 StartChar: f
 Encoding: 102 102 155
-Width: 1176
+Width: 818
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-169 -453 m 1
- 449 -417 570 -273 570 -11 c 2
- 570 844 l 1
- 782 844 l 1
- 782 996 l 1
- 570 996 l 1
- 570 1100 l 2
- 570 1250 640 1302 744 1302 c 0
- 771 1302 800 1300 832 1291 c 1
- 856 1455 l 1
- 803 1476 745 1488 687 1488 c 0
- 503 1488 327 1374 327 1135 c 2
- 327 996 l 1
- 131 996 l 1
- 131 844 l 1
- 327 844 l 1
- 327 -4 l 2
- 327 -140 274 -212 148 -241 c 1
- 169 -453 l 1
+88 -453 m 1
+ 368 -417 489 -273 489 -11 c 2
+ 489 844 l 1
+ 701 844 l 1
+ 701 996 l 1
+ 489 996 l 1
+ 489 1100 l 2
+ 489 1250 559 1302 663 1302 c 0
+ 690 1302 719 1300 751 1291 c 1
+ 775 1455 l 1
+ 722 1476 664 1488 606 1488 c 0
+ 422 1488 246 1374 246 1135 c 2
+ 246 996 l 1
+ 50 996 l 1
+ 50 844 l 1
+ 246 844 l 1
+ 246 -4 l 2
+ 246 -140 193 -212 67 -241 c 1
+ 88 -453 l 1
 EndSplineSet
 EndChar
 
 StartChar: five
 Encoding: 53 53 156
-Width: 2095
+Width: 1049
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-259 158 m 1
- 371.996515512 25.9212914705 533.851701355 -33.4993944194 692.184492423 -31.9430351879 c 0
- 957.019643178 -29.3397928089 1212 143.862219095 1212 433 c 0
- 1212 773.190251231 995.240424281 927.849001212 790.77230586 929.34215678 c 0
- 693.518093686 930.052368571 599.044676781 896.11069572 532 831 c 1
- 547 1205 l 1
- 1103 1205 l 1
- 1103 1404 l 1
- 315 1404 l 1
- 315 624 l 1
- 490 624 l 1
- 563.599321157 697.98066479 650.722978187 734.15135832 730.353100734 733.066641815 c 0
- 859.537589655 731.306898857 969 631.495411992 969 436 c 0
- 969 305.098073006 849.665863394 186.396441128 686.094353574 187.478868851 c 0
- 584.756393549 188.149468623 466.439190626 234.795733213 349 353 c 1
- 259 158 l 1
+45 158 m 1
+ 157.99609375 25.9208984375 319.8515625 -33.4990234375 478.184570312 -31.943359375 c 0
+ 743.01953125 -29.33984375 998 143.862304688 998 433 c 0
+ 998 773.190429688 781.240234375 927.848632812 576.772460938 929.341796875 c 0
+ 479.518554688 930.052734375 385.044921875 896.110351562 318 831 c 1
+ 333 1205 l 1
+ 889 1205 l 1
+ 889 1404 l 1
+ 101 1404 l 1
+ 101 624 l 1
+ 276 624 l 1
+ 349.599609375 697.98046875 436.72265625 734.151367188 516.353515625 733.06640625 c 0
+ 645.537109375 731.306640625 755 631.495117188 755 436 c 0
+ 755 305.09765625 635.666015625 186.396484375 472.094726562 187.478515625 c 0
+ 370.756835938 188.149414062 252.439453125 234.795898438 135 353 c 1
+ 45 158 l 1
 EndSplineSet
 EndChar
 
@@ -3220,30 +4416,37 @@ EndChar
 
 StartChar: four
 Encoding: 52 52 158
-Width: 2094
+Width: 1306
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-711 0 m 1
- 970 0 l 1
- 970 322 l 1
- 1155 322 l 1
- 1155 520 l 1
- 970 520 l 1
- 970 1413 l 1
- 686 1413 l 1
- 44 513 l 1
- 44 322 l 1
- 711 322 l 1
- 711 0 l 1
-304 520 m 1
- 605 951 l 1
- 711 1126 l 1
- 711 520 l 1
- 304 520 l 1
+765 0 m 1
+ 1024 0 l 1
+ 1024 322 l 1
+ 1209 322 l 1
+ 1209 520 l 1
+ 1024 520 l 1
+ 1024 1413 l 1
+ 740 1413 l 1
+ 98 513 l 1
+ 98 322 l 1
+ 765 322 l 1
+ 765 0 l 1
+358 520 m 1
+ 659 951 l 1
+ 765 1126 l 1
+ 765 520 l 1
+ 358 520 l 1
 EndSplineSet
 EndChar
 
@@ -3266,31 +4469,43 @@ EndChar
 
 StartChar: g
 Encoding: 103 103 160
-Width: 1798
+Width: 1169
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-569 -543 m 0
- 906 -543 1132 -329 1132 -7 c 2
- 1132 906 l 1
- 1036 963 871 1016 733 1016 c 0
- 392 1016 151 770 151 424 c 0
- 151 163 329 -22 592 -22 c 0
- 698 -22 806 23 875 90 c 1
- 875 -15 l 2
- 875 -202 735 -328 525 -328 c 0
- 436 -328 324 -300 243 -260 c 1
- 196 -460 l 1
- 298 -511 448 -543 569 -543 c 0
-611 174 m 0
- 488 174 400 282 400 434 c 0
- 400 659 533 820 720 820 c 0
- 778 820 849 809 890 787 c 1
- 890 419 l 2
- 890 276 775 174 611 174 c 0
+508 -543 m 0
+ 845 -543 1071 -329 1071 -7 c 2
+ 1071 906 l 1
+ 975 963 810 1016 672 1016 c 0
+ 331 1016 90 770 90 424 c 0
+ 90 163 268 -22 531 -22 c 0
+ 637 -22 745 23 814 90 c 1
+ 814 -15 l 2
+ 814 -202 674 -328 464 -328 c 0
+ 375 -328 263 -300 182 -260 c 1
+ 135 -460 l 1
+ 237 -511 387 -543 508 -543 c 0
+550 174 m 0
+ 427 174 339 282 339 434 c 0
+ 339 659 472 820 659 820 c 0
+ 717 820 788 809 829 787 c 1
+ 829 419 l 2
+ 829 276 714 174 550 174 c 0
 EndSplineSet
 EndChar
 
@@ -3300,6 +4515,11 @@ Width: 1798
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 160 103 N 1 0 0 1 0 0 2
@@ -3366,21 +4586,28 @@ EndChar
 
 StartChar: greater
 Encoding: 62 62 164
-Width: 2567
+Width: 1108
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-378 102 m 1
- 1384 547 l 1
- 1384 636 l 1
- 384 1118 l 1
- 384 966 l 1
- 1164 597 l 1
- 378 255 l 1
- 378 102 l 1
+54 102 m 1
+ 1060 547 l 1
+ 1060 636 l 1
+ 60 1118 l 1
+ 60 966 l 1
+ 840 597 l 1
+ 54 255 l 1
+ 54 102 l 1
 EndSplineSet
 EndChar
 
@@ -3501,28 +4728,40 @@ EndChar
 
 StartChar: h
 Encoding: 104 104 170
-Width: 1921
+Width: 1275
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-1262 -38 m 1
- 1287 154 l 1
- 1164 136 1155 195 1155 319 c 2
- 1155 572 l 2
- 1155 839 994 1016 752 1016 c 0
- 651 1016 538 977 452 904 c 1
- 452 1546 l 1
- 203 1514 l 1
- 203 3 l 1
- 452 3 l 1
- 452 661 l 1
- 523 746 625 804 710 804 c 0
- 831 804 913 702 913 549 c 2
- 913 225 l 2
- 913 26 997 -90 1262 -38 c 1
+1179 -38 m 1
+ 1204 154 l 1
+ 1081 136 1072 195 1072 319 c 2
+ 1072 572 l 2
+ 1072 839 911 1016 669 1016 c 0
+ 568 1016 455 977 369 904 c 1
+ 369 1546 l 1
+ 120 1514 l 1
+ 120 3 l 1
+ 369 3 l 1
+ 369 661 l 1
+ 440 746 542 804 627 804 c 0
+ 748 804 830 702 830 549 c 2
+ 830 225 l 2
+ 830 26 914 -90 1179 -38 c 1
 EndSplineSet
 EndChar
 
@@ -3600,25 +4839,37 @@ EndChar
 
 StartChar: i
 Encoding: 105 105 174
-Width: 1118
+Width: 686
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-746 38 m 1
- 715 222 l 1
- 574 173 440 163 440 339 c 2
- 440 1003 l 1
- 196 1003 l 1
- 196 277 l 2
- 196 -22 516 -65 746 38 c 1
-322 1176 m 0
- 421 1176 491 1239 491 1330 c 0
- 491 1421 421 1486 324 1486 c 0
- 224 1486 155 1423 155 1331 c 0
- 155 1239 224 1176 322 1176 c 0
+641 38 m 1
+ 610 222 l 1
+ 469 173 335 163 335 339 c 2
+ 335 1003 l 1
+ 91 1003 l 1
+ 91 277 l 2
+ 91 -22 411 -65 641 38 c 1
+217 1176 m 0
+ 316 1176 386 1239 386 1330 c 0
+ 386 1421 316 1486 219 1486 c 0
+ 119 1486 50 1423 50 1331 c 0
+ 50 1239 119 1176 217 1176 c 0
 EndSplineSet
 EndChar
 
@@ -3676,6 +4927,11 @@ Width: 2067
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 185 106 N 1 0 0 1 1118 0 2
@@ -3792,27 +5048,39 @@ EndChar
 
 StartChar: j
 Encoding: 106 106 185
-Width: 949
+Width: 669
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-205 -498 m 0
- 445 -498 564 -351 564 -48 c 2
- 564 996 l 1
- 320 996 l 1
- 320 -55 l 2
- 320 -216 265 -294 163 -294 c 0
- 158 -294 121 -290 57 -281 c 1
- 24 -475 l 1
- 91 -490 150 -498 205 -498 c 0
-429 1169 m 0
- 529 1169 599 1233 599 1323 c 0
- 599 1416 529 1481 431 1481 c 0
- 332 1481 262 1416 262 1324 c 0
- 262 1234 332 1169 429 1169 c 0
+224 -498 m 0
+ 464 -498 583 -351 583 -48 c 2
+ 583 996 l 1
+ 339 996 l 1
+ 339 -55 l 2
+ 339 -216 284 -294 182 -294 c 0
+ 177 -294 140 -290 76 -281 c 1
+ 43 -475 l 1
+ 110 -490 169 -498 224 -498 c 0
+448 1169 m 0
+ 548 1169 618 1233 618 1323 c 0
+ 618 1416 548 1481 450 1481 c 0
+ 351 1481 281 1416 281 1324 c 0
+ 281 1234 351 1169 448 1169 c 0
 EndSplineSet
 EndChar
 
@@ -3830,27 +5098,39 @@ EndChar
 
 StartChar: k
 Encoding: 107 107 187
-Width: 2048
+Width: 1188
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-1140 -68 m 1
- 1255 126 l 1
- 1130 129 1075 178 980 288 c 2
- 808 487 l 1
- 1133 939 l 1
- 901 987 l 1
- 448 377 l 1
- 448 1533 l 1
- 206 1513 l 1
- 206 88 l 2
- 206 -41 352 -82 433 21 c 2
- 658 307 l 1
- 818 121 l 2
- 927 -7 1039 -68 1140 -68 c 1
+1021 -68 m 1
+ 1136 126 l 1
+ 1011 129 956 178 861 288 c 2
+ 689 487 l 1
+ 1014 939 l 1
+ 782 987 l 1
+ 329 377 l 1
+ 329 1533 l 1
+ 87 1513 l 1
+ 87 88 l 2
+ 87 -41 233 -82 314 21 c 2
+ 539 307 l 1
+ 699 121 l 2
+ 808 -7 920 -68 1021 -68 c 1
 EndSplineSet
 EndChar
 
@@ -3884,6 +5164,11 @@ Width: 2048
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 187 107 N 1 0 0 1 0 0 2
@@ -3916,22 +5201,34 @@ EndChar
 
 StartChar: l
 Encoding: 108 108 191
-Width: 1186
+Width: 692
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-573 -11 m 0
- 650 -11 733 4 820 28 c 1
- 795 218 l 1
- 748 203 672 191 627 191 c 0
- 531 191 473 241 473 353 c 2
- 473 1555 l 1
- 229 1526 l 1
- 229 301 l 2
- 229 83 373 -11 573 -11 c 0
+403 -11 m 0
+ 480 -11 563 4 650 28 c 1
+ 625 218 l 1
+ 578 203 502 191 457 191 c 0
+ 361 191 303 241 303 353 c 2
+ 303 1555 l 1
+ 59 1526 l 1
+ 59 301 l 2
+ 59 83 203 -11 403 -11 c 0
 EndSplineSet
 EndChar
 
@@ -3941,6 +5238,11 @@ Width: 1186
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 231 183 N 1 0 0 1 0 0 2
@@ -3949,21 +5251,28 @@ EndChar
 
 StartChar: less
 Encoding: 60 60 193
-Width: 2567
+Width: 1105
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-1385 84 m 1
- 1385 236 l 1
- 604 586 l 1
- 1389 947 l 1
- 1389 1098 l 1
- 386 629 l 1
- 386 542 l 1
- 1385 84 l 1
+1048 84 m 1
+ 1048 236 l 1
+ 267 586 l 1
+ 1052 947 l 1
+ 1052 1098 l 1
+ 49 629 l 1
+ 49 542 l 1
+ 1048 84 l 1
 EndSplineSet
 EndChar
 
@@ -4062,39 +5371,498 @@ EndChar
 
 StartChar: m
 Encoding: 109 109 198
-Width: 1975
+Width: 1913
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'm'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1975
+sS'contours'
+p10
+((dp11
+S'points'
+p12
+((dp13
+S'segmentType'
+p14
+S'line'
+p15
+sS'x'
+F1111
+sS'smooth'
+p16
+I00
+sS'y'
+F0
+s(dp17
+g14
+S'line'
+p18
+sS'x'
+F1111
+sg16
+I01
+sS'y'
+F572
+s(dp19
+S'y'
+F839
+sS'x'
+F1111
+sg16
+I00
+s(dp20
+S'y'
+F1016
+sS'x'
+F951
+sg16
+I00
+s(dp21
+g14
+S'curve'
+p22
+sS'x'
+F709
+sg16
+I01
+sS'y'
+F1016
+s(dp23
+S'y'
+F1016
+sS'x'
+F602
+sg16
+I00
+s(dp24
+S'y'
+F973
+sS'x'
+F483
+sg16
+I00
+s(dp25
+g14
+S'curve'
+p26
+sS'x'
+F395
+sg16
+I00
+sS'y'
+F893
+s(dp27
+S'y'
+F931
+sS'x'
+F378
+sg16
+I00
+s(dp28
+S'y'
+F966
+sS'x'
+F354
+sg16
+I00
+s(dp29
+g14
+S'curve'
+p30
+sS'x'
+F326
+sg16
+I00
+sS'y'
+F993
+s(dp31
+g14
+S'line'
+p32
+sS'x'
+F86
+sg16
+I00
+sS'y'
+F904
+s(dp33
+S'y'
+F828
+sS'x'
+F147
+sg16
+I00
+s(dp34
+S'y'
+F711
+sS'x'
+F187
+sg16
+I00
+s(dp35
+g14
+S'curve'
+p36
+sS'x'
+F187
+sg16
+I01
+sS'y'
+F610
+s(dp37
+g14
+S'line'
+p38
+sS'x'
+F187
+sg16
+I00
+sS'y'
+F0
+s(dp39
+g14
+S'line'
+p40
+sS'x'
+F436
+sg16
+I00
+sS'y'
+F0
+s(dp41
+g14
+S'line'
+p42
+sS'x'
+F436
+sg16
+I00
+sS'y'
+F630
+s(dp43
+g14
+S'line'
+p44
+sS'x'
+F431
+sg16
+I00
+sS'y'
+F686
+s(dp45
+S'y'
+F757
+sS'x'
+F500
+sg16
+I00
+s(dp46
+S'y'
+F804
+sS'x'
+F589
+sg16
+I00
+s(dp47
+g14
+S'curve'
+p48
+sS'x'
+F666
+sg16
+I01
+sS'y'
+F804
+s(dp49
+S'y'
+F804
+sS'x'
+F786
+sg16
+I00
+s(dp50
+S'y'
+F702
+sS'x'
+F869
+sg16
+I00
+s(dp51
+g14
+S'curve'
+p52
+sS'x'
+F869
+sg16
+I01
+sS'y'
+F549
+s(dp53
+g14
+S'line'
+p54
+sS'x'
+F869
+sg16
+I00
+sS'y'
+F0
+stp55
+s(dp56
+g12
+((dp57
+g14
+S'line'
+p58
+sS'x'
+F1101
+sg16
+I00
+sS'y'
+F686
+s(dp59
+S'y'
+F757
+sS'x'
+F1170
+sg16
+I00
+s(dp60
+S'y'
+F804
+sS'x'
+F1259
+sg16
+I00
+s(dp61
+g14
+S'curve'
+p62
+sS'x'
+F1336
+sg16
+I01
+sS'y'
+F804
+s(dp63
+S'y'
+F804
+sS'x'
+F1456
+sg16
+I00
+s(dp64
+S'y'
+F702
+sS'x'
+F1539
+sg16
+I00
+s(dp65
+g14
+S'curve'
+p66
+sS'x'
+F1539
+sg16
+I01
+sS'y'
+F549
+s(dp67
+g14
+S'line'
+p68
+sS'x'
+F1539
+sg16
+I01
+sS'y'
+F263
+s(dp69
+S'y'
+F64
+sS'x'
+F1539
+sg16
+I00
+s(dp70
+S'y'
+F-52
+sS'x'
+F1623
+sg16
+I00
+s(dp71
+g14
+S'curve'
+p72
+sS'x'
+F1889
+sg16
+I00
+sS'y'
+F0
+s(dp73
+g14
+S'line'
+p74
+sS'x'
+F1913
+sg16
+I00
+sS'y'
+F192
+s(dp75
+S'y'
+F174
+sS'x'
+F1790
+sg16
+I00
+s(dp76
+S'y'
+F233
+sS'x'
+F1781
+sg16
+I00
+s(dp77
+g14
+S'curve'
+p78
+sS'x'
+F1781
+sg16
+I01
+sS'y'
+F357
+s(dp79
+g14
+S'line'
+p80
+sS'x'
+F1781
+sg16
+I01
+sS'y'
+F572
+s(dp81
+S'y'
+F839
+sS'x'
+F1781
+sg16
+I00
+s(dp82
+S'y'
+F1016
+sS'x'
+F1621
+sg16
+I00
+s(dp83
+g14
+S'curve'
+p84
+sS'x'
+F1379
+sg16
+I01
+sS'y'
+F1016
+s(dp85
+S'y'
+F1016
+sS'x'
+F1272
+sg16
+I00
+s(dp86
+S'y'
+F974
+sS'x'
+F1152
+sg16
+I00
+s(dp87
+g14
+S'curve'
+p88
+sS'x'
+F1065
+sg16
+I01
+sS'y'
+F893
+s(dp89
+g14
+S'line'
+p90
+sS'x'
+F1013
+sg16
+I00
+sS'y'
+F845
+stp91
+stp92
+sS'components'
+p93
+(tsS'anchors'
+p94
+(tsss."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-1091 684 m 1
- 1160 755 1252 804 1329 804 c 0
- 1449 804 1532 702 1532 549 c 2
- 1532 263 l 2
- 1532 64 1616 -52 1882 0 c 1
- 1906 192 l 1
- 1783 174 1774 233 1774 357 c 2
- 1774 572 l 2
- 1774 839 1614 1016 1372 1016 c 0
- 1265 1016 1140 984 1006 845 c 1
- 1091 684 l 1
-1111 0 m 1
- 1111 572 l 2
- 1111 839 951 1016 709 1016 c 0
- 602 1016 483 973 395 893 c 1
- 378 931 354 966 326 993 c 1
- 86 904 l 1
- 147 828 187 711 187 610 c 2
- 187 0 l 1
- 436 0 l 1
- 436 630 l 1
- 431 686 l 1
- 500 757 589 804 666 804 c 0
- 786 804 869 702 869 549 c 2
- 869 0 l 1
- 1111 0 l 1
+1048 684 m 1
+ 1117 755 1209 804 1286 804 c 0
+ 1406 804 1489 702 1489 549 c 2
+ 1489 263 l 2
+ 1489 64 1573 -52 1839 0 c 1
+ 1863 192 l 1
+ 1740 174 1731 233 1731 357 c 2
+ 1731 572 l 2
+ 1731 839 1571 1016 1329 1016 c 0
+ 1222 1016 1097 984 963 845 c 1
+ 1048 684 l 1
+1068 0 m 1
+ 1068 572 l 2
+ 1068 839 908 1016 666 1016 c 0
+ 559 1016 440 973 352 893 c 1
+ 335 931 311 966 283 993 c 1
+ 43 904 l 1
+ 104 828 144 711 144 610 c 2
+ 144 0 l 1
+ 393 0 l 1
+ 393 630 l 1
+ 388 686 l 1
+ 457 757 546 804 623 804 c 0
+ 743 804 826 702 826 549 c 2
+ 826 0 l 1
+ 1068 0 l 1
 EndSplineSet
 EndChar
 
@@ -4159,30 +5927,42 @@ EndChar
 
 StartChar: n
 Encoding: 110 110 202
-Width: 1296
+Width: 1250
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-1219 0 m 1
- 1243 192 l 1
- 1120 174 1111 233 1111 357 c 2
- 1111 572 l 2
- 1111 839 951 1016 709 1016 c 0
- 602 1016 483 973 395 893 c 1
- 378 931 354 966 326 993 c 1
- 86 904 l 1
- 147 828 187 711 187 610 c 2
- 187 0 l 1
- 436 0 l 1
- 436 630 l 1
- 431 686 l 1
- 500 757 589 804 666 804 c 0
- 786 804 869 702 869 549 c 2
- 869 263 l 2
- 869 64 953 -52 1219 0 c 1
+1176 0 m 1
+ 1200 192 l 1
+ 1077 174 1068 233 1068 357 c 2
+ 1068 572 l 2
+ 1068 839 908 1016 666 1016 c 0
+ 559 1016 440 973 352 893 c 1
+ 335 931 311 966 283 993 c 1
+ 43 904 l 1
+ 104 828 144 711 144 610 c 2
+ 144 0 l 1
+ 393 0 l 1
+ 393 630 l 1
+ 388 686 l 1
+ 457 757 546 804 623 804 c 0
+ 743 804 826 702 826 549 c 2
+ 826 263 l 2
+ 826 64 910 -52 1176 0 c 1
 EndSplineSet
 EndChar
 
@@ -4224,6 +6004,11 @@ Width: 1296
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 202 110 N 1 0 0 1 0 0 2
@@ -4232,27 +6017,39 @@ EndChar
 
 StartChar: nine
 Encoding: 57 57 205
-Width: 2198
+Width: 1206
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-711 701 m 0
- 568 701 425 802 425 998 c 0
- 425 1180 565 1271 706 1271 c 0
- 848 1271 991 1178 991 996 c 0
- 991 799 850 701 711 701 c 0
-656 -132 m 1
- 1032 498 l 2
- 1115 636 1210 854 1210 979 c 0
- 1210 1308 953 1474 697 1474 c 0
- 442 1474 188 1313 188 984 c 0
- 188 718 394 506 674 506 c 0
- 732 506 758 510 770 516 c 1
- 449 -19 l 1
- 656 -132 l 1
+615 701 m 0
+ 472 701 329 802 329 998 c 0
+ 329 1180 469 1271 610 1271 c 0
+ 752 1271 895 1178 895 996 c 0
+ 895 799 754 701 615 701 c 0
+560 -132 m 1
+ 936 498 l 2
+ 1019 636 1114 854 1114 979 c 0
+ 1114 1308 857 1474 601 1474 c 0
+ 346 1474 92 1313 92 984 c 0
+ 92 718 298 506 578 506 c 0
+ 636 506 662 510 674 516 c 1
+ 353 -19 l 1
+ 560 -132 l 1
 EndSplineSet
 EndChar
 
@@ -4331,6 +6128,11 @@ Width: 1296
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 271 732 N 1 0 0 1 291 -925 2
@@ -4339,69 +6141,90 @@ EndChar
 
 StartChar: numbersign
 Encoding: 35 35 209
-Width: 2187
+Width: 1435
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-271 106 m 1
- 443 106 l 1
- 539 605 l 1
- 845 605 l 1
- 752 106 l 1
- 922 106 l 1
- 1019 605 l 1
- 1324 605 l 1
- 1341 752 l 1
- 1045 752 l 1
- 1105 1076 l 1
- 1398 1076 l 1
- 1415 1221 l 1
- 1132 1221 l 1
- 1224 1703 l 1
- 1052 1703 l 1
- 962 1221 l 1
- 656 1221 l 1
- 747 1703 l 1
- 575 1703 l 1
- 482 1221 l 1
- 166 1221 l 1
- 150 1076 l 1
- 457 1076 l 1
- 437 967 417 863 398 752 c 1
- 87 752 l 1
- 74 605 l 1
- 370 605 l 1
- 271 106 l 1
-565 752 m 1
- 629 1076 l 1
- 935 1076 l 1
- 875 752 l 1
- 565 752 l 1
+244 106 m 1
+ 416 106 l 1
+ 512 605 l 1
+ 818 605 l 1
+ 725 106 l 1
+ 895 106 l 1
+ 992 605 l 1
+ 1297 605 l 1
+ 1314 752 l 1
+ 1018 752 l 1
+ 1078 1076 l 1
+ 1371 1076 l 1
+ 1388 1221 l 1
+ 1105 1221 l 1
+ 1197 1703 l 1
+ 1025 1703 l 1
+ 935 1221 l 1
+ 629 1221 l 1
+ 720 1703 l 1
+ 548 1703 l 1
+ 455 1221 l 1
+ 139 1221 l 1
+ 123 1076 l 1
+ 430 1076 l 1
+ 410 967 390 863 371 752 c 1
+ 60 752 l 1
+ 47 605 l 1
+ 343 605 l 1
+ 244 106 l 1
+538 752 m 1
+ 602 1076 l 1
+ 908 1076 l 1
+ 848 752 l 1
+ 538 752 l 1
 EndSplineSet
 EndChar
 
 StartChar: o
 Encoding: 111 111 210
-Width: 1252
+Width: 1251
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.guides'
+p2
+(tsS'com.typemytype.robofont.layerData'
+p3
+(dp4
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-627 174 m 0
- 457 174 343 303 343 496 c 0
- 343 689 456 820 625 820 c 0
- 795 820 908 689 908 496 c 0
- 908 303 796 174 627 174 c 0
-625 -22 m 0
- 945 -22 1158 186 1158 497 c 0
- 1158 810 943 1016 624 1016 c 0
- 306 1016 95 808 95 496 c 0
- 95 185 307 -22 625 -22 c 0
+626 174 m 0
+ 456 174 342 303 342 496 c 0
+ 342 689 455 820 624 820 c 0
+ 794 820 907 689 907 496 c 0
+ 907 303 795 174 626 174 c 0
+624 -22 m 0
+ 944 -22 1157 186 1157 497 c 0
+ 1157 810 942 1016 623 1016 c 0
+ 305 1016 94 808 94 496 c 0
+ 94 185 306 -22 624 -22 c 0
 EndSplineSet
 EndChar
 
@@ -4411,6 +6234,11 @@ Width: 1252
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 210 111 N 1 0 0 1 0 0 2
@@ -4423,6 +6251,11 @@ Width: 1252
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 210 111 N 1 0 0 1 0 0 2
@@ -4435,6 +6268,11 @@ Width: 1252
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 210 111 N 1 0 0 1 0 0 2
@@ -4513,6 +6351,11 @@ Width: 1252
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 210 111 N 1 0 0 1 0 0 2
@@ -4521,21 +6364,28 @@ EndChar
 
 StartChar: one
 Encoding: 49 49 217
-Width: 2095
+Width: 742
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-728 0 m 1
- 996 0 l 1
- 996 1431 l 1
- 734 1429 l 1
- 667 1378 526 1295 410 1243 c 1
- 470 1072 l 1
- 576 1116 662 1163 728 1214 c 1
- 728 0 l 1
+383 0 m 1
+ 651 0 l 1
+ 651 1431 l 1
+ 389 1429 l 1
+ 322 1378 181 1295 65 1243 c 1
+ 125 1072 l 1
+ 231 1116 317 1163 383 1214 c 1
+ 383 0 l 1
 EndSplineSet
 EndChar
 
@@ -4697,6 +6547,11 @@ Width: 2180
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 SplineSet
@@ -4715,6 +6570,11 @@ Width: 1252
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 271 732 N 1 0 0 1 222 -912 2
@@ -4723,30 +6583,42 @@ EndChar
 
 StartChar: p
 Encoding: 112 112 224
-Width: 1944
+Width: 1257
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-142 -496 m 1
- 391 -496 l 1
- 393 67 l 1
- 470 15 594 -22 694 -22 c 0
- 993 -22 1205 198 1205 509 c 0
- 1205 822 999 1016 719 1016 c 0
- 594 1016 441 951 373 824 c 1
- 361 894 327 951 281 994 c 1
- 41 906 l 1
- 80 855 142 810 142 610 c 2
- 142 -496 l 1
-660 174 m 0
- 546 174 434 218 391 282 c 1
- 391 417 l 2
- 391 651 517 820 693 820 c 0
- 860 820 956 695 956 503 c 0
- 956 309 835 174 660 174 c 0
+140 -496 m 1
+ 389 -496 l 1
+ 391 67 l 1
+ 468 15 592 -22 692 -22 c 0
+ 991 -22 1203 198 1203 509 c 0
+ 1203 822 997 1016 717 1016 c 0
+ 592 1016 439 951 371 824 c 1
+ 359 894 325 951 279 994 c 1
+ 39 906 l 1
+ 78 855 140 810 140 610 c 2
+ 140 -496 l 1
+658 174 m 0
+ 544 174 432 218 389 282 c 1
+ 389 417 l 2
+ 389 651 515 820 691 820 c 0
+ 858 820 954 695 954 503 c 0
+ 954 309 833 174 658 174 c 0
 EndSplineSet
 EndChar
 
@@ -4778,39 +6650,53 @@ EndChar
 
 StartChar: parenleft
 Encoding: 40 40 226
-Width: 1105
+Width: 669
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-376 -316 m 1
- 639 -316 l 1
- 466 56 382 363 382 670 c 0
- 382 987 473 1303 651 1692 c 1
- 388 1692 l 1
- 180 1305 74 989 74 673 c 0
- 74 365 174 56 376 -316 c 1
+356 -316 m 1
+ 619 -316 l 1
+ 446 56 362 363 362 670 c 0
+ 362 987 453 1303 631 1692 c 1
+ 368 1692 l 1
+ 160 1305 54 989 54 673 c 0
+ 54 365 154 56 356 -316 c 1
 EndSplineSet
 EndChar
 
 StartChar: parenright
 Encoding: 41 41 227
-Width: 1105
+Width: 670
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-85 -316 m 1
- 348 -316 l 1
- 551 56 651 365 651 673 c 0
- 651 989 544 1305 337 1692 c 1
- 74 1692 l 1
- 251 1303 343 987 343 670 c 0
- 343 363 259 56 85 -316 c 1
+50 -316 m 1
+ 313 -316 l 1
+ 516 56 616 365 616 673 c 0
+ 616 989 509 1305 302 1692 c 1
+ 39 1692 l 1
+ 216 1303 308 987 308 670 c 0
+ 308 363 224 56 50 -316 c 1
 EndSplineSet
 EndChar
 
@@ -4854,46 +6740,53 @@ EndChar
 
 StartChar: percent
 Encoding: 37 37 229
-Width: 3495
+Width: 2024
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-710 789 m 0
- 774 789 831 802 883 825 c 0
- 1027 891 1128 1032 1128 1238 c 0
- 1128 1503 983 1683 716 1683 c 0
- 652 1683 593 1672 541 1649 c 0
- 396 1584 296 1440 296 1233 c 0
- 296 1171 305 1113 324 1059 c 0
- 376 904 504 789 710 789 c 0
-1800 -47 m 0
- 1864 -47 1922 -36 1974 -12 c 0
- 2118 53 2220 196 2220 402 c 0
- 2220 667 2074 847 1807 847 c 0
- 1743 847 1684 836 1632 812 c 0
- 1487 747 1387 603 1387 396 c 0
- 1387 333 1396 275 1415 222 c 0
- 1469 66 1594 -47 1800 -47 c 0
-714 922 m 0
- 540 922 465 1061 465 1235 c 0
- 465 1407 541 1551 715 1551 c 0
- 756 1551 794 1543 825 1527 c 0
- 914 1479 961 1377 961 1239 c 0
- 961 1068 885 922 714 922 c 0
-1803 85 m 0
- 1761 85 1723 93 1693 110 c 1
- 1602 158 1556 259 1556 396 c 0
- 1556 568 1632 715 1806 715 c 0
- 1977 715 2050 576 2050 403 c 0
- 2050 232 1976 85 1803 85 c 0
-615 -22 m 1
- 796 -22 l 1
- 1858 1670 l 1
- 1677 1670 l 1
- 615 -22 l 1
+464 789 m 0
+ 528 789 585 802 637 825 c 0
+ 781 891 882 1032 882 1238 c 0
+ 882 1503 737 1683 470 1683 c 0
+ 406 1683 347 1672 295 1649 c 0
+ 150 1584 50 1440 50 1233 c 0
+ 50 1171 59 1113 78 1059 c 0
+ 130 904 258 789 464 789 c 0
+1554 -47 m 0
+ 1618 -47 1676 -36 1728 -12 c 0
+ 1872 53 1974 196 1974 402 c 0
+ 1974 667 1828 847 1561 847 c 0
+ 1497 847 1438 836 1386 812 c 0
+ 1241 747 1141 603 1141 396 c 0
+ 1141 333 1150 275 1169 222 c 0
+ 1223 66 1348 -47 1554 -47 c 0
+468 922 m 0
+ 294 922 219 1061 219 1235 c 0
+ 219 1407 295 1551 469 1551 c 0
+ 510 1551 548 1543 579 1527 c 0
+ 668 1479 715 1377 715 1239 c 0
+ 715 1068 639 922 468 922 c 0
+1557 85 m 0
+ 1515 85 1477 93 1447 110 c 1
+ 1356 158 1310 259 1310 396 c 0
+ 1310 568 1386 715 1560 715 c 0
+ 1731 715 1804 576 1804 403 c 0
+ 1804 232 1730 85 1557 85 c 0
+369 -22 m 1
+ 550 -22 l 1
+ 1612 1670 l 1
+ 1431 1670 l 1
+ 369 -22 l 1
 EndSplineSet
 EndChar
 
@@ -5100,33 +6993,45 @@ EndChar
 
 StartChar: q
 Encoding: 113 113 237
-Width: 2002
+Width: 1515
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-1214 -629 m 2
- 1577 -439 l 1
- 1484 -250 l 1
- 1218 -384 l 1
- 1218 610 l 1
- 1218 952 l 1
- 1021 970 l 1
- 1008 903 l 1
- 1008 903 901 1016 666 1016 c 0
- 367 1016 155 795 155 485 c 0
- 155 171 362 -22 641 -22 c 0
- 740 -22 891 8 969 104 c 1
- 969 -496 l 2
- 969 -574 1047 -717 1214 -629 c 2
-667 175 m 0
- 500 175 404 299 404 491 c 0
- 404 685 526 820 701 820 c 0
- 815 820 926 776 969 712 c 1
- 969 531 l 2
- 969 277 843 175 667 175 c 0
+1114 -629 m 2
+ 1477 -439 l 1
+ 1384 -250 l 1
+ 1118 -384 l 1
+ 1118 610 l 1
+ 1118 952 l 1
+ 921 970 l 1
+ 908 903 l 1
+ 908 903 801 1016 566 1016 c 0
+ 267 1016 55 795 55 485 c 0
+ 55 171 262 -22 541 -22 c 0
+ 640 -22 791 8 869 104 c 1
+ 869 -496 l 2
+ 869 -574 947 -717 1114 -629 c 2
+567 175 m 0
+ 400 175 304 299 304 491 c 0
+ 304 685 426 820 601 820 c 0
+ 715 820 826 776 869 712 c 1
+ 869 531 l 2
+ 869 277 743 175 567 175 c 0
 EndSplineSet
 EndChar
 
@@ -5193,23 +7098,30 @@ EndChar
 
 StartChar: quotedbl
 Encoding: 34 34 240
-Width: 1268
+Width: 731
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-243 1742 m 1
- 396 1742 l 1
- 396 2284 l 1
- 200 2284 l 1
- 243 1742 l 1
-582 1742 m 1
- 734 1742 l 1
- 734 2284 l 1
- 540 2284 l 1
- 582 1742 l 1
+138 1742 m 1
+ 291 1742 l 1
+ 291 2284 l 1
+ 95 2284 l 1
+ 138 1742 l 1
+477 1742 m 1
+ 629 1742 l 1
+ 629 2284 l 1
+ 435 2284 l 1
+ 477 1742 l 1
 EndSplineSet
 EndChar
 
@@ -5332,42 +7244,56 @@ EndChar
 
 StartChar: quotesingle
 Encoding: 39 39 247
-Width: 976
+Width: 392
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-352 1742 m 1
- 505 1742 l 1
- 505 2284 l 1
- 310 2284 l 1
- 352 1742 l 1
+137 1742 m 1
+ 290 1742 l 1
+ 290 2284 l 1
+ 95 2284 l 1
+ 137 1742 l 1
 EndSplineSet
 EndChar
 
 StartChar: r
 Encoding: 114 114 248
-Width: 1223
+Width: 882
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-203 0 m 1
- 452 0 l 1
- 452 525 l 1
- 462 606 507 790 707 790 c 0
- 742 790 779 785 823 774 c 1
- 841 993 l 1
- 806 1002 771 1012 691 1012 c 0
- 583 1012 439 952 428 856 c 1
- 412 912 381 958 342 996 c 1
- 102 906 l 1
- 141 857 203 810 203 611 c 2
- 203 0 l 1
+164 0 m 1
+ 413 0 l 1
+ 413 525 l 1
+ 423 606 468 790 668 790 c 0
+ 703 790 740 785 784 774 c 1
+ 802 993 l 1
+ 767 1002 732 1012 652 1012 c 0
+ 544 1012 400 952 389 856 c 1
+ 373 912 342 958 303 996 c 1
+ 63 906 l 1
+ 102 857 164 810 164 611 c 2
+ 164 0 l 1
 EndSplineSet
 Kerns2: 210 -17 "pos_pair_kernlatn_0 subtable"  210 -17 "kernHorizontalKerninginLatinloo subtable"  210 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  210 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
 EndChar
@@ -5496,28 +7422,40 @@ EndChar
 
 StartChar: s
 Encoding: 115 115 254
-Width: 1597
+Width: 856
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-647 -22 m 0
- 894 -22 1011 107 1011 304 c 0
- 1011 469 926 534 694 605 c 1
- 550 648 502 679 502 737 c 0
- 502 799 540 832 637 832 c 0
- 722 832 831 805 923 759 c 1
- 965 939 l 1
- 894 979 746 1016 624 1016 c 0
- 342 1016 271 846 271 718 c 0
- 271 574 339 493 563 421 c 1
- 739 363 790 352 790 275 c 0
- 790 218 756 168 647 168 c 0
- 558 168 442 201 334 254 c 1
- 282 79 l 1
- 353 26 509 -22 647 -22 c 0
+436 -22 m 0
+ 683 -22 800 107 800 304 c 0
+ 800 469 715 534 483 605 c 1
+ 339 648 291 679 291 737 c 0
+ 291 799 329 832 426 832 c 0
+ 511 832 620 805 712 759 c 1
+ 754 939 l 1
+ 683 979 535 1016 413 1016 c 0
+ 131 1016 60 846 60 718 c 0
+ 60 574 128 493 352 421 c 1
+ 528 363 579 352 579 275 c 0
+ 579 218 545 168 436 168 c 0
+ 347 168 231 201 123 254 c 1
+ 71 79 l 1
+ 142 26 298 -22 436 -22 c 0
 EndSplineSet
 EndChar
 
@@ -5554,6 +7492,11 @@ Width: 1597
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 254 115 N 1 0 0 1 0 0 2
@@ -5566,6 +7509,11 @@ Width: 1597
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 254 115 N 1 0 0 1 0 0 2
@@ -5578,6 +7526,11 @@ Width: 1597
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 254 115 N 1 0 0 1 0 0 2
@@ -5630,99 +7583,134 @@ EndChar
 
 StartChar: semicolon
 Encoding: 59 59 260
-Width: 951
+Width: 441
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-176 -451 m 1
- 330 -451 l 1
- 521 93 l 1
- 301 93 l 1
- 176 -451 l 1
-246 837 m 1
- 501 837 l 1
- 501 1084 l 1
- 301 1084 l 1
- 246 837 l 1
+46 -451 m 1
+ 200 -451 l 1
+ 391 93 l 1
+ 171 93 l 1
+ 46 -451 l 1
+116 837 m 1
+ 371 837 l 1
+ 371 1084 l 1
+ 171 1084 l 1
+ 116 837 l 1
 EndSplineSet
 EndChar
 
 StartChar: seven
 Encoding: 55 55 261
-Width: 2106
+Width: 1164
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-373 0 m 1
- 645 0 l 1
- 1171 1232 l 1
- 1171 1413 l 1
- 206 1413 l 1
- 206 1214 l 1
- 906 1214 l 1
- 373 0 l 1
+267 0 m 1
+ 539 0 l 1
+ 1065 1232 l 1
+ 1065 1413 l 1
+ 100 1413 l 1
+ 100 1214 l 1
+ 800 1214 l 1
+ 267 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: six
 Encoding: 54 54 262
-Width: 2198
+Width: 1206
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-703 -35 m 0
- 958 -35 1210 127 1210 455 c 0
- 1210 722 1004 933 725 933 c 0
- 668 933 642 929 630 924 c 1
- 950 1458 l 1
- 743 1571 l 1
- 367 940 l 2
- 284 802 188 585 188 459 c 0
- 188 130 447 -35 703 -35 c 0
-692 168 m 0
- 550 168 408 260 408 442 c 0
- 408 640 548 736 688 736 c 0
- 831 736 974 636 974 440 c 0
- 974 259 833 168 692 168 c 0
-618 904 m 2
- 619 905 619 905 619 906 c 2
- 618 904 l 2
+607 -35 m 0
+ 862 -35 1114 127 1114 455 c 0
+ 1114 722 908 933 629 933 c 0
+ 572 933 546 929 534 924 c 1
+ 854 1458 l 1
+ 647 1571 l 1
+ 271 940 l 2
+ 188 802 92 585 92 459 c 0
+ 92 130 351 -35 607 -35 c 0
+596 168 m 0
+ 454 168 312 260 312 442 c 0
+ 312 640 452 736 592 736 c 0
+ 735 736 878 636 878 440 c 0
+ 878 259 737 168 596 168 c 0
+522 904 m 2
+ 523 905 523 905 523 906 c 2
+ 522 904 l 2
 EndSplineSet
 EndChar
 
 StartChar: slash
 Encoding: 47 47 263
-Width: 1262
+Width: 888
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
--83 -378 m 1
- 80 -378 l 1
- 717 1280 l 1
- 550 1280 l 1
- -83 -378 l 1
+43 -378 m 1
+ 206 -378 l 1
+ 843 1280 l 1
+ 676 1280 l 1
+ 43 -378 l 1
 EndSplineSet
 EndChar
 
 StartChar: space
 Encoding: 32 32 264
-Width: 581
+Width: 210
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar
 
 StartChar: sterling
@@ -5787,30 +7775,42 @@ EndChar
 
 StartChar: t
 Encoding: 116 116 267
-Width: 1500
+Width: 874
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-573 -16 m 0
- 650 -16 733 -1 820 23 c 1
- 795 213 l 1
- 749 198 673 186 627 186 c 0
- 531 186 475 236 475 348 c 2
- 475 820 l 1
- 752 820 l 1
- 752 996 l 1
- 475 996 l 1
- 475 1338 l 1
- 229 1309 l 1
- 229 996 l 1
- 42 996 l 1
- 42 820 l 1
- 229 820 l 1
- 229 296 l 2
- 229 78 375 -16 573 -16 c 0
+582 -16 m 0
+ 659 -16 742 -1 829 23 c 1
+ 804 213 l 1
+ 758 198 682 186 636 186 c 0
+ 540 186 484 236 484 348 c 2
+ 484 820 l 1
+ 761 820 l 1
+ 761 996 l 1
+ 484 996 l 1
+ 484 1338 l 1
+ 238 1309 l 1
+ 238 996 l 1
+ 51 996 l 1
+ 51 820 l 1
+ 238 820 l 1
+ 238 296 l 2
+ 238 78 384 -16 582 -16 c 0
 EndSplineSet
 EndChar
 
@@ -5846,31 +7846,43 @@ EndChar
 
 StartChar: three
 Encoding: 51 51 269
-Width: 2095
+Width: 1058
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-616 -25 m 0
- 865 -25 1105 111 1105 386 c 0
- 1105 637 938 732 859 758 c 1
- 933 794 1067 881 1067 1077 c 0
- 1067 1345 850 1474 613 1474 c 0
- 441 1474 258 1406 143 1272 c 1
- 280 1119 l 1
- 355 1210 475 1256 585 1256 c 0
- 713 1256 835 1194 835 1047 c 0
- 835 859 638 843 506 843 c 2
- 443 843 l 1
- 445 635 l 1
- 522 637 l 1
- 718 637 879 608 879 389 c 0
- 879 280 773 191 625 191 c 0
- 516 191 384 239 252 359 c 1
- 159 179 l 1
- 258 44 438 -25 616 -25 c 0
+517 -25 m 0
+ 766 -25 1006 111 1006 386 c 0
+ 1006 637 839 732 760 758 c 1
+ 834 794 968 881 968 1077 c 0
+ 968 1345 751 1474 514 1474 c 0
+ 342 1474 159 1406 44 1272 c 1
+ 181 1119 l 1
+ 256 1210 376 1256 486 1256 c 0
+ 614 1256 736 1194 736 1047 c 0
+ 736 859 539 843 407 843 c 2
+ 344 843 l 1
+ 346 635 l 1
+ 423 637 l 1
+ 619 637 780 608 780 389 c 0
+ 780 280 674 191 526 191 c 0
+ 417 191 285 239 153 359 c 1
+ 60 179 l 1
+ 159 44 339 -25 517 -25 c 0
 EndSplineSet
 EndChar
 
@@ -5987,55 +7999,79 @@ EndChar
 
 StartChar: two
 Encoding: 50 50 273
-Width: 2198
+Width: 1138
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-147 -6 m 1
- 1078 -6 l 1
- 1078 209 l 1
- 501 209 l 1
- 567 270 723 387 863 534 c 1
- 1002 682 1125 861 1125 1045 c 0
- 1125 1343 878 1474 624 1474 c 0
- 408 1474 189 1381 111 1203 c 1
- 277 1066 l 1
- 351 1192 488 1254 609 1254 c 0
- 735 1254 842 1188 842 1042 c 0
- 842 891 723 727 576 577 c 0
- 429 427 255 291 146 192 c 1
- 147 -6 l 1
+94 -6 m 1
+ 1025 -6 l 1
+ 1025 209 l 1
+ 448 209 l 1
+ 514 270 670 387 810 534 c 1
+ 949 682 1072 861 1072 1045 c 0
+ 1072 1343 825 1474 571 1474 c 0
+ 355 1474 136 1381 58 1203 c 1
+ 224 1066 l 1
+ 298 1192 435 1254 556 1254 c 0
+ 682 1254 789 1188 789 1042 c 0
+ 789 891 670 727 523 577 c 0
+ 376 427 202 291 93 192 c 1
+ 94 -6 l 1
 EndSplineSet
 EndChar
 
 StartChar: u
 Encoding: 117 117 274
-Width: 2252
+Width: 1207
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-761 -22 m 0
- 905 -22 1043 50 1110 158 c 1
- 1133 62 1260 -4 1422 -4 c 1
- 1457 211 l 1
- 1378 211 1326 270 1326 355 c 2
- 1326 996 l 1
- 1078 996 l 1
- 1078 473 l 2
- 1078 291 961 170 786 170 c 0
- 686 170 625 255 628 381 c 2
- 633 577 l 1
- 642 884 596 996 596 996 c 1
- 347 969 l 1
- 347 969 393 844 384 564 c 1
- 380 354 l 1
- 373 129 525 -22 761 -22 c 0
+465 -22 m 0
+ 609 -22 747 50 814 158 c 1
+ 837 62 964 -4 1126 -4 c 1
+ 1161 211 l 1
+ 1082 211 1030 270 1030 355 c 2
+ 1030 996 l 1
+ 782 996 l 1
+ 782 473 l 2
+ 782 291 665 170 490 170 c 0
+ 390 170 329 255 332 381 c 2
+ 337 577 l 1
+ 346 884 300 996 300 996 c 1
+ 51 969 l 1
+ 51 969 97 844 88 564 c 1
+ 84 354 l 1
+ 77 129 229 -22 465 -22 c 0
 EndSplineSet
 EndChar
 
@@ -6073,6 +8109,11 @@ Width: 2252
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 274 117 N 1 0 0 1 0 0 2
@@ -6085,6 +8126,11 @@ Width: 2252
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 274 117 N 1 0 0 1 0 0 2
@@ -6097,6 +8143,11 @@ Width: 2252
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 274 117 N 1 0 0 1 0 0 2
@@ -6109,6 +8160,11 @@ Width: 2252
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 274 117 N 1 0 0 1 0 0 2
@@ -6243,6 +8299,11 @@ Width: 1524
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 132 783 N 1 0 0 1 84 -445 2
@@ -6255,6 +8316,11 @@ Width: 1273
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 132 783 N 1 0 0 1 -46 -894 2
@@ -6267,6 +8333,11 @@ Width: 1524
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 314 785 N 1 0 0 1 372 -470 2
@@ -6279,6 +8350,11 @@ Width: 1273
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 314 785 N 1 0 0 1 241 -920 2
@@ -6291,6 +8367,11 @@ Width: 1262
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 132 783 N 1 0 0 1 -7 -445 2
@@ -6303,6 +8384,11 @@ Width: 1732
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 139 101 N 1 0 0 1 0 0 2
@@ -6315,6 +8401,11 @@ Width: 1262
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 314 785 N 1 0 0 1 280 -470 2
@@ -6327,6 +8418,11 @@ Width: 1732
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 314 785 N 1 0 0 1 304 -920 2
@@ -6339,6 +8435,11 @@ Width: 630
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 132 783 N 1 0 0 1 -360 -445 2
@@ -6351,6 +8452,11 @@ Width: 1118
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 174 105 N 1 0 0 1 0 0 2
@@ -6363,6 +8469,11 @@ Width: 630
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 314 785 N 1 0 0 1 -73 -470 2
@@ -6375,6 +8486,11 @@ Width: 1118
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 314 785 N 1 0 0 1 0 0 2
@@ -6387,6 +8503,11 @@ Width: 1758
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 132 783 N 1 0 0 1 201 -462 2
@@ -6399,6 +8520,11 @@ Width: 1252
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 210 111 N 1 0 0 1 0 0 2
@@ -6411,6 +8537,11 @@ Width: 1758
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 314 785 N 1 0 0 1 488 -488 2
@@ -6423,6 +8554,11 @@ Width: 1252
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 314 785 N 1 0 0 1 236 -920 2
@@ -6435,6 +8571,11 @@ Width: 1393
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 132 783 N 1 0 0 1 0 -445 2
@@ -6459,6 +8600,11 @@ Width: 1393
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 314 785 N 1 0 0 1 287 -470 2
@@ -6483,6 +8629,11 @@ Width: 1591
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 132 783 N 1 0 0 1 124 -462 2
@@ -6495,6 +8646,11 @@ Width: 2252
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 274 117 N 1 0 0 1 0 0 2
@@ -6572,6 +8728,11 @@ Width: 1224
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 126 806 N 1 0 0 1 244 367 2
@@ -6584,6 +8745,11 @@ Width: 1500
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 267 116 N 1 0 0 1 0 0 2
@@ -6837,111 +9003,144 @@ EndChar
 
 StartChar: v
 Encoding: 118 118 321
-Width: 1872
+Width: 1201
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-575 0 m 1
- 777 0 l 1
- 1196 996 l 1
- 947 996 l 1
- 728 484 l 2
- 716 456 704 424 673 325 c 1
- 658 377 638 438 617 484 c 2
- 393 996 l 1
- 139 996 l 1
- 575 0 l 1
+508 0 m 1
+ 710 0 l 1
+ 1129 996 l 1
+ 880 996 l 1
+ 661 484 l 2
+ 649 456 637 424 606 325 c 1
+ 591 377 571 438 550 484 c 2
+ 326 996 l 1
+ 72 996 l 1
+ 508 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: w
 Encoding: 119 119 322
-Width: 3055
+Width: 1782
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-697 0 m 1
- 900 0 l 1
- 1122 582 l 1
- 1354 0 l 1
- 1557 0 l 1
- 1937 996 l 1
- 1689 996 l 1
- 1508 484 l 1
- 1496 456 1483 424 1454 325 c 1
- 1438 377 1413 438 1397 484 c 1
- 1243 895 l 2
- 1193.69209879 1028.13133326 1041.49813651 1040.0163107 990 890 c 2
- 851 484 l 1
- 839 456 826 424 796 325 c 1
- 781 377 756 438 740 484 c 2
- 555 996 l 1
- 301 996 l 1
- 697 0 l 1
+469 0 m 1
+ 672 0 l 1
+ 894 582 l 1
+ 1126 0 l 1
+ 1329 0 l 1
+ 1709 996 l 1
+ 1461 996 l 1
+ 1280 484 l 1
+ 1268 456 1255 424 1226 325 c 1
+ 1210 377 1185 438 1169 484 c 1
+ 1015 895 l 2
+ 965.692382812 1028.13085938 813.498046875 1040.01660156 762 890 c 2
+ 623 484 l 1
+ 611 456 598 424 568 325 c 1
+ 553 377 528 438 512 484 c 2
+ 327 996 l 1
+ 73 996 l 1
+ 469 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: x
 Encoding: 120 120 323
-Width: 1914
+Width: 1236
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-32 0 m 1
- 298 0 l 1
- 572 345 l 1
- 835 0 l 1
- 1138 0 l 1
- 749 504 l 1
- 1121 996 l 1
- 842 996 l 1
- 612 681 l 1
- 369 996 l 1
- 77 996 l 1
- 440 519 l 1
- 32 0 l 1
+63 0 m 1
+ 329 0 l 1
+ 603 345 l 1
+ 866 0 l 1
+ 1169 0 l 1
+ 780 504 l 1
+ 1152 996 l 1
+ 873 996 l 1
+ 643 681 l 1
+ 400 996 l 1
+ 108 996 l 1
+ 471 519 l 1
+ 63 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: y
 Encoding: 121 121 324
-Width: 2156
+Width: 1153
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-819 -542 m 0
- 1112 -542 1369 -401 1370 -6 c 2
- 1371 355 l 1
- 1370 355 l 1
- 1370 996 l 1
- 1122 996 l 1
- 1122 473 l 1
- 1125 291 1005 170 830 170 c 0
- 732 170 668 255 672 381 c 1
- 676 577 l 1
- 686 884 640 996 640 996 c 1
- 392 969 l 1
- 392 969 439 844 429 564 c 1
- 424 355 l 2
- 418 130 569 -22 805 -22 c 0
- 930 -22 1053 33 1128 119 c 1
- 1125 -44 l 1
- 1125 -283 961 -325 775 -325 c 0
- 680 -325 579 -303 492 -259 c 1
- 446 -459 l 1
- 562 -513 693 -542 819 -542 c 0
+507 -542 m 0
+ 800 -542 1057 -401 1058 -6 c 2
+ 1059 355 l 1
+ 1058 355 l 1
+ 1058 996 l 1
+ 810 996 l 1
+ 810 473 l 1
+ 813 291 693 170 518 170 c 0
+ 420 170 356 255 360 381 c 1
+ 364 577 l 1
+ 374 884 328 996 328 996 c 1
+ 80 969 l 1
+ 80 969 127 844 117 564 c 1
+ 112 355 l 2
+ 106 130 257 -22 493 -22 c 0
+ 618 -22 741 33 816 119 c 1
+ 813 -44 l 1
+ 813 -283 649 -325 463 -325 c 0
+ 368 -325 267 -303 180 -259 c 1
+ 134 -459 l 1
+ 250 -513 381 -542 507 -542 c 0
 EndSplineSet
 EndChar
 
@@ -6951,6 +9150,11 @@ Width: 2156
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 324 121 N 1 0 0 1 0 0 2
@@ -6963,6 +9167,11 @@ Width: 2156
 VWidth: 0
 GlyphClass: 2
 Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
 Fore
 Refer: 324 121 N 1 0 0 1 0 0 2
@@ -7007,24 +9216,31 @@ EndChar
 
 StartChar: z
 Encoding: 122 122 328
-Width: 1722
+Width: 1011
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-269 0 m 1
- 1084 0 l 1
- 1084 185 l 1
- 566 185 l 1
- 1068 843 l 1
- 1068 996 l 1
- 295 996 l 1
- 295 825 l 1
- 777 825 l 1
- 269 155 l 1
- 269 0 l 1
+97 0 m 1
+ 912 0 l 1
+ 912 185 l 1
+ 394 185 l 1
+ 896 843 l 1
+ 896 996 l 1
+ 123 996 l 1
+ 123 825 l 1
+ 605 825 l 1
+ 97 155 l 1
+ 97 0 l 1
 EndSplineSet
 EndChar
 
@@ -7066,23 +9282,35 @@ EndChar
 
 StartChar: zero
 Encoding: 48 48 332
-Width: 2147
+Width: 1335
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+s."
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-630 224 m 0
- 450 224 331 429 331 735 c 0
- 331 1047 450 1255 630 1255 c 0
- 808 1255 925 1047 925 735 c 0
- 925 429 808 224 630 224 c 0
-630 6 m 0
- 975 6 1206 297 1206 735 c 0
- 1206 1179 975 1474 630 1474 c 0
- 288 1474 58 1179 58 735 c 0
- 58 297 288 6 630 6 c 0
+666 224 m 0
+ 486 224 367 429 367 735 c 0
+ 367 1047 486 1255 666 1255 c 0
+ 844 1255 961 1047 961 735 c 0
+ 961 429 844 224 666 224 c 0
+666 6 m 0
+ 1011 6 1242 297 1242 735 c 0
+ 1242 1179 1011 1474 666 1474 c 0
+ 324 1474 94 1179 94 735 c 0
+ 94 297 324 6 666 6 c 0
 EndSplineSet
 EndChar
 EndChars

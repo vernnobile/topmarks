@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cacute" format="1">
-  <advance width="1913"/>
+  <advance width="1645"/>
   <unicode hex="0107"/>
   <outline>
+    <component base="acute" xOffset="246" yOffset="-894"/>
     <component base="c"/>
-    <component base="acute" xOffset="286" yOffset="-1039"/>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
 </glyph>

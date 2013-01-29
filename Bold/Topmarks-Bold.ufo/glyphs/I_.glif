@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="733"/>
+  <advance width="469"/>
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="216" y="1685" type="line"/>
-      <point x="216" y="0" type="line"/>
-      <point x="517" y="0" type="line"/>
-      <point x="517" y="1685" type="line"/>
-    </contour>
-    <contour>
-      <point x="438" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="366" y="1685" type="move" name="top"/>
+      <point x="105" y="0" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="364" y="1448" type="line"/>
+      <point x="105" y="1448" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
 </glyph>

@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash" format="1">
-  <advance width="2535"/>
+  <advance width="2180"/>
   <unicode hex="00F8"/>
   <outline>
-    <contour>
-      <point x="408" y="-491" type="line"/>
-      <point x="543" y="-535" type="line"/>
-      <point x="1419" y="1522" type="line"/>
-      <point x="1278" y="1565" type="line"/>
-    </contour>
     <component base="o"/>
     <contour>
-      <point x="904" y="-178" type="move" name="top"/>
+      <point x="467" y="-460" type="line"/>
+      <point x="1220" y="1309" type="line"/>
+      <point x="1099" y="1346" type="line"/>
+      <point x="351" y="-422" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0202" format="1">
-  <advance width="1773"/>
+  <advance width="1524"/>
   <unicode hex="0202"/>
   <outline>
     <component base="A"/>
-    <component base="uni0311" xOffset="432" yOffset="-547"/>
+    <component base="uni0311" xOffset="372" yOffset="-470"/>
   </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
 </glyph>
