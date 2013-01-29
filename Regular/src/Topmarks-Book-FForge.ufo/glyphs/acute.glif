@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="1">
-  <advance width="302"/>
+  <advance width="607"/>
   <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="88" y="586" type="line"/>
-      <point x="152" y="586" type="line"/>
-      <point x="306" y="746" type="line"/>
-      <point x="200" y="746" type="line"/>
-    </contour>
-    <contour>
-      <point x="128" y="513" type="move" smooth="yes"/>
+      <point x="175" y="1172" type="line"/>
+      <point x="305" y="1172" type="line"/>
+      <point x="613" y="1492" type="line"/>
+      <point x="401" y="1492" type="line"/>
     </contour>
   </outline>
 </glyph>

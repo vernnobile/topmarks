@@ -1,46 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ntilde" format="1">
-  <advance width="801"/>
+  <advance width="1687"/>
   <unicode hex="00D1"/>
   <outline>
-    <contour>
-      <point x="616" y="728" type="line"/>
-      <point x="616" y="108" type="line"/>
-      <point x="576" y="171" type="line"/>
-      <point x="203" y="728" type="line"/>
-      <point x="100" y="728" type="line"/>
-      <point x="100" y="0" type="line"/>
-      <point x="186" y="0" type="line"/>
-      <point x="186" y="618" type="line"/>
-      <point x="222" y="556" type="line"/>
-      <point x="597" y="0" type="line"/>
-      <point x="701" y="0" type="line"/>
-      <point x="701" y="728" type="line"/>
-    </contour>
-    <contour>
-      <point x="508" y="932" type="line"/>
-      <point x="504" y="906"/>
-      <point x="490" y="888"/>
-      <point x="464" y="888" type="curve" smooth="yes"/>
-      <point x="454" y="888"/>
-      <point x="444" y="889"/>
-      <point x="434" y="893" type="curve" smooth="yes"/>
-      <point x="405" y="903"/>
-      <point x="377" y="922"/>
-      <point x="339" y="922" type="curve" smooth="yes"/>
-      <point x="277" y="922"/>
-      <point x="245" y="874"/>
-      <point x="240" y="816" type="curve"/>
-      <point x="292" y="816" type="line"/>
-      <point x="296" y="844"/>
-      <point x="311" y="859"/>
-      <point x="338" y="859" type="curve" smooth="yes"/>
-      <point x="386" y="859"/>
-      <point x="416" y="825"/>
-      <point x="464" y="825" type="curve" smooth="yes"/>
-      <point x="526" y="825"/>
-      <point x="556" y="876"/>
-      <point x="562" y="932" type="curve"/>
-    </contour>
+    <component base="N"/>
+    <component base="tilde" xOffset="440" yOffset="-462"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

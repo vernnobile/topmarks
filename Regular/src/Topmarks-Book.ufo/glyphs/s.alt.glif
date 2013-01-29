@@ -3,6 +3,7 @@
   <advance width="1001"/>
   <outline>
     <contour>
+      <point x="114" y="90" type="line"/>
       <point x="220" y="25"/>
       <point x="396" y="-26"/>
       <point x="552" y="-26" type="curve" smooth="yes"/>
@@ -40,13 +41,13 @@
       <point x="396" y="112"/>
       <point x="236" y="170"/>
       <point x="161" y="227" type="curve"/>
-      <point x="114" y="90" type="line"/>
-    </contour>
-    <contour>
-      <point x="501" y="0" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="501" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

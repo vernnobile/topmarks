@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecmb" format="1">
+  <advance width="1982"/>
+  <unicode hex="030F"/>
+  <outline>
+    <contour>
+      <point x="332" y="2831" type="line"/>
+      <point x="709" y="2404" type="line"/>
+      <point x="873" y="2404" type="line"/>
+      <point x="572" y="2831" type="line"/>
+    </contour>
+    <contour>
+      <point x="701" y="2831" type="line"/>
+      <point x="1076" y="2404" type="line"/>
+      <point x="1237" y="2404" type="line"/>
+      <point x="941" y="2831" type="line"/>
+    </contour>
+    <contour>
+      <point x="785" y="2202" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

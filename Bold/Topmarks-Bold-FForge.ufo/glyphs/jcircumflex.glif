@@ -1,37 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jcircumflex" format="1">
-  <advance width="251"/>
+  <advance width="885"/>
   <unicode hex="0135"/>
   <outline>
-    <contour>
-      <point x="88" y="513" type="line"/>
-      <point x="88" y="16" type="line" smooth="yes"/>
-      <point x="88" y="-72"/>
-      <point x="69" y="-142"/>
-      <point x="-9" y="-142" type="curve" smooth="yes"/>
-      <point x="-24" y="-142"/>
-      <point x="-36" y="-138"/>
-      <point x="-51" y="-136" type="curve"/>
-      <point x="-50" y="-208" type="line"/>
-      <point x="-31" y="-212"/>
-      <point x="-12" y="-214"/>
-      <point x="10" y="-214" type="curve" smooth="yes"/>
-      <point x="33" y="-214"/>
-      <point x="53" y="-212"/>
-      <point x="70" y="-204" type="curve" smooth="yes"/>
-      <point x="148" y="-170"/>
-      <point x="170" y="-76"/>
-      <point x="170" y="36" type="curve" smooth="yes"/>
-      <point x="170" y="513" type="line"/>
-    </contour>
-    <contour>
-      <point x="89" y="748" type="line"/>
-      <point x="-25" y="586" type="line"/>
-      <point x="38" y="586" type="line"/>
-      <point x="127" y="694" type="line"/>
-      <point x="216" y="586" type="line"/>
-      <point x="282" y="586" type="line"/>
-      <point x="168" y="748" type="line"/>
-    </contour>
+    <component base="circumflex" xOffset="-175" yOffset="-2143"/>
+    <component base="uni0237"/>
   </outline>
 </glyph>

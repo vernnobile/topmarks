@@ -3,7 +3,44 @@
   <advance width="1473"/>
   <unicode hex="0214"/>
   <outline>
-    <component base="U"/>
-    <component base="dblgravecmb" xOffset="113" yOffset="430"/>
+    <contour>
+      <point x="1138" y="1456" type="line"/>
+      <point x="1138" y="539" type="line" smooth="yes"/>
+      <point x="1138" y="279"/>
+      <point x="999" y="123"/>
+      <point x="747" y="123" type="curve" smooth="yes"/>
+      <point x="475" y="123"/>
+      <point x="336" y="260"/>
+      <point x="336" y="546" type="curve" smooth="yes"/>
+      <point x="336" y="1456" type="line"/>
+      <point x="164" y="1456" type="line"/>
+      <point x="164" y="541" type="line" smooth="yes"/>
+      <point x="164" y="157"/>
+      <point x="365" y="-22"/>
+      <point x="749" y="-22" type="curve" smooth="yes"/>
+      <point x="1111" y="-22"/>
+      <point x="1307" y="191"/>
+      <point x="1309" y="551" type="curve" smooth="yes"/>
+      <point x="1309" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="551" y="1604" type="line"/>
+      <point x="671" y="1604" type="line"/>
+      <point x="451" y="1917" type="line"/>
+      <point x="275" y="1917" type="line"/>
+    </contour>
+    <contour>
+      <point x="820" y="1604" type="line"/>
+      <point x="938" y="1604" type="line"/>
+      <point x="721" y="1917" type="line"/>
+      <point x="545" y="1917" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

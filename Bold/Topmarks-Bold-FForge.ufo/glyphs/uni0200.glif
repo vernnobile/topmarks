@@ -1,40 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0200" format="1">
-  <advance width="712"/>
+  <advance width="1524"/>
   <unicode hex="0200"/>
   <outline>
-    <contour>
-      <point x="308" y="728" type="line"/>
-      <point x="6" y="0" type="line"/>
-      <point x="100" y="0" type="line"/>
-      <point x="178" y="198" type="line"/>
-      <point x="526" y="198" type="line"/>
-      <point x="608" y="0" type="line"/>
-      <point x="704" y="0" type="line"/>
-      <point x="401" y="728" type="line"/>
-    </contour>
-    <contour>
-      <point x="380" y="575" type="curve"/>
-      <point x="497" y="272" type="line"/>
-      <point x="205" y="272" type="line"/>
-      <point x="328" y="574" type="line"/>
-      <point x="336" y="595"/>
-      <point x="346" y="626"/>
-      <point x="354" y="649" type="curve"/>
-      <point x="361" y="626"/>
-      <point x="371" y="596"/>
-    </contour>
-    <contour>
-      <point x="124" y="958" type="line"/>
-      <point x="262" y="802" type="line"/>
-      <point x="322" y="802" type="line"/>
-      <point x="212" y="958" type="line"/>
-    </contour>
-    <contour>
-      <point x="260" y="958" type="line"/>
-      <point x="397" y="802" type="line"/>
-      <point x="456" y="802" type="line"/>
-      <point x="348" y="958" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="dblgravecmb" xOffset="84" yOffset="-445"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

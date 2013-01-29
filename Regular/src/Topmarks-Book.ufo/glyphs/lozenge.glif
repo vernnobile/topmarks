@@ -12,6 +12,7 @@
       <point x="112" y="711" type="line"/>
     </contour>
     <contour>
+      <point x="979" y="711" type="curve"/>
       <point x="858" y="506"/>
       <point x="731" y="307"/>
       <point x="615" y="98" type="curve"/>
@@ -23,7 +24,13 @@
       <point x="625" y="1324" type="curve"/>
       <point x="739" y="1116"/>
       <point x="861" y="916"/>
-      <point x="979" y="711" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

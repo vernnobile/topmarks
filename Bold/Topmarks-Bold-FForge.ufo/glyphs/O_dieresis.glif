@@ -1,47 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odieresis" format="1">
-  <advance width="831"/>
+  <advance width="1758"/>
   <unicode hex="00D6"/>
   <outline>
-    <contour>
-      <point x="58" y="365" type="curve" smooth="yes"/>
-      <point x="58" y="109"/>
-      <point x="216" y="-11"/>
-      <point x="417" y="-11" type="curve" smooth="yes"/>
-      <point x="652" y="-11"/>
-      <point x="773" y="169"/>
-      <point x="773" y="365" type="curve" smooth="yes"/>
-      <point x="773" y="621"/>
-      <point x="617" y="742"/>
-      <point x="417" y="742" type="curve" smooth="yes"/>
-      <point x="180" y="742"/>
-      <point x="58" y="561"/>
-    </contour>
-    <contour>
-      <point x="679" y="364" type="curve" smooth="yes"/>
-      <point x="679" y="164"/>
-      <point x="553" y="62"/>
-      <point x="417" y="62" type="curve" smooth="yes"/>
-      <point x="235" y="62"/>
-      <point x="150" y="194"/>
-      <point x="150" y="364" type="curve" smooth="yes"/>
-      <point x="150" y="564"/>
-      <point x="278" y="667"/>
-      <point x="417" y="667" type="curve" smooth="yes"/>
-      <point x="595" y="667"/>
-      <point x="679" y="534"/>
-    </contour>
-    <contour>
-      <point x="292" y="888" type="line"/>
-      <point x="292" y="806" type="line"/>
-      <point x="374" y="806" type="line"/>
-      <point x="374" y="888" type="line"/>
-    </contour>
-    <contour>
-      <point x="458" y="888" type="line"/>
-      <point x="458" y="806" type="line"/>
-      <point x="540" y="806" type="line"/>
-      <point x="540" y="888" type="line"/>
-    </contour>
+    <component base="O"/>
+    <component base="dieresis" xOffset="396" yOffset="-467"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ydieresis" format="1">
-  <advance width="627"/>
+  <advance width="1256"/>
   <unicode hex="0178"/>
   <outline>
-    <component base="Y"/>
-    <component base="dieresis" xOffset="129" yOffset="215"/>
+    <contour>
+      <point x="537" y="0" type="line"/>
+      <point x="709" y="0" type="line"/>
+      <point x="709" y="585" type="line"/>
+      <point x="1252" y="1456" type="line"/>
+      <point x="1061" y="1456" type="line"/>
+      <point x="626" y="727" type="line"/>
+      <point x="195" y="1456" type="line"/>
+      <point x="4" y="1456" type="line"/>
+      <point x="537" y="582" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="1613" type="line"/>
+      <point x="543" y="1613" type="line"/>
+      <point x="543" y="1776" type="line"/>
+      <point x="379" y="1776" type="line"/>
+    </contour>
+    <contour>
+      <point x="711" y="1613" type="line"/>
+      <point x="875" y="1613" type="line"/>
+      <point x="875" y="1776" type="line"/>
+      <point x="711" y="1776" type="line"/>
+    </contour>
   </outline>
 </glyph>

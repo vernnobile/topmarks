@@ -61,8 +61,12 @@
       <point x="435" y="137" type="curve"/>
       <point x="93" y="138" type="line"/>
     </contour>
-    <contour>
-      <point x="20" y="0" type="move" name="topleft"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

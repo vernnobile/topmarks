@@ -15,8 +15,12 @@
       <point x="825" y="1487" type="line"/>
       <point x="649" y="1487" type="line"/>
     </contour>
-    <contour>
-      <point x="342" y="1026" type="move" name="_top"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

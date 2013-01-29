@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="559"/>
+  <advance width="1124"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="81" y="728" type="line"/>
-      <point x="81" y="0" type="line"/>
-      <point x="536" y="0" type="line"/>
-      <point x="536" y="106" type="line"/>
-      <point x="211" y="106" type="line"/>
-      <point x="211" y="728" type="line"/>
-    </contour>
-    <contour>
-      <point x="280" y="0" type="move" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="280" y="0" type="move" smooth="yes"/>
+      <point x="186" y="0" type="line"/>
+      <point x="1090" y="0" type="line"/>
+      <point x="1090" y="211" type="line"/>
+      <point x="445" y="211" type="line"/>
+      <point x="445" y="1448" type="line"/>
+      <point x="186" y="1448" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

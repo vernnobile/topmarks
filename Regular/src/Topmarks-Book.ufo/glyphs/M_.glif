@@ -22,8 +22,12 @@
       <point x="1770" y="0" type="line"/>
       <point x="1770" y="1456" type="line"/>
     </contour>
-    <contour>
-      <point x="990" y="1456" type="move" name="top"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

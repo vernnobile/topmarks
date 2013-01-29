@@ -1,60 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Otilde" format="1">
-  <advance width="831"/>
+  <advance width="1758"/>
   <unicode hex="00D5"/>
   <outline>
-    <contour>
-      <point x="58" y="365" type="curve" smooth="yes"/>
-      <point x="58" y="109"/>
-      <point x="216" y="-11"/>
-      <point x="417" y="-11" type="curve" smooth="yes"/>
-      <point x="652" y="-11"/>
-      <point x="773" y="169"/>
-      <point x="773" y="365" type="curve" smooth="yes"/>
-      <point x="773" y="621"/>
-      <point x="617" y="742"/>
-      <point x="417" y="742" type="curve" smooth="yes"/>
-      <point x="180" y="742"/>
-      <point x="58" y="561"/>
-    </contour>
-    <contour>
-      <point x="679" y="364" type="curve" smooth="yes"/>
-      <point x="679" y="164"/>
-      <point x="553" y="62"/>
-      <point x="417" y="62" type="curve" smooth="yes"/>
-      <point x="235" y="62"/>
-      <point x="150" y="194"/>
-      <point x="150" y="364" type="curve" smooth="yes"/>
-      <point x="150" y="564"/>
-      <point x="278" y="667"/>
-      <point x="417" y="667" type="curve" smooth="yes"/>
-      <point x="595" y="667"/>
-      <point x="679" y="534"/>
-    </contour>
-    <contour>
-      <point x="522" y="932" type="line"/>
-      <point x="518" y="906"/>
-      <point x="505" y="888"/>
-      <point x="479" y="888" type="curve" smooth="yes"/>
-      <point x="469" y="888"/>
-      <point x="460" y="889"/>
-      <point x="450" y="893" type="curve" smooth="yes"/>
-      <point x="421" y="903"/>
-      <point x="392" y="922"/>
-      <point x="354" y="922" type="curve" smooth="yes"/>
-      <point x="292" y="922"/>
-      <point x="259" y="874"/>
-      <point x="254" y="816" type="curve"/>
-      <point x="307" y="816" type="line"/>
-      <point x="311" y="844"/>
-      <point x="325" y="859"/>
-      <point x="352" y="859" type="curve" smooth="yes"/>
-      <point x="400" y="859"/>
-      <point x="431" y="825"/>
-      <point x="479" y="825" type="curve" smooth="yes"/>
-      <point x="541" y="825"/>
-      <point x="570" y="876"/>
-      <point x="576" y="932" type="curve"/>
-    </contour>
+    <component base="O"/>
+    <component base="tilde" xOffset="474" yOffset="-479"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

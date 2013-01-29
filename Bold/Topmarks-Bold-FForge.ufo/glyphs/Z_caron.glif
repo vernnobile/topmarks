@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zcaron" format="1">
-  <advance width="611"/>
+  <advance width="1291"/>
   <unicode hex="017D"/>
   <outline>
-    <contour>
-      <point x="45" y="728" type="line"/>
-      <point x="45" y="654" type="line"/>
-      <point x="461" y="654" type="line"/>
-      <point x="29" y="46" type="line"/>
-      <point x="29" y="0" type="line"/>
-      <point x="573" y="0" type="line"/>
-      <point x="573" y="74" type="line"/>
-      <point x="143" y="74" type="line"/>
-      <point x="577" y="684" type="line"/>
-      <point x="577" y="728" type="line"/>
-    </contour>
-    <contour>
-      <point x="416" y="962" type="line"/>
-      <point x="332" y="854" type="line"/>
-      <point x="250" y="962" type="line"/>
-      <point x="177" y="962" type="line"/>
-      <point x="296" y="800" type="line"/>
-      <point x="374" y="800" type="line"/>
-      <point x="494" y="962" type="line"/>
-    </contour>
+    <component base="Z"/>
+    <component base="caron" xOffset="262" yOffset="-442"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

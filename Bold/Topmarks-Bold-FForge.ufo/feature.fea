@@ -1,5 +1,26 @@
 
-#Mark attachment classes (defined in GDEF, used in lookupflags)
+languagesystem latn dflt;
+
+# GPOS 
+
+
+lookup kernHorizontalKerninginLatinloo {
+  lookupflag 0;
+    pos \r \o -17;
+} kernHorizontalKerninginLatinloo;
+
+lookup pos_pair_kernlatn_0 {
+  lookupflag 0;
+    pos \r \o -17;
+} pos_pair_kernlatn_0;
+
+feature kern {
+
+ script latn;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinloo;
+      lookup pos_pair_kernlatn_0;
+} kern;
 
 @GDEF_Simple = [\A \AE \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Amacron 
 	\Aogonek \Aring \Atilde \B \C \Cacute \Ccaron \Ccedilla \D \Delta \E \Eacute 

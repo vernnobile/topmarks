@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ldot" format="1">
-  <advance width="559"/>
+  <advance width="1124"/>
   <unicode hex="013F"/>
   <outline>
-    <contour>
-      <point x="100" y="728" type="line"/>
-      <point x="100" y="0" type="line"/>
-      <point x="536" y="0" type="line"/>
-      <point x="536" y="74" type="line"/>
-      <point x="186" y="74" type="line"/>
-      <point x="186" y="728" type="line"/>
-    </contour>
-    <contour>
-      <point x="333" y="671" type="line"/>
-      <point x="333" y="566" type="line"/>
-      <point x="442" y="566" type="line"/>
-      <point x="442" y="671" type="line"/>
-    </contour>
+    <component base="L"/>
+    <component base="periodcentered"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

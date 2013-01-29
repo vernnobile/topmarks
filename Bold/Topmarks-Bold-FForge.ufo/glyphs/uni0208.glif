@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0208" format="1">
-  <advance width="295"/>
+  <advance width="630"/>
   <unicode hex="0208"/>
   <outline>
-    <contour>
-      <point x="105" y="728" type="line"/>
-      <point x="105" y="0" type="line"/>
-      <point x="191" y="0" type="line"/>
-      <point x="191" y="728" type="line"/>
-    </contour>
-    <contour>
-      <point x="-84" y="958" type="line"/>
-      <point x="54" y="802" type="line"/>
-      <point x="114" y="802" type="line"/>
-      <point x="4" y="958" type="line"/>
-    </contour>
-    <contour>
-      <point x="51" y="958" type="line"/>
-      <point x="188" y="802" type="line"/>
-      <point x="248" y="802" type="line"/>
-      <point x="139" y="958" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="dblgravecmb" xOffset="-360" yOffset="-445"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

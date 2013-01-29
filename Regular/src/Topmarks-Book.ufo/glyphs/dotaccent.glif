@@ -9,8 +9,12 @@
       <point x="344" y="1409" type="line"/>
       <point x="184" y="1409" type="line"/>
     </contour>
-    <contour>
-      <point x="264" y="1026" type="move" name="_top"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
