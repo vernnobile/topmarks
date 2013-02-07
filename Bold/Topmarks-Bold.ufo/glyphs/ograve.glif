@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ograve" format="1">
-  <advance width="1252"/>
+  <advance width="1251"/>
   <unicode hex="00F2"/>
   <outline>
     <component base="grave" xOffset="327" yOffset="-919"/>
@@ -8,7 +8,9 @@
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

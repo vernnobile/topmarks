@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="1311"/>
+  <advance width="1207"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="526" y="0" type="line"/>
-      <point x="784" y="0" type="line"/>
-      <point x="784" y="1251" type="line"/>
-      <point x="1211" y="1251" type="line"/>
-      <point x="1211" y="1448" type="line"/>
-      <point x="100" y="1448" type="line"/>
-      <point x="100" y="1251" type="line"/>
-      <point x="526" y="1251" type="line"/>
+      <point x="474" y="0" type="line"/>
+      <point x="732" y="0" type="line"/>
+      <point x="732" y="1251" type="line"/>
+      <point x="1159" y="1251" type="line"/>
+      <point x="1159" y="1448" type="line"/>
+      <point x="48" y="1448" type="line"/>
+      <point x="48" y="1251" type="line"/>
+      <point x="474" y="1251" type="line"/>
+    </contour>
+    <contour>
+      <point x="604" y="0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="604" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="604" y="0" type="move" name="center"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

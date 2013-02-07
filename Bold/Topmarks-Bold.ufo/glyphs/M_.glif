@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1833"/>
+  <advance width="1931"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="105" y="0" type="line"/>
-      <point x="365" y="0" type="line"/>
-      <point x="365" y="1094" type="line"/>
-      <point x="471" y="875" type="line"/>
-      <point x="857" y="229" type="line"/>
-      <point x="982" y="229" type="line"/>
-      <point x="1371" y="863" type="line"/>
-      <point x="1478" y="1077" type="line"/>
-      <point x="1478" y="0" type="line"/>
-      <point x="1728" y="0" type="line"/>
-      <point x="1728" y="1448" type="line"/>
-      <point x="1432" y="1448" type="line"/>
-      <point x="1006" y="735" type="line"/>
-      <point x="922" y="569" type="line"/>
-      <point x="836" y="733" type="line"/>
-      <point x="413" y="1448" type="line"/>
-      <point x="105" y="1448" type="line"/>
+      <point x="154" y="0" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="414" y="1094" type="line"/>
+      <point x="520" y="875" type="line"/>
+      <point x="906" y="229" type="line"/>
+      <point x="1031" y="229" type="line"/>
+      <point x="1420" y="863" type="line"/>
+      <point x="1527" y="1077" type="line"/>
+      <point x="1527" y="0" type="line"/>
+      <point x="1777" y="0" type="line"/>
+      <point x="1777" y="1448" type="line"/>
+      <point x="1481" y="1448" type="line"/>
+      <point x="1055" y="735" type="line"/>
+      <point x="971" y="569" type="line"/>
+      <point x="885" y="733" type="line"/>
+      <point x="462" y="1448" type="line"/>
+      <point x="154" y="1448" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

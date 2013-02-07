@@ -1,72 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-	<key>familyName</key>
-	<string>Topmarks</string>
-	<key>styleName</key>
-	<string>Bold</string>
-	<key>copyright</key>
-	<string>Copyright (c) 2012-13 by vernon adams. All rights reserved.</string>
-	<key>unitsPerEm</key>
-	<integer>2048</integer>
-	<key>xHeight</key>
-	<integer>979</integer>
-	<key>capHeight</key>
-	<integer>1432</integer>
+<dict>
 	<key>ascender</key>
 	<integer>1638</integer>
+	<key>capHeight</key>
+	<integer>1432</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2012-13 by vernon adams. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-410</integer>
+	<key>familyName</key>
+	<string>Topmarks Bold</string>
 	<key>italicAngle</key>
-	<real>0</real>
+	<real>0.0</real>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2013/01/29 03:44:34</string>
 	<key>openTypeHheaAscender</key>
-	<integer>2471</integer>
+	<integer>1638</integer>
 	<key>openTypeHheaDescender</key>
-	<integer>-1101</integer>
+	<integer>-410</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
 	<key>openTypeNameDesigner</key>
 	<string>vernon adams</string>
 	<key>openTypeNameManufacturer</key>
 	<string>vernon adams</string>
-	<key>openTypeNameDescription</key>
-	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
-	<key>openTypeOS2WidthClass</key>
-	<integer>5</integer>
-	<key>openTypeOS2WeightClass</key>
-	<integer>700</integer>
-	<key>openTypeOS2VendorID</key>
-	<string>newt</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Topmarks</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Bold</string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
 		<integer>0</integer>
 	</array>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>1638</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>-410</integer>
-	<key>openTypeOS2TypoLineGap</key>
-	<integer>0</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>newt</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>700</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>1638</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>410</integer>
-	<key>postscriptFontName</key>
-	<string>Topmarks-Bold</string>
-	<key>postscriptFullName</key>
-	<string>Topmarks Bold</string>
-	<key>postscriptWeightName</key>
-	<string>Bold</string>
-	<key>postscriptUnderlineThickness</key>
-	<integer>0</integer>
-	<key>postscriptUnderlinePosition</key>
-	<integer>0</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-80</integer>
@@ -76,6 +58,16 @@
 		<integer>1432</integer>
 		<integer>1467</integer>
 	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Topmarks-Bold</string>
+	<key>postscriptFullName</key>
+	<string>Topmarks Bold</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-820</integer>
@@ -94,5 +86,17 @@
 		<integer>338</integer>
 		<integer>352</integer>
 	</array>
-    </dict>
+	<key>postscriptWeightName</key>
+	<string>Bold</string>
+	<key>styleName</key>
+	<string>Bold</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>1</integer>
+	<key>xHeight</key>
+	<integer>979</integer>
+</dict>
 </plist>

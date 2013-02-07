@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni021B" format="1">
-  <advance width="1500"/>
+  <advance width="874"/>
   <unicode hex="021B"/>
   <outline>
     <component base="commaaccentcomb" xOffset="218" yOffset="357"/>
@@ -8,7 +8,9 @@
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>
