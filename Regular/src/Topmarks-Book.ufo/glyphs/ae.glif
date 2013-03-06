@@ -59,7 +59,7 @@
       <point x="250" y="290" type="curve" smooth="yes"/>
       <point x="250" y="461"/>
       <point x="442" y="481"/>
-      <point x="627" y="486" type="curve" smooth="yes"/>
+      <point x="627" y="486" type="curve"/>
       <point x="773" y="489" type="line"/>
       <point x="773" y="272"/>
       <point x="684" y="115"/>
@@ -74,11 +74,4 @@
       <point x="1534" y="606" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -5,23 +5,23 @@
 	<key>ascender</key>
 	<integer>1638</integer>
 	<key>capHeight</key>
-	<integer>1432</integer>
+	<integer>1448</integer>
 	<key>copyright</key>
 	<string>Copyright (c) 2012-13 by vernon adams. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-410</integer>
 	<key>familyName</key>
-	<string>Topmarks Bold</string>
+	<string>Topmarks</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2013/01/29 03:44:34</string>
+	<string>2013/01/28 21:04:39</string>
 	<key>openTypeHheaAscender</key>
-	<integer>1638</integer>
+	<integer>2471</integer>
 	<key>openTypeHheaDescender</key>
-	<integer>-410</integer>
+	<integer>-1101</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDescription</key>
@@ -30,15 +30,17 @@
 	<string>vernon adams</string>
 	<key>openTypeNameManufacturer</key>
 	<string>vernon adams</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Topmarks</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Bold</string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
 		<integer>0</integer>
 	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1638</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-410</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
 	<key>openTypeOS2VendorID</key>
 	<string>newt</string>
 	<key>openTypeOS2WeightClass</key>
@@ -86,17 +88,17 @@
 		<integer>338</integer>
 		<integer>352</integer>
 	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>0</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>0</integer>
 	<key>postscriptWeightName</key>
-	<string>Bold</string>
+	<string>Medium</string>
 	<key>styleName</key>
 	<string>Bold</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
-	<key>versionMajor</key>
-	<integer>1</integer>
-	<key>versionMinor</key>
-	<integer>1</integer>
 	<key>xHeight</key>
-	<integer>979</integer>
+	<integer>996</integer>
 </dict>
 </plist>

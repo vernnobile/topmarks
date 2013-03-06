@@ -9,9 +9,9 @@
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
 <data name="previewTypeSize" value="89.0" />
-<data name="previewtext" value="Sondashell Bomenekon" />
+<data name="previewtext" value="Rocalion Song 690@ Pelterona" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68561454657" />
+<data name="projectionAngle" value="2.68561525287" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
@@ -23,37 +23,13 @@
 <!-- color for Regular/src/Topmarks-Book.ufo -->
 <color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
 </master>
-<master filename="Bold/Topmarks-Bold-4.ufo">
+<master filename="Bold/Topmarks-Bold.ufo">
 <location>
 <dimension name="new_axis_1" xvalue="1000" />
 </location>
-<!-- color for Bold/Topmarks-Bold-4.ufo -->
-<color a="1.000000" b="1.000000" g="0.500000" r="1.000000" />
+<!-- color for Bold/Topmarks-Bold.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
 </master>
 
 <!-- instance definitions -->
-<instance familyname="Topmarks" sequence="" stylename="--0_xx1416_86">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="705.8745" />
-</location>
-</instance>
-<instance familyname="Topmarks" sequence="" stylename="--0_xx365_58">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="365.5777" />
-</location>
-</instance>
-<instance familyname="Topmarks" sequence="" stylename="--0_xx365_58Copy">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="25.1475" />
-</location>
-</instance>
-<instance familyname="Topmarks" sequence="" stylename="--0_xx1416_86Copy">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="1416.8627" />
-</location>
-</instance>
 </designspace>
