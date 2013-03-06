@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam" format="1">
-  <advance width="625.0"/>
+  <advance width="732.2"/>
   <unicode hex="0021"/>
   <outline>
     <contour>
-      <point x="335.8" y="-7.2" type="curve" smooth="yes"/>
-      <point x="383.4" y="-7.2"/>
-      <point x="436.4" y="27.2"/>
-      <point x="436.4" y="91.0" type="curve" smooth="yes"/>
-      <point x="436.4" y="142.6"/>
-      <point x="403.6" y="190.2"/>
-      <point x="336.8" y="190.2" type="curve" smooth="yes"/>
-      <point x="289.2" y="190.2"/>
-      <point x="236.2" y="155.6"/>
-      <point x="236.2" y="91.6" type="curve" smooth="yes"/>
-      <point x="236.2" y="40.2"/>
-      <point x="269.2" y="-7.2"/>
+      <point x="365.6" y="-7.2" type="curve" smooth="yes"/>
+      <point x="413.2" y="-7.2"/>
+      <point x="466.2" y="27.2"/>
+      <point x="466.2" y="91.0" type="curve" smooth="yes"/>
+      <point x="466.2" y="142.6"/>
+      <point x="433.4" y="190.2"/>
+      <point x="366.6" y="190.2" type="curve" smooth="yes"/>
+      <point x="319.0" y="190.2"/>
+      <point x="266.0" y="155.6"/>
+      <point x="266.0" y="91.6" type="curve" smooth="yes"/>
+      <point x="266.0" y="40.2"/>
+      <point x="299.0" y="-7.2"/>
     </contour>
     <contour>
-      <point x="293.6" y="344.0" type="line"/>
-      <point x="371.0" y="344.0" type="line"/>
-      <point x="412.2" y="1406.4" type="line"/>
-      <point x="250.6" y="1406.4" type="line"/>
+      <point x="323.4" y="344.0" type="line"/>
+      <point x="400.8" y="344.0" type="line"/>
+      <point x="442.0" y="1406.4" type="line"/>
+      <point x="280.4" y="1406.4" type="line"/>
     </contour>
   </outline>
   <lib>
