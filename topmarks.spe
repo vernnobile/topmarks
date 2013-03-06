@@ -8,8 +8,8 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="200.0" />
-<data name="previewtext" value="noo@ononooon" />
+<data name="previewTypeSize" value="48.0" />
+<data name="previewtext" value="1+10+16=27" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
@@ -48,6 +48,11 @@
 <location>
 <dimension name="None" xvalue="0" />
 <dimension name="new_axis_1" xvalue="900" />
+</location>
+</instance>
+<instance familyname="Topmarks" sequence="" stylename="Book">
+<location>
+<dimension name="new_axis_1" xvalue="100" />
 </location>
 </instance>
 </designspace>
