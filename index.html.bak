@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
     <link href="http://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet"
       type="text/css">
-    <meta content="text/html; charset=utf-8" http-equiv="content-type">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="description" content="Topmarks : topmarks font family">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,28 +16,51 @@
     <!-- HEADER -->
     <div id="topnavbar"> <a id="forkme_banner" href="https://github.com/vernnobile/topmarks">View
         on GitHub</a></div>
-    <div class="span11 offset1">
-      <h4>A free and open typeface for children's learning</h4>
-      <div class="navbar navbar-static-cont-width navbar-teal">topmarks fonts</div>
+    <div class="span10 offset1">
+      <div class="navbar navbar-static-cont-width navbar-teal"><img style="padding-right:5px;padding-bottom:3px;"
+          alt="tick"
+          src="images/tick.png"
+          height="20px"
+          width="21px">Topmarks
+        Fonts</div>
+      <h5>A free and open typeface for children's learning</h5>
     </div>
     <!-- GRAPHIC CONTENT -->
-    <div class="span11 offset1">
-      <p style="font-family:'topmarksregular';font-size:3.6em;line-height:1.2em;"><br>A balloon and a giant beanstalk.</p>
-      <p style="font-family:'topmarksregular';font-size:6em;">6+3=9</p>
-    </div>
+    <div class="span10 offset1">
+      <hr>
+      <img alt="one" src="images/bee.png" width="300px">
+      <p style="color:#444;font-family:'topmarksbook';font-size:5.8em;line-height:1.2em;">
+        A a B b</p>
+      <hr></div>
     <!-- MAIN CONTENT -->
-    <div class="span11 offset1">
-      <h3>About the Topmarks fonts</h3>
+    <div class="span4 offset1">
+      <h3>Why Topmarks fonts?</h3>
       <p>The Topmarks fonts are being developed in response to teachers and
-        educators who have found there to be a lack of <i>free</i> and <i>open source</i> typefaces
-        suitable for use in infant learning. The Topmarks fonts aim to
-        provide this, widening the choice of suitable typefaces available to children and their teachers, that can be used
-        in the teaching of reading and writing to infants.</p>
+        educators who find a lack of <i>free</i> and <i>open source</i>
+        typefaces suitable for use in infant learning.</p>
+      <p>The Topmarks fonts aim to widen the choice of suitable typefaces
+        available to children and their teachers, that can be used in the
+        teaching of reading and writing.</p>
+    </div>
+    <div class="span6 offset0">
+      <h3>Free and open</h3>
+      <p>The Topmarks fonts are released under the Open Font License (OFL). This
+        means that the fonts are free to be used by as many people as possible
+        without restriction.</p>
+    </div>
+    <div style="background-color:white"class="span6 offset0">
+      <h3>Free and open</h3>
+      <p>The Topmarks fonts are released under the Open Font License (OFL). This
+        means that the fonts are free to be used by as many people as possible
+        without restriction.</p>
     </div>
     <!-- FOOTER  -->
-    <div class="span11 offset1">
-      <p class="copyright">Topmarks maintained by <a href="https://github.com/vernnobile">vernnobile</a></p>
-      <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+    <div class="span10 offset1">
+      <hr>
+      <p class="copyright">the topmarks fonts are maintained by <a href="https://github.com/vernnobile">vernon
+          adams</a></p>
+      <p>this site is published with <a href="http://pages.github.com">GitHub
+          Pages</a></p>
     </div>
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
