@@ -160,19 +160,16 @@ hr {
   /* Impossible to translate property background-image for webkit20110101 */
   background-image: linear-gradient(to top, #373737 0px, #464646 5px);  
   color: #cccccc;  
-  direction: ltr;  
   font-size: 13px;  
   font-style: normal;  
   font-variant: normal;  
   font-weight: normal;  
   height: 28px;  
-  left: 0px;  
   line-height: 28px;  
-  top: 0px;  
   z-index: 99999;  
   font-family: Muli;  
   padding-left: 8px;
--webkit-border-radius: 3px 3px 3px 3px;
+-webkit-border-radius: 0px 0px 4px 4px;
   border-radius: 0px 0px 4px 4px;
 }
 
@@ -180,17 +177,6 @@ hr {
   color: #cccccc;
 }
 
-.divider {  
-  border-top-color: #666666;  
-  border-right-color: #666666;  
-  border-bottom-color: #666666;  
-  border-left-color: #666666;  
-  border-left-width: 1px;  
-  border-left-style: solid;  
-  border-left-color: #666666;  
-  padding-left: 64px;  
-  height: 1000%;
-}
 
 .nailCenter {  
   text-align: center;
