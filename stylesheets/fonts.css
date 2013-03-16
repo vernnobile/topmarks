@@ -26,3 +26,43 @@
     font-style: normal;
 
 }
+
+@font-face {
+  
+  font-family: "topmarksregular";
+  
+  font-style: normal;
+  
+  font-weight: normal;
+  src: url("fonts/topmarks-regular-x.eot?#iefix") format("embedded-opentype"), url("fonts/topmarks-regular-x.woff") format("woff"), url("fonts/topmarks-regular-x.ttf") format("truetype");
+}
+
+@font-face {
+  
+  font-family: "topmarksbold";
+  
+  font-style: normal;
+  
+  font-weight: normal;
+  src: url("fonts/topmarks-bold-x.eot?#iefix") format("embedded-opentype"), url("fonts/topmarks-bold-x.woff") format("woff"), url("fonts/topmarks-bold-x.ttf") format("truetype");
+}
+
+@font-face {
+  
+  font-family: "topmarksbook";
+  
+  font-style: normal;
+  
+  font-weight: normal;
+  src: url("fonts/topmarks-book-x.eot?#iefix") format("embedded-opentype"), url("fonts/topmarks-book-x.woff") format("woff"), url("fonts/topmarks-book-x.ttf") format("truetype");
+}
+
+@font-face {
+  
+  font-family: "topmarkslight";
+  
+  font-style: normal;
+  
+  font-weight: normal;
+  src: url("fonts/topmarks-light-x.eot?#iefix") format("embedded-opentype"), url("fonts/topmarks-light-x.woff") format("woff"), url("fonts/topmarks-light-x.ttf") format("truetype");
+}
