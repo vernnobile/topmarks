@@ -1,4 +1,8 @@
-#mainFooter {  
+body {
+  font-family:'mulimedium';
+  }
+  
+  #mainFooter {  
   background-color: silver;  
   width: 100%;  
   padding-top: 13px;  
@@ -51,7 +55,7 @@
 #project_tagline {  
   font-size: 1.6em;  
   color: #5e6268;  
-  font-family: Muli;  
+  /*font-family: Muli; */ 
   font-weight: 300;
 }
 
