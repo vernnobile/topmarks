@@ -7,11 +7,10 @@
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
- body {
+ body h3 {
 font-family: 'Open Sans', sans-serif;
 }
 h3 {
-font-family: 'Open Sans', sans-serif;
 font-weight:300;
 }
    
