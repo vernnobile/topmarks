@@ -31,7 +31,7 @@ body {
   margin-top: 21px;  
   font-weight: 300;  
   letter-spacing: 0.1em;  
-  font-family: Muli;
+  font-family: 'mulimedium';
 }
 
 .navbar-teal {  
@@ -55,8 +55,8 @@ body {
 #project_tagline {  
   font-size: 1.6em;  
   color: #5e6268;  
-  /*font-family: Muli; */ 
-  font-weight: 300;
+  font-family: 'mulimedium'; 
+  /*font-weight: 300;*/
 }
 
 hr {  
