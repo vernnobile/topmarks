@@ -24,13 +24,14 @@ background-color:#ccc;
 }
 
 .navbar {  
+  text-transform:uppercase;
   font-family:'mulimedium';
   margin-bottom: 0px;  
   overflow: visible;  
   color: #444444;  
-  font-size: 2em;  
+  font-size: 3em;  
   margin-top: 21px;  
-  font-weight: 700;  
+  /*font-weight: 700;*/  
   letter-spacing: 0.1em;  
 }
 
