@@ -25,13 +25,13 @@ background-color:#ccc;
 
 .navbar {  
   text-transform:lowercase;
-  font-family:'mulimedium';
+  font-family:'Open Sans';
   margin-bottom: 0px;  
   overflow: visible;  
-  color: #003366;  
+  color: #303030;  
   font-size: 2.1em;  
   margin-top: 21px;  
-  font-weight: 400;  
+  font-weight: 300;  
   letter-spacing: -0.05em;  
 }
 
