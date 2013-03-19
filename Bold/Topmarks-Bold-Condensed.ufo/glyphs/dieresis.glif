@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="1">
-  <advance width="1295"/>
+  <advance width="1286"/>
   <unicode hex="00A8"/>
   <outline>
     <contour>
       <point x="300" y="1187" type="line"/>
       <point x="300" y="1448" type="line"/>
-      <point x="561.966" y="1448" type="line"/>
-      <point x="561.966" y="1187" type="line"/>
+      <point x="561.324" y="1448" type="line"/>
+      <point x="561.324" y="1187" type="line"/>
     </contour>
     <contour>
-      <point x="733.046" y="1187" type="line"/>
-      <point x="733.046" y="1448" type="line"/>
-      <point x="995.011" y="1448" type="line"/>
-      <point x="995.011" y="1187" type="line"/>
+      <point x="725.629" y="1187" type="line"/>
+      <point x="725.629" y="1448" type="line"/>
+      <point x="986.953" y="1448" type="line"/>
+      <point x="986.953" y="1187" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,6 +25,21 @@
           <dict>
             <key>position</key>
             <integer>1187</integer>
+            <key>width</key>
+            <integer>261</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>300</integer>
+            <key>width</key>
+            <integer>261</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>726</integer>
             <key>width</key>
             <integer>261</integer>
           </dict>

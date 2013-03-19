@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asterisk" format="1">
-  <advance width="1875"/>
+  <advance width="1840"/>
   <unicode hex="002A"/>
   <outline>
     <contour>
-      <point x="915" y="1298" type="line"/>
-      <point x="1063" y="1384" type="line"/>
-      <point x="827" y="1679" type="line"/>
-      <point x="1136" y="1782" type="line"/>
-      <point x="1060" y="1928" type="line"/>
-      <point x="785" y="1786" type="line"/>
-      <point x="785" y="2136" type="line"/>
-      <point x="618" y="2136" type="line"/>
-      <point x="633" y="2019"/>
-      <point x="651" y="1898"/>
-      <point x="666" y="1780" type="curve"/>
-      <point x="333" y="1925" type="line"/>
-      <point x="308" y="1766" type="line"/>
-      <point x="629" y="1675" type="line"/>
-      <point x="404" y="1395" type="line"/>
-      <point x="550" y="1307" type="line"/>
-      <point x="730" y="1610" type="line"/>
+      <point x="882" y="632" type="line"/>
+      <point x="713" y="944" type="line"/>
+      <point x="550" y="641" type="line"/>
+      <point x="404" y="729" type="line"/>
+      <point x="622" y="1009" type="line"/>
+      <point x="308" y="1100" type="line"/>
+      <point x="333" y="1259" type="line"/>
+      <point x="655" y="1114" type="line"/>
+      <point x="625" y="1470" type="line"/>
+      <point x="776" y="1470" type="line"/>
+      <point x="763" y="1120" type="line"/>
+      <point x="1027" y="1262" type="line"/>
+      <point x="1103" y="1116" type="line"/>
+      <point x="800" y="1013" type="line"/>
+      <point x="1030" y="718" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

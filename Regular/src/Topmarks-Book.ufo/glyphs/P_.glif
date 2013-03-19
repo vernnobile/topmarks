@@ -1,67 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="P" format="1">
-  <advance width="1213"/>
+  <advance width="1221"/>
   <unicode hex="0050"/>
   <outline>
     <contour>
-      <point x="174" y="0" type="line"/>
-      <point x="174" y="1456" type="line"/>
-      <point x="554" y="1456" type="line" smooth="yes"/>
-      <point x="969" y="1456"/>
-      <point x="1145" y="1316"/>
-      <point x="1145" y="1020" type="curve" smooth="yes"/>
-      <point x="1145" y="734"/>
-      <point x="948" y="587"/>
-      <point x="578" y="587" type="curve" smooth="yes"/>
-      <point x="346" y="587" type="line"/>
-      <point x="346" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="1456" type="line"/>
+      <point x="562" y="1456" type="line" smooth="yes"/>
+      <point x="977" y="1456"/>
+      <point x="1153" y="1316"/>
+      <point x="1153" y="1020" type="curve" smooth="yes"/>
+      <point x="1153" y="734"/>
+      <point x="956" y="587"/>
+      <point x="586" y="587" type="curve" smooth="yes"/>
+      <point x="354" y="587" type="line"/>
+      <point x="354" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="346" y="736" type="line"/>
-      <point x="597" y="736" type="line" smooth="yes"/>
-      <point x="838" y="736"/>
-      <point x="961" y="832"/>
-      <point x="961" y="1018" type="curve" smooth="yes"/>
-      <point x="961" y="1222"/>
-      <point x="856" y="1318"/>
-      <point x="577" y="1318" type="curve" smooth="yes"/>
-      <point x="346" y="1318" type="line"/>
+      <point x="354" y="736" type="line"/>
+      <point x="605" y="736" type="line" smooth="yes"/>
+      <point x="846" y="736"/>
+      <point x="969" y="832"/>
+      <point x="969" y="1018" type="curve" smooth="yes"/>
+      <point x="969" y="1222"/>
+      <point x="864" y="1318"/>
+      <point x="585" y="1318" type="curve" smooth="yes"/>
+      <point x="354" y="1318" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>587</integer>
-	    <key>width</key>	    <integer>149</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1318</integer>
-	    <key>width</key>	    <integer>138</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>174</integer>
-	    <key>width</key>
-	    <integer>172</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>961</integer>
-	    <key>width</key>
-	    <integer>184</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>587</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1318</integer>
+            <key>width</key>
+            <integer>138</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>174</integer>
+            <key>width</key>
+            <integer>172</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>961</integer>
+            <key>width</key>
+            <integer>184</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>P</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1221</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

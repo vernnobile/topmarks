@@ -1,41 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar" format="1">
-  <advance width="881.0"/>
+  <advance width="881"/>
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="348.0" y="-409.0" type="line"/>
-      <point x="533.0" y="-409.0" type="line"/>
-      <point x="533.0" y="1526.0" type="line"/>
-      <point x="348.0" y="1526.0" type="line"/>
+      <point x="348" y="-409" type="line"/>
+      <point x="348" y="1526" type="line"/>
+      <point x="533" y="1526" type="line"/>
+      <point x="533" y="-409" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>bar</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>881.0</real>
-        </dict>
       </dict>
     </dict>
   </lib>

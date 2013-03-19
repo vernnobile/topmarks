@@ -8,8 +8,8 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="48.0" />
-<data name="previewtext" value="1+10+16=27" />
+<data name="previewTypeSize" value="200.0" />
+<data name="previewtext" value="nosoutiomn" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
@@ -28,31 +28,8 @@
 <dimension name="new_axis_1" xvalue="1000" />
 </location>
 <!-- color for Bold/Topmarks-Bold.ufo -->
-<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+<color a="1.000000" b="0.500000" g="1.000000" r="0.000000" />
 </master>
 
 <!-- instance definitions -->
-<instance familyname="Topmarks" sequence="" stylename="Regular">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="400" />
-</location>
-</instance>
-<instance familyname="Topmarks" sequence="" stylename="Light">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="-200" />
-</location>
-</instance>
-<instance familyname="Topmarks" sequence="" stylename="Bold">
-<location>
-<dimension name="None" xvalue="0" />
-<dimension name="new_axis_1" xvalue="900" />
-</location>
-</instance>
-<instance familyname="Topmarks" sequence="" stylename="Book">
-<location>
-<dimension name="new_axis_1" xvalue="100" />
-</location>
-</instance>
 </designspace>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="1">
-  <advance width="1717"/>
+  <advance width="1624.19"/>
   <unicode hex="0051"/>
   <outline>
     <contour>
-      <point x="1262" y="-425" type="curve"/>
-      <point x="1444" y="-268" type="line"/>
-      <point x="1347" y="-177"/>
-      <point x="1259" y="-74"/>
-      <point x="1196" y="55" type="curve"/>
-      <point x="962" y="-18" type="line"/>
-      <point x="1038" y="-180"/>
-      <point x="1147" y="-309"/>
+      <point x="1232.87" y="-425.0" type="line"/>
+      <point x="1129.01" y="-309.0"/>
+      <point x="1020" y="-149"/>
+      <point x="951" y="13" type="curve"/>
+      <point x="1162" y="86" type="line"/>
+      <point x="1219" y="-43"/>
+      <point x="1317.14" y="-177.0"/>
+      <point x="1414.14" y="-268.0" type="curve"/>
     </contour>
     <component base="O"/>
   </outline>
@@ -19,28 +19,6 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Q</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1717</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblleft" format="1">
-  <advance width="1803"/>
+  <advance width="1777"/>
   <unicode hex="201C"/>
   <outline>
     <contour>
       <point x="316" y="1802" type="line"/>
-      <point x="529" y="1802" type="line"/>
-      <point x="652" y="2319" type="line"/>
       <point x="496" y="2319" type="line"/>
+      <point x="643.227" y="2319" type="line"/>
+      <point x="529" y="1802" type="line"/>
     </contour>
     <contour>
-      <point x="725" y="1802" type="line"/>
-      <point x="940" y="1802" type="line"/>
-      <point x="1062" y="2319" type="line"/>
-      <point x="906" y="2319" type="line"/>
+      <point x="709.13" y="1802" type="line"/>
+      <point x="881.258" y="2319" type="line"/>
+      <point x="1037.26" y="2319" type="line"/>
+      <point x="915.258" y="1802" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

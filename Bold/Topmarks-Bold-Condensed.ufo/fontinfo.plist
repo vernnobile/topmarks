@@ -23,7 +23,7 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2013/03/18 19:55:40</string>
+	<string>2013/03/19 05:08:02</string>
 	<key>openTypeHheaAscender</key>
 	<integer>2471</integer>
 	<key>openTypeHheaDescender</key>
@@ -45,6 +45,10 @@
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Type</key>
+	<array>
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>

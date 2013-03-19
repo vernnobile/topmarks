@@ -1,54 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="1">
-  <advance width="1296"/>
+  <advance width="1244"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="708" y="0" type="line"/>
-      <point x="959" y="0" type="line"/>
-      <point x="959" y="322" type="line"/>
-      <point x="1144" y="322" type="line"/>
-      <point x="1144" y="520" type="line"/>
-      <point x="959" y="520" type="line"/>
-      <point x="959" y="1448" type="line"/>
-      <point x="683" y="1448" type="line"/>
-      <point x="149" y="513" type="line"/>
-      <point x="149" y="322" type="line"/>
-      <point x="708" y="322" type="line"/>
+      <point x="731" y="0" type="line"/>
+      <point x="731" y="322" type="line"/>
+      <point x="100" y="322" type="line"/>
+      <point x="100" y="513" type="line"/>
+      <point x="696" y="1448" type="line"/>
+      <point x="958" y="1448" type="line"/>
+      <point x="958" y="520" type="line"/>
+      <point x="1155" y="520" type="line"/>
+      <point x="1155" y="322" type="line"/>
+      <point x="958" y="322" type="line"/>
+      <point x="958" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="379" y="520" type="line"/>
-      <point x="582" y="874" type="line"/>
-      <point x="708" y="1111" type="line"/>
-      <point x="708" y="520" type="line"/>
+      <point x="330" y="520" type="line"/>
+      <point x="731" y="520" type="line"/>
+      <point x="731" y="1151" type="line"/>
+      <point x="555" y="874" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>four</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1296</integer>
-        </dict>
       </dict>
     </dict>
   </lib>
