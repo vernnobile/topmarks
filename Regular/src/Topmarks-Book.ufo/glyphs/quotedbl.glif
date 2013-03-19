@@ -4,44 +4,38 @@
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="150" y="994" type="line"/>
+      <point x="150" y="931" type="line"/>
       <point x="114" y="1456" type="line"/>
       <point x="281" y="1456" type="line"/>
-      <point x="281" y="994" type="line"/>
+      <point x="259" y="931" type="line"/>
     </contour>
     <contour>
-      <point x="439" y="994" type="line"/>
+      <point x="439" y="931" type="line"/>
       <point x="403" y="1456" type="line"/>
       <point x="569" y="1456" type="line"/>
-      <point x="569" y="994" type="line"/>
+      <point x="547" y="931" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>quotedbl</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>720</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>931</integer>
+	    <key>width</key>	    <integer>525</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>114</integer>
+	    <key>width</key>
+	    <integer>455</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

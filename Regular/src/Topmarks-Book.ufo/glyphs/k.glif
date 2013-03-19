@@ -1,251 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="1">
-  <advance width="1107"/>
+  <advance width="1089"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="1093" y="130" type="line"/>
-      <point x="1068" y="116"/>
-      <point x="1046" y="110"/>
-      <point x="1025" y="110" type="curve" smooth="yes"/>
-      <point x="939" y="110"/>
-      <point x="879" y="203"/>
-      <point x="816" y="294" type="curve" smooth="yes"/>
-      <point x="657" y="524" type="line"/>
-      <point x="981" y="976" type="line"/>
-      <point x="832" y="1026" type="line"/>
-      <point x="316" y="292" type="line"/>
-      <point x="316" y="1526" type="line"/>
+      <point x="1075" y="130" type="curve"/>
+      <point x="1063" y="-5" type="line"/>
+      <point x="894" y="-73"/>
+      <point x="794" y="39"/>
+      <point x="686" y="205" type="curve" smooth="yes"/>
+      <point x="558" y="402" type="line"/>
+      <point x="297" y="27" type="line"/>
+      <point x="242" y="-40"/>
+      <point x="152" y="-24"/>
+      <point x="152" y="60" type="curve" smooth="yes"/>
       <point x="152" y="1526" type="line"/>
-      <point x="152" y="60" type="line" smooth="yes"/>
-      <point x="152" y="11"/>
-      <point x="182" y="-15"/>
-      <point x="218" y="-15" type="curve" smooth="yes"/>
-      <point x="244" y="-15"/>
-      <point x="274" y="-1"/>
-      <point x="297" y="27" type="curve"/>
-      <point x="565" y="402" type="line"/>
-      <point x="698" y="205" type="line" smooth="yes"/>
-      <point x="787" y="73"/>
-      <point x="870" y="-26"/>
-      <point x="985" y="-26" type="curve" smooth="yes"/>
-      <point x="1015" y="-26"/>
-      <point x="1046" y="-19"/>
-      <point x="1081" y="-5" type="curve"/>
+      <point x="316" y="1526" type="line"/>
+      <point x="316" y="292" type="line"/>
+      <point x="815" y="1026" type="line"/>
+      <point x="963" y="976" type="line"/>
+      <point x="647" y="524" type="line"/>
+      <point x="799" y="294" type="line"/>
+      <point x="876" y="181"/>
+      <point x="948" y="59"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>1064.0</real>
-                  <key>y</key>
-                  <real>-35.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>1153.0</real>
-                  <key>y</key>
-                  <real>89.0</real>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>1050.0</real>
-                  <key>y</key>
-                  <real>88.0</real>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>962.0</real>
-                  <key>y</key>
-                  <real>158.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <real>891.0</real>
-                  <key>y</key>
-                  <real>270.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>694.0</real>
-                  <key>y</key>
-                  <real>580.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>981.0</real>
-                  <key>y</key>
-                  <real>976.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>832.0</real>
-                  <key>y</key>
-                  <real>1026.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>316.0</real>
-                  <key>y</key>
-                  <real>292.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>316.0</real>
-                  <key>y</key>
-                  <real>1526.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>152.0</real>
-                  <key>y</key>
-                  <real>1496.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <real>152.0</real>
-                  <key>y</key>
-                  <real>60.0</real>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>152.0</real>
-                  <key>y</key>
-                  <real>-26.0</real>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>243.0</real>
-                  <key>y</key>
-                  <real>-39.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>297.0</real>
-                  <key>y</key>
-                  <real>27.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>602.0</real>
-                  <key>y</key>
-                  <real>458.0</real>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <real>763.0</real>
-                  <key>y</key>
-                  <real>189.0</real>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>843.0</real>
-                  <key>y</key>
-                  <real>55.0</real>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <real>960.0</real>
-                  <key>y</key>
-                  <real>-16.0</real>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>k</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1107</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1006</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1506</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>152</integer>
+	    <key>width</key>
+	    <integer>164</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

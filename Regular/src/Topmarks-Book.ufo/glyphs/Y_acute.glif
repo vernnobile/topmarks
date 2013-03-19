@@ -1,24 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yacute" format="1">
-  <advance width="1256"/>
+  <advance width="1225"/>
   <unicode hex="00DD"/>
   <outline>
-    <contour>
-      <point x="537" y="0" type="line"/>
-      <point x="709" y="0" type="line"/>
-      <point x="709" y="585" type="line"/>
-      <point x="1252" y="1456" type="line"/>
-      <point x="1061" y="1456" type="line"/>
-      <point x="626" y="727" type="line"/>
-      <point x="195" y="1456" type="line"/>
-      <point x="4" y="1456" type="line"/>
-      <point x="537" y="582" type="line"/>
-    </contour>
-    <contour>
-      <point x="546" y="1602" type="line"/>
-      <point x="676" y="1602" type="line"/>
-      <point x="984" y="1922" type="line"/>
-      <point x="772" y="1922" type="line"/>
-    </contour>
+    <component base="Y"/>
+    <component base="acute" xOffset="448" yOffset="430"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1436</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1602</integer>
+	    <key>width</key>	    <integer>320</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>526</integer>
+	    <key>width</key>
+	    <integer>172</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>623</integer>
+	    <key>width</key>
+	    <integer>438</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="2168"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="1469" y="0" type="line"/>
+      <point x="1686" y="0" type="line"/>
+      <point x="2128" y="1448" type="line"/>
+      <point x="1884" y="1448" type="line"/>
+      <point x="1645" y="614" type="line"/>
+      <point x="1575" y="386" type="line"/>
+      <point x="1496" y="610" type="line"/>
+      <point x="1179" y="1448" type="line"/>
+      <point x="1004" y="1448" type="line"/>
+      <point x="685" y="614" type="line"/>
+      <point x="601" y="385" type="line"/>
+      <point x="536" y="614" type="line"/>
+      <point x="291" y="1448" type="line"/>
+      <point x="42" y="1448" type="line"/>
+      <point x="484" y="0" type="line"/>
+      <point x="701" y="0" type="line"/>
+      <point x="1086" y="1051" type="line"/>
+    </contour>
+    <contour>
+      <point x="1085" y="0" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1084" y="0" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

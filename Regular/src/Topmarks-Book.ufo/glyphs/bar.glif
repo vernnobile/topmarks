@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar" format="1">
-  <advance width="500"/>
+  <advance width="954"/>
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="168" y="-491" type="line"/>
-      <point x="168" y="1545" type="line"/>
-      <point x="325" y="1545" type="line"/>
-      <point x="325" y="-491" type="line"/>
+      <point x="389.489" y="-482.43" type="line"/>
+      <point x="389.489" y="1535.94" type="line"/>
+      <point x="565.314" y="1535.94" type="line"/>
+      <point x="565.314" y="-482.43" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-482</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>389</integer>
+	    <key>width</key>
+	    <integer>176</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
