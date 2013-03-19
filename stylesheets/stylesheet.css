@@ -77,12 +77,12 @@ hr {
 
 #topnavbar {  
   background-color: #004587;  
-  background-image: -webkit-linear-gradient(top, #000 0px, #0C1C3C 15px);
-  background-image: -o-linear-gradient(to #000 0px, #0C1C3C 15px);
-  background-image: -ms-linear-gradient(top, #000 0px, #0C1C3C 15px);
-  background-image: -moz-linear-gradient(top, #000 0px, #0C1C3C 15px);
+  background-image: -webkit-linear-gradient(top, #000 0px, #303030 15px);
+  background-image: -o-linear-gradient(to #000 0px, #303030 15px);
+  background-image: -ms-linear-gradient(top, #000 0px, #303030 15px);
+  background-image: -moz-linear-gradient(top, #000 0px, #303030 15px);
   /* Impossible to translate property background-image for webkit20110101 */
-  background-image: linear-gradient(to top, #000 0px, #0C1C3C 15px);  
+  background-image: linear-gradient(to top, #000 0px, #303030 15px);  
   color: #cccccc;  
   font-size: 13px;  
   font-style: normal;  
