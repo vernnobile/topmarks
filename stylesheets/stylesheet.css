@@ -31,6 +31,7 @@ line-height:1.8em;
 }
 
 .navbar {  
+	margin-top:20px;
 background-color: #49AFCD;
 background-image: -moz-linear-gradient(top, #5BC0DE, #2F96B4);
 background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#5BC0DE), to(#2F96B4));
