@@ -16,12 +16,12 @@ line-height:1.8em;
 /* =Navigation
 ----------------------------------------------- */
 .navbar-static-cont-width .navbar-inner {padding-left:10px;padding-right:10px;min-height:40px;}
-.navbar-static-cont-width {margin:0 auto;padding:10px;}
+.navbar-static-cont-width {padding:10px;}
 @media (min-width: 1200px) {
-  .navbar-static-cont-width {width:1170px;}
+  .navbar-static-cont-width {width:100%;}
 }
 @media (max-width: 1199px) {
-	.navbar-static-cont-width {width:940px;}
+	.navbar-static-cont-width {width:100%;}
 }
 @media (min-width: 768px) and (max-width: 979px) {
 	.navbar-static-cont-width {width:724px;}
