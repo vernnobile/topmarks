@@ -30,6 +30,10 @@ line-height:1.8em;
 	.navbar-static-cont-width {width:auto;}
 }
 
+.navTitle {
+	color:white;
+	padding-left:10px;
+}
 .navbar {  
 	margin-top:20px;
 background-color: #49AFCD;
