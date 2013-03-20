@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="170.54546"
-   height="154.5974"
+   width="155.09375"
+   height="155.09375"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="tick.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -42,7 +42,8 @@
        gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
-       id="filter3882">
+       id="filter3882"
+       color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="4.2035803"
@@ -57,8 +58,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0263158"
-     inkscape:cx="135.74666"
-     inkscape:cy="71.350651"
+     inkscape:cx="135.80916"
+     inkscape:cy="72.909504"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -87,19 +88,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-270.05194,-439.11543)">
+     transform="translate(-269.98944,-440.17793)">
     <path
-       style="fill:#808080;stroke:url(#radialGradient3860);filter:url(#filter3882)"
-       d="m 277.19481,550.90764 57.89611,46.44155 102.64935,-129.7922 -22.20779,-20.72728 -81.92208,109.55844 -34.54546,-28.62337 z"
-       id="path3064"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc"
-       transform="matrix(0.91052528,0,0,0.85901182,29.763529,68.920128)" />
-    <path
-       style="fill:#ffffff;stroke:none"
-       d="m 284.24943,534.73757 49.57041,37.35027 96.61029,-108.94947 -20.67012,-15.26141 -77.28822,97.50342 -32.35321,-25.01174 z"
-       id="path3064-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 77.46875,6.0625 c -40.065749,0 -72.53125,32.465501 -72.53125,72.53125 0,40.06575 32.465501,72.5625 72.53125,72.5625 40.06575,0 72.5625,-32.49675 72.5625,-72.5625 0,-40.065749 -32.49675,-72.53125 -72.5625,-72.53125 z M 118.25,26.03125 139.6875,45.125 59.84375,142.84375 45.03125,129.03125 10.25,95.90625 l 17.9375,-18.375 27.5625,26.75 62.5,-78.25 z"
+       transform="translate(270.05194,439.11543)"
+       id="path3905"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
