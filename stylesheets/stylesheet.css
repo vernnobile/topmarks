@@ -56,11 +56,11 @@ line-height:1.8em;
 .navbar {  
 	margin-top:20px;
 background-color: #006B00;
-background-image: -moz-linear-gradient(top, #006B00, #003D00);
-background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#006B00), to(#003D00));
-background-image: -webkit-linear-gradient(top, #006B00, #003D00);
-background-image: -o-linear-gradient(top, #006B00, #003D00);
-background-image: linear-gradient(to bottom, #006B00, #003D00);
+background-image: -moz-linear-gradient(top, #008B00, #006b00);
+background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#008B00), to(#006b00));
+background-image: -webkit-linear-gradient(top, #008B00, #006b00);
+background-image: -o-linear-gradient(top, #008B00, #006b00);
+background-image: linear-gradient(to bottom, #008B00, #006b00);
 background-repeat: repeat-x;
   border:1px solid #D4D4D4;
   border-bottom-left-radius:4px;
