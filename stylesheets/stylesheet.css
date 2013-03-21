@@ -2,9 +2,10 @@
 font-family: 'topmarksbook';
 color:#666;
 font-size:2.5em;
-padding:0 0 2em 0;
+padding:3px 3px 5px 3px;
 border:solid 1px #ddd;
-line-height:1.2em;}
+line-height:1.2em;
+margin-bottom:0.3em;}
 
 body {
 background-color:#ccc;
