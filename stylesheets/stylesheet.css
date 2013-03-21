@@ -2,6 +2,7 @@ body table td {
 font-family: 'topmarksbook';
 font-size:3em;
 padding:0.3em;
+border:solid 1px #ccc;
 }
 
 body {
