@@ -1,7 +1,8 @@
 .tab {
-width:auto;
-background-color:#ddd;
-padding:3px;
+width:100px;
+background-color:#ccc;
+color:#fff;
+padding:3px 3px 0px 3px;
 border-bottom-left-radius:0px;
   border-bottom-right-radius:0px;
   border-top-left-radius:4px;
