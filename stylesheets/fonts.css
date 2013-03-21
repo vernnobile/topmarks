@@ -35,9 +35,9 @@
   font-style: normal;
   
   font-weight: normal;
-  src: url("https://github.com/vernnobile/topmarks/raw/master/Bold/topmarks-bold-x.eot?#iefix") format("embedded-opentype"),
-   url("https://github.com/vernnobile/topmarks/raw/master/Bold/topmarks-bold-x.woff") format("woff"),
- url("https://github.com/vernnobile/topmarks/raw/master/Bold/topmarks-bold-x.ttf") format("truetype");
+  src: url("https://github.com/vernnobile/topmarks/raw/binaries/Bold/topmarks-bold-x.eot?#iefix") format("embedded-opentype"),
+   url("https://github.com/vernnobile/topmarks/raw/binaries/Bold/topmarks-bold-x.woff") format("woff"),
+ url("https://github.com/vernnobile/topmarks/raw/binaries/Bold/topmarks-bold-x.ttf") format("truetype");
 }
 
 @font-face {
@@ -47,17 +47,7 @@
   font-style: normal;
   
   font-weight: normal;
-  src: url("https://github.com/vernnobile/topmarks/raw/master/Regular/topmarks-book-x.eot?#iefix") format("embedded-opentype"),
-  url("https://github.com/vernnobile/topmarks/raw/master/Regular/topmarks-book-x.woff") format("woff"),
-  url("https://github.com/vernnobile/topmarks/raw/master/Regular/topmarks-book-x.ttf") format("truetype");
-}
-
-@font-face {
-  
-  font-family: "topmarkslight";
-  
-  font-style: normal;
-  
-  font-weight: normal;
-  src: url("fonts/topmarks-light-x.eot?#iefix") format("embedded-opentype"), url("fonts/topmarks-light-x.woff") format("woff"), url("fonts/topmarks-light-x.ttf") format("truetype");
+  src: url("https://github.com/vernnobile/topmarks/raw/binaries/Regular/topmarks-book-x.eot?#iefix") format("embedded-opentype"),
+  url("https://github.com/vernnobile/topmarks/raw/binaries/Regular/topmarks-book-x.woff") format("woff"),
+  url("https://github.com/vernnobile/topmarks/raw/binaries/Regular/topmarks-book-x.ttf") format("truetype");
 }
