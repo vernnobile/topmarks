@@ -1,8 +1,9 @@
 body table td {
 font-family: 'topmarksbook';
+color:#666;
 font-size:2.5em;
-padding:0.7em;
-border:solid 1px #ccc;
+padding:0.8em;
+border:solid 1px #ddd;
 }
 
 body {
