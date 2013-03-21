@@ -18,6 +18,8 @@
 	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2013/03/18 21:19:03</string>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
 	<key>openTypeNameDescription</key>
 	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
 	<key>openTypeNameDesigner</key>
@@ -31,10 +33,6 @@
 		<integer>0</integer>
 		<integer>0</integer>
 	</array>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>1960</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>-625</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2VendorID</key>
@@ -44,9 +42,9 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>1960</integer>
+	<integer>1638</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>625</integer>
+	<integer>410</integer>
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>

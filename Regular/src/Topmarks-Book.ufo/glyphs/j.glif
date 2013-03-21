@@ -4,22 +4,22 @@
   <unicode hex="006A"/>
   <outline>
     <contour>
-      <point x="11" y="-463" type="curve" smooth="yes"/>
-      <point x="218" y="-463"/>
-      <point x="371" y="-322"/>
-      <point x="371" y="35" type="curve" smooth="yes"/>
-      <point x="371" y="1026" type="line"/>
-      <point x="207" y="1026" type="line"/>
-      <point x="207" y="29" type="line" smooth="yes"/>
-      <point x="207" y="-247"/>
-      <point x="112" y="-332"/>
-      <point x="-11" y="-332" type="curve" smooth="yes"/>
-      <point x="-53" y="-332"/>
-      <point x="-98" y="-322"/>
-      <point x="-143" y="-307" type="curve"/>
-      <point x="-162" y="-435" type="line"/>
-      <point x="-102" y="-453"/>
-      <point x="-44" y="-463"/>
+      <point x="91.0" y="-464.0" type="curve" smooth="yes"/>
+      <point x="292.0" y="-464.0"/>
+      <point x="371.0" y="-360.0"/>
+      <point x="371.0" y="-84.0" type="curve" smooth="yes"/>
+      <point x="371.0" y="1026.0" type="line"/>
+      <point x="206.0" y="1026.0" type="line"/>
+      <point x="206.0" y="-76.0" type="line" smooth="yes"/>
+      <point x="206.0" y="-269.0"/>
+      <point x="179.0" y="-329.0"/>
+      <point x="68.0" y="-329.0" type="curve" smooth="yes"/>
+      <point x="10.0" y="-329.0"/>
+      <point x="-45.0" y="-311.0"/>
+      <point x="-45.0" y="-311.0" type="curve"/>
+      <point x="-60.0" y="-443.0" type="line"/>
+      <point x="-27.0" y="-452.0"/>
+      <point x="34.0" y="-464.0"/>
     </contour>
     <contour>
       <point x="290" y="1245" type="curve" smooth="yes"/>
@@ -76,6 +76,34 @@
             <integer>164</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.layerData</key>
+            <dict>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>j</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>539</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
