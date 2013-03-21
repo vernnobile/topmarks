@@ -1,5 +1,7 @@
 .tab {
-width:100px;
+width:200px;
+text-align:center;
+margin-left:21px;
 background-color:#ccc;
 color:#fff;
 padding:3px 3px 0px 3px;
@@ -7,7 +9,7 @@ border-bottom-left-radius:0px;
   border-bottom-right-radius:0px;
   border-top-left-radius:4px;
   border-top-right-radius:4px;
-  border:solid 1px #ddd;
+  border:solid 1px 1px 0px 1px #ddd;
 	}
 
 .specimen {
