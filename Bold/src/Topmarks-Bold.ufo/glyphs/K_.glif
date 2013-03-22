@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="1">
-  <advance width="1278"/>
+  <advance width="1275"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
@@ -8,11 +8,11 @@
       <point x="182" y="1448" type="line"/>
       <point x="432" y="1448" type="line"/>
       <point x="432" y="822" type="line"/>
-      <point x="929.43" y="1448" type="line"/>
-      <point x="1239.07" y="1448" type="line"/>
+      <point x="941" y="1448" type="line"/>
+      <point x="1245" y="1448" type="line"/>
       <point x="660.402" y="773" type="line"/>
-      <point x="1273.07" y="0" type="line"/>
-      <point x="942.068" y="0" type="line"/>
+      <point x="1279" y="0" type="line"/>
+      <point x="960" y="0" type="line"/>
       <point x="432" y="681" type="line"/>
       <point x="432" y="0" type="line"/>
     </contour>
@@ -41,7 +41,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1278</integer>
+          <integer>1275</integer>
         </dict>
       </dict>
     </dict>

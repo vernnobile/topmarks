@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="1187"/>
+  <advance width="1179.81"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="469.515" y="0" type="line"/>
-      <point x="469.515" y="1248" type="line"/>
-      <point x="60" y="1248" type="line"/>
-      <point x="60" y="1448" type="line"/>
-      <point x="1127.81" y="1448" type="line"/>
-      <point x="1127.81" y="1248" type="line"/>
-      <point x="718.434" y="1248" type="line"/>
-      <point x="718.434" y="0" type="line"/>
+      <point x="465.515" y="0" type="line"/>
+      <point x="465.515" y="1248" type="line"/>
+      <point x="56" y="1248" type="line"/>
+      <point x="56" y="1448" type="line"/>
+      <point x="1123.81" y="1448" type="line"/>
+      <point x="1123.81" y="1248" type="line"/>
+      <point x="714.434" y="1248" type="line"/>
+      <point x="714.434" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -65,7 +65,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1187</integer>
+          <real>1179.81</real>
         </dict>
       </dict>
     </dict>

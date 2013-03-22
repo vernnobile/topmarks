@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two" format="1">
-  <advance width="1244"/>
+  <advance width="1272"/>
   <unicode hex="0032"/>
   <outline>
     <contour>
@@ -9,18 +9,18 @@
       <point x="1051" y="1311"/>
       <point x="1051" y="1002" type="curve" smooth="yes"/>
       <point x="1051" y="838"/>
-      <point x="963" y="694"/>
-      <point x="816" y="529" type="curve" smooth="yes"/>
-      <point x="517" y="200" type="line"/>
+      <point x="955" y="690"/>
+      <point x="804" y="529" type="curve" smooth="yes"/>
+      <point x="497" y="200" type="line"/>
       <point x="1048" y="200" type="line"/>
       <point x="1048" y="0" type="line"/>
       <point x="196" y="0" type="line"/>
       <point x="196" y="192" type="line"/>
-      <point x="629" y="666" type="line" smooth="yes"/>
-      <point x="746" y="796"/>
-      <point x="795" y="921"/>
-      <point x="795" y="1022" type="curve" smooth="yes"/>
-      <point x="795" y="1159"/>
+      <point x="641" y="671" type="line" smooth="yes"/>
+      <point x="758" y="801"/>
+      <point x="812" y="926"/>
+      <point x="812" y="1027" type="curve" smooth="yes"/>
+      <point x="812" y="1164"/>
       <point x="704" y="1252"/>
       <point x="567" y="1252" type="curve" smooth="yes"/>
       <point x="475" y="1252"/>
@@ -273,7 +273,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1244</integer>
+          <integer>1272</integer>
         </dict>
       </dict>
     </dict>
