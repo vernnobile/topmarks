@@ -2,21 +2,18 @@
 
 
 
-@font-face {
+/*@font-face {
     font-family: 'mulimedium';
     /*src: url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.eot');
-    src: url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.eot?#iefix') format('embedded-opentype'),*/
+    src: url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.eot?#iefix') format('embedded-opentype'),
         url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.woff') format('woff'),
-        /* url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.ttf') format('truetype');
+        url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.ttf') format('truetype');
     font-weight: normal;
-    font-style: normal;*/
+    font-style: normal;
 
 }
 
-
-
-
-/*@font-face {
+@font-face {
     font-family: 'mulimedium-italic';
     src: url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM-italic/muli-medium-italic-x.eot');
     src: url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM-italic/muli-medium-italic-x.eot?#iefix') format('embedded-opentype'),
@@ -31,21 +28,17 @@
 @font-face {
   
   font-family: "topmarksbold";
-  
   font-style: normal;
-  
   font-weight: normal;
   src: url("https://github.com/vernnobile/topmarks/raw/binaries/Bold/topmarks-bold-x.eot?#iefix") format("embedded-opentype"),
-   url("https://github.com/vernnobile/topmarks/raw/binaries/Bold/topmarks-bold-x.woff") format("woff"),
+   /*url("https://github.com/vernnobile/topmarks/raw/binaries/Bold/topmarks-bold-x.woff") format("woff"),*/
  url("https://github.com/vernnobile/topmarks/raw/binaries/Bold/topmarks-bold-x.ttf") format("truetype");
 }
 
 @font-face {
   
   font-family: "topmarksbook";
-  
   font-style: normal;
-  
   font-weight: normal;
   src: url("https://github.com/vernnobile/topmarks/raw/binaries/Regular/topmarks-book-x.eot?#iefix") format("embedded-opentype"),
   url("https://github.com/vernnobile/topmarks/raw/binaries/Regular/topmarks-book-x.woff") format("woff"),
