@@ -6,7 +6,7 @@
     font-family: 'mulimedium';
     src: url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.eot');
     src: url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.eot?#iefix') format('embedded-opentype'),
-         url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.woff') format('woff'),
+        /* url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.woff') forma**t('woff'),*/
          url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
