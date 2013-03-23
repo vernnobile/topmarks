@@ -4,19 +4,19 @@
 
 @font-face {
     font-family: 'mulimedium';
-    src: url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.eot');
-    src: url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.eot?#iefix') format('embedded-opentype'),
-        /* url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.woff') forma**t('woff'),*/
-         url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.ttf') format('truetype');
+    /*src: url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.eot');
+    src: url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.eot?#iefix') format('embedded-opentype'),*/
+        url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.woff') format('woff'),
+        /* url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM/muli-medium-x.ttf') format('truetype');
     font-weight: normal;
-    font-style: normal;
+    font-style: normal;*/
 
 }
 
 
 
 
-@font-face {
+/*@font-face {
     font-family: 'mulimedium-italic';
     src: url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM-italic/muli-medium-italic-x.eot');
     src: url('https://github.com/vernnobile/MuliFont/raw/master/MEDIUM-italic/muli-medium-italic-x.eot?#iefix') format('embedded-opentype'),
@@ -25,7 +25,7 @@
     font-weight: normal;
     font-style: normal;
 
-}
+}*/
 
 
 @font-face {
