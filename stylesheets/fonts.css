@@ -31,7 +31,7 @@
   font-style: normal;
   font-weight: normal;
   src: url("https://github.com/vernnobile/topmarks/raw/binaries/Bold/topmarks-bold-x.eot?#iefix") format("embedded-opentype"),
-   /*url("https://github.com/vernnobile/topmarks/raw/binaries/Bold/topmarks-bold-x.woff") format("woff"),*/
+   url("https://github.com/vernnobile/topmarks/raw/binaries/Bold/topmarks-bold-x.woff") format("woff"),
  url("https://github.com/vernnobile/topmarks/raw/binaries/Bold/topmarks-bold-x.ttf") format("truetype");
 }
 
