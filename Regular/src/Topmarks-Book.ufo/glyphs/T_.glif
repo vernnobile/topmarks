@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="1143"/>
+  <advance width="1155"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="484" y="0" type="line"/>
-      <point x="484" y="1318" type="line"/>
-      <point x="24" y="1318" type="line"/>
-      <point x="24" y="1456" type="line"/>
-      <point x="1119" y="1456" type="line"/>
-      <point x="1119" y="1318" type="line"/>
-      <point x="656" y="1318" type="line"/>
-      <point x="656" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="490" y="1318" type="line"/>
+      <point x="30" y="1318" type="line"/>
+      <point x="30" y="1456" type="line"/>
+      <point x="1125" y="1456" type="line"/>
+      <point x="1125" y="1318" type="line"/>
+      <point x="662" y="1318" type="line"/>
+      <point x="662" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,11 +37,14 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>484</integer>
+            <integer>489</integer>
             <key>width</key>
             <integer>172</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

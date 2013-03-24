@@ -1,42 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="summation" format="1">
-  <advance width="1237"/>
+  <advance width="1247"/>
   <unicode hex="2211"/>
   <outline>
     <contour>
-      <point x="57" y="-329" type="line"/>
-      <point x="57" y="-239" type="line"/>
-      <point x="681" y="552" type="line"/>
-      <point x="79" y="1328" type="line"/>
-      <point x="79" y="1423" type="line"/>
-      <point x="1148" y="1423" type="line"/>
-      <point x="1148" y="1281" type="line"/>
-      <point x="324" y="1281" type="line"/>
-      <point x="874" y="561" type="line"/>
-      <point x="294" y="-181" type="line"/>
-      <point x="1193" y="-181" type="line"/>
-      <point x="1193" y="-329" type="line"/>
+      <point x="67" y="-329" type="line"/>
+      <point x="67" y="-239" type="line"/>
+      <point x="691" y="552" type="line"/>
+      <point x="89" y="1328" type="line"/>
+      <point x="89" y="1423" type="line"/>
+      <point x="1158" y="1423" type="line"/>
+      <point x="1158" y="1281" type="line"/>
+      <point x="334" y="1281" type="line"/>
+      <point x="884" y="561" type="line"/>
+      <point x="304" y="-181" type="line"/>
+      <point x="1203" y="-181" type="line"/>
+      <point x="1203" y="-329" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-329</integer>
-            <key>width</key>
-            <integer>148</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1281</integer>
-            <key>width</key>
-            <integer>142</integer>
-          </dict>
-        </array>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-329</integer>
+	    <key>width</key>	    <integer>148</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1281</integer>
+	    <key>width</key>	    <integer>142</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

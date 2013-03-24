@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scircumflex" format="1">
-  <advance width="1219"/>
+  <advance width="1229"/>
   <unicode hex="015C"/>
   <outline>
-    <component base="S"/>
-    <component base="circumflex" xOffset="249" yOffset="431"/>
+    <component base="S" xOffset="10"/>
+    <component base="circumflex" xOffset="259" yOffset="431"/>
   </outline>
   <lib>
     <dict>
@@ -35,19 +35,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>136</integer>
+            <integer>146</integer>
             <key>width</key>
             <integer>184</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>284</integer>
+            <integer>294</integer>
             <key>width</key>
             <integer>614</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>921</integer>
+            <integer>931</integer>
             <key>width</key>
             <integer>179</integer>
           </dict>
@@ -55,28 +55,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Scircumflex</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1219</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

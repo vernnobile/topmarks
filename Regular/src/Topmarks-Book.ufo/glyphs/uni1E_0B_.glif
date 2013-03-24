@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E0B" format="1">
-  <advance width="1190"/>
+  <advance width="1200"/>
   <unicode hex="1E0B"/>
   <outline>
-    <component base="d"/>
-    <component base="dotaccent" xOffset="228" yOffset="178"/>
+    <component base="d" xOffset="10"/>
+    <component base="dotaccent" xOffset="238" yOffset="178"/>
   </outline>
   <lib>
     <dict>
@@ -41,19 +41,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>100</integer>
+            <integer>110</integer>
             <key>width</key>
             <integer>171</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>412</integer>
+            <integer>422</integer>
             <key>width</key>
             <integer>160</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>839</integer>
+            <integer>849</integer>
             <key>width</key>
             <integer>165</integer>
           </dict>
@@ -61,28 +61,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni1E0B</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1190</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

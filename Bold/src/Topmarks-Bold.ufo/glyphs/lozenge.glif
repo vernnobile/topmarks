@@ -1,58 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lozenge" format="1">
-  <advance width="2128"/>
+  <advance width="2138"/>
   <unicode hex="25CA"/>
   <outline>
     <contour>
-      <point x="754.435" y="89" type="curve"/>
-      <point x="877.212" y="335"/>
-      <point x="1011.73" y="567"/>
-      <point x="1146.6" y="808" type="curve"/>
-      <point x="1015.34" y="1049"/>
-      <point x="885.337" y="1284"/>
-      <point x="765.268" y="1528" type="curve"/>
-      <point x="642.491" y="1281"/>
-      <point x="507.074" y="1050"/>
-      <point x="372" y="811" type="curve"/>
-      <point x="503.463" y="570"/>
-      <point x="632.56" y="333"/>
+      <point x="764" y="89" type="curve"/>
+      <point x="887" y="335"/>
+      <point x="1022" y="567"/>
+      <point x="1157" y="808" type="curve"/>
+      <point x="1026" y="1049"/>
+      <point x="895" y="1284"/>
+      <point x="775" y="1528" type="curve"/>
+      <point x="652" y="1281"/>
+      <point x="517" y="1050"/>
+      <point x="382" y="811" type="curve"/>
+      <point x="513" y="570"/>
+      <point x="642" y="333"/>
     </contour>
     <contour>
-      <point x="698.463" y="-79" type="line"/>
-      <point x="197" y="808" type="line"/>
-      <point x="705.685" y="1700" type="line"/>
-      <point x="819.435" y="1700" type="line"/>
-      <point x="1323.6" y="809" type="line"/>
-      <point x="810.407" y="-79" type="line"/>
+      <point x="708" y="-79" type="line"/>
+      <point x="207" y="808" type="line"/>
+      <point x="716" y="1700" type="line"/>
+      <point x="829" y="1700" type="line"/>
+      <point x="1334" y="809" type="line"/>
+      <point x="820" y="-79" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>lozenge</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>2128</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

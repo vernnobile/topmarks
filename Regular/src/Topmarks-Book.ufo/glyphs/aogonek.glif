@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aogonek" format="1">
-  <advance width="1184"/>
+  <advance width="1194"/>
   <unicode hex="0105"/>
   <outline>
-    <component base="a"/>
-    <component base="ogonek" xOffset="680.25"/>
+    <component base="a" xOffset="10"/>
+    <component base="ogonek" xOffset="690.25"/>
   </outline>
   <lib>
     <dict>
@@ -41,19 +41,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>100</integer>
+            <integer>110</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>728</integer>
+            <integer>738</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>834</integer>
+            <integer>844</integer>
             <key>width</key>
             <integer>164</integer>
           </dict>
@@ -61,28 +61,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>aogonek</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1184</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

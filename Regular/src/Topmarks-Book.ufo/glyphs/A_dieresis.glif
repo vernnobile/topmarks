@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Adieresis" format="1">
-  <advance width="1384"/>
+  <advance width="1394"/>
   <unicode hex="00C4"/>
   <outline>
-    <component base="A"/>
-    <component base="dieresis" xOffset="343" yOffset="430"/>
+    <component base="A" xOffset="10"/>
+    <component base="dieresis" xOffset="353" yOffset="430"/>
   </outline>
   <lib>
     <dict>
@@ -41,13 +41,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>464</integer>
+            <integer>474</integer>
             <key>width</key>
             <integer>164</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>796</integer>
+            <integer>806</integer>
             <key>width</key>
             <integer>164</integer>
           </dict>
@@ -55,28 +55,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Adieresis</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1384</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

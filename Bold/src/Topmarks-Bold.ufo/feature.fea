@@ -14,12 +14,18 @@ lookup pos_pair_kernlatn_0 {
     pos \r \o -17;
 } pos_pair_kernlatn_0;
 
+lookup pos_pair_kernlatn_2 {
+  lookupflag 0;
+    pos \r \o -17;
+} pos_pair_kernlatn_2;
+
 feature kern {
 
  script latn;
      language dflt ;
       lookup kernHorizontalKerninginLatinloo;
       lookup pos_pair_kernlatn_0;
+      lookup pos_pair_kernlatn_2;
 } kern;
 
 @GDEF_Simple = [\A \AE \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Amacron 

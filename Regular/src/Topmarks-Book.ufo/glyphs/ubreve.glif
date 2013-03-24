@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve" format="1">
-  <advance width="1219"/>
+  <advance width="1229"/>
   <unicode hex="016D"/>
   <outline>
-    <component base="breve" xOffset="285"/>
-    <component base="u"/>
+    <component base="breve" xOffset="295"/>
+    <component base="u" xOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -47,25 +47,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>161</integer>
+            <integer>171</integer>
             <key>width</key>
             <integer>165</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>317</integer>
+            <integer>327</integer>
             <key>width</key>
             <integer>87</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>795</integer>
+            <integer>805</integer>
             <key>width</key>
             <integer>86</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>844</integer>
+            <integer>854</integer>
             <key>width</key>
             <integer>164</integer>
           </dict>
@@ -73,28 +73,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ubreve</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1219</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

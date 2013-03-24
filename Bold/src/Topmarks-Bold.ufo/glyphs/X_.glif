@@ -1,49 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="1">
-  <advance width="1307.85"/>
+  <advance width="1317"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
-      <point x="1028.85" y="0" type="line"/>
-      <point x="654.194" y="561" type="line"/>
-      <point x="266" y="0" type="line"/>
-      <point x="-8" y="0" type="line"/>
-      <point x="530.513" y="748" type="line"/>
-      <point x="41" y="1448" type="line"/>
-      <point x="319.264" y="1448" type="line"/>
-      <point x="677.666" y="905" type="line"/>
-      <point x="1043.85" y="1448" type="line"/>
-      <point x="1316.85" y="1448" type="line"/>
-      <point x="801.346" y="717" type="line"/>
-      <point x="1299.85" y="0" type="line"/>
+      <point x="1033" y="0" type="line"/>
+      <point x="658" y="561" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="-4" y="0" type="line"/>
+      <point x="535" y="748" type="line"/>
+      <point x="45" y="1448" type="line"/>
+      <point x="323" y="1448" type="line"/>
+      <point x="682" y="905" type="line"/>
+      <point x="1048" y="1448" type="line"/>
+      <point x="1321" y="1448" type="line"/>
+      <point x="805" y="717" type="line"/>
+      <point x="1304" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>X</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>1307.85</real>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1428</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

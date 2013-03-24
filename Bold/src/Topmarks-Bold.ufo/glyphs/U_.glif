@@ -1,88 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="U" format="1">
-  <advance width="1478.42"/>
+  <advance width="1488"/>
   <unicode hex="0055"/>
   <outline>
     <contour>
-      <point x="747.958" y="-22" type="curve" smooth="yes"/>
-      <point x="401" y="-22"/>
-      <point x="154" y="208"/>
-      <point x="154" y="547" type="curve" smooth="yes"/>
-      <point x="154" y="1448" type="line"/>
-      <point x="404" y="1448" type="line"/>
-      <point x="404" y="536" type="line" smooth="yes"/>
-      <point x="404" y="322"/>
-      <point x="541" y="180"/>
-      <point x="747" y="180" type="curve" smooth="yes"/>
-      <point x="942" y="180"/>
-      <point x="1075" y="319"/>
-      <point x="1075" y="529" type="curve" smooth="yes"/>
-      <point x="1074.5" y="1448" type="line"/>
-      <point x="1324.42" y="1448" type="line"/>
-      <point x="1324.42" y="558" type="line" smooth="yes"/>
-      <point x="1324.42" y="213"/>
-      <point x="1087.42" y="-22"/>
+      <point x="753" y="-22" type="curve" smooth="yes"/>
+      <point x="406" y="-22"/>
+      <point x="159" y="208"/>
+      <point x="159" y="547" type="curve" smooth="yes"/>
+      <point x="159" y="1448" type="line"/>
+      <point x="409" y="1448" type="line"/>
+      <point x="409" y="536" type="line" smooth="yes"/>
+      <point x="409" y="322"/>
+      <point x="546" y="180"/>
+      <point x="752" y="180" type="curve" smooth="yes"/>
+      <point x="947" y="180"/>
+      <point x="1080" y="319"/>
+      <point x="1080" y="529" type="curve" smooth="yes"/>
+      <point x="1079" y="1448" type="line"/>
+      <point x="1329" y="1448" type="line"/>
+      <point x="1329" y="558" type="line" smooth="yes"/>
+      <point x="1329" y="213"/>
+      <point x="1092" y="-22"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-22</integer>
-            <key>width</key>
-            <integer>218</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1428</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>172</integer>
-            <key>width</key>
-            <integer>250</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1093</integer>
-            <key>width</key>
-            <integer>250</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>U</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>1478.42</real>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-22</integer>
+	    <key>width</key>	    <integer>202</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1428</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>159</integer>
+	    <key>width</key>
+	    <integer>250</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1080</integer>
+	    <key>width</key>
+	    <integer>249</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

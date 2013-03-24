@@ -1,55 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gdotaccent" format="1">
-  <advance width="1476"/>
+  <advance width="1486"/>
   <unicode hex="0120"/>
   <outline>
-    <component base="G"/>
-    <component base="dotaccent" xOffset="515" yOffset="426"/>
+    <component base="G" xOffset="10"/>
+    <component base="dotaccent" xOffset="525" yOffset="426"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-22</integer>
-	    <key>width</key>	    <integer>152</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>608</integer>
-	    <key>width</key>	    <integer>149</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1331</integer>
-	    <key>width</key>	    <integer>152</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1672</integer>
-	    <key>width</key>	    <integer>163</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>112</integer>
-	    <key>width</key>
-	    <integer>178</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>699</integer>
-	    <key>width</key>
-	    <integer>160</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1141</integer>
-	    <key>width</key>
-	    <integer>172</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-22</integer>
+            <key>width</key>
+            <integer>152</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>608</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1331</integer>
+            <key>width</key>
+            <integer>152</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1672</integer>
+            <key>width</key>
+            <integer>163</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>122</integer>
+            <key>width</key>
+            <integer>178</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>709</integer>
+            <key>width</key>
+            <integer>160</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1151</integer>
+            <key>width</key>
+            <integer>172</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

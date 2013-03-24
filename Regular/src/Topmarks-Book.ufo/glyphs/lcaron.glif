@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="1">
-  <advance width="686"/>
+  <advance width="696"/>
   <unicode hex="013E"/>
   <outline>
-    <component base="comma" xOffset="-4" yOffset="-346"/>
-    <component base="l"/>
+    <component base="comma" xOffset="6" yOffset="-346"/>
+    <component base="l" xOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -35,13 +35,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>74</integer>
+            <integer>84</integer>
             <key>width</key>
             <integer>294</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>168</integer>
+            <integer>178</integer>
             <key>width</key>
             <integer>164</integer>
           </dict>
@@ -49,28 +49,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>lcaron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>686</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

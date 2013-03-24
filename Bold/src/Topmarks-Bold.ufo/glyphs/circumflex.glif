@@ -1,45 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="1">
-  <advance width="1202"/>
+  <advance width="1212"/>
   <unicode hex="02C6"/>
   <outline>
     <contour>
-      <point x="313.602" y="2442" type="line"/>
-      <point x="27" y="2061" type="line"/>
-      <point x="245" y="2061" type="line"/>
-      <point x="396.657" y="2245" type="line"/>
-      <point x="542.119" y="2061" type="line"/>
-      <point x="768.119" y="2061" type="line"/>
-      <point x="479.713" y="2442" type="line"/>
+      <point x="324" y="2442" type="line"/>
+      <point x="37" y="2061" type="line"/>
+      <point x="255" y="2061" type="line"/>
+      <point x="407" y="2245" type="line"/>
+      <point x="552" y="2061" type="line"/>
+      <point x="778" y="2061" type="line"/>
+      <point x="490" y="2442" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>circumflex</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1202</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

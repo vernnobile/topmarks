@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gbreve" format="1">
-  <advance width="1155"/>
+  <advance width="1165"/>
   <unicode hex="011F"/>
   <outline>
-    <component base="breve" xOffset="247" yOffset="1"/>
-    <component base="g"/>
+    <component base="breve" xOffset="257" yOffset="1"/>
+    <component base="g" xOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -47,25 +47,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>100</integer>
+            <integer>110</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>279</integer>
+            <integer>289</integer>
             <key>width</key>
             <integer>87</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>757</integer>
+            <integer>767</integer>
             <key>width</key>
             <integer>86</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>839</integer>
+            <integer>849</integer>
             <key>width</key>
             <integer>164</integer>
           </dict>
@@ -73,28 +73,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>gbreve</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1155</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

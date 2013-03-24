@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1918"/>
+  <advance width="1946"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="190" y="0" type="line"/>
-      <point x="190" y="1456" type="line"/>
-      <point x="416" y="1456" type="line"/>
-      <point x="881" y="579" type="line"/>
-      <point x="964" y="420" type="line"/>
-      <point x="1045" y="582" type="line"/>
-      <point x="1524" y="1456" type="line"/>
-      <point x="1736" y="1456" type="line"/>
-      <point x="1736" y="0" type="line"/>
-      <point x="1568" y="0" type="line"/>
-      <point x="1568" y="1251" type="line"/>
-      <point x="1493" y="1096" type="line"/>
-      <point x="1022" y="220" type="line"/>
-      <point x="901" y="220" type="line"/>
-      <point x="427" y="1108" type="line"/>
-      <point x="360" y="1268" type="line"/>
-      <point x="360" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="1456" type="line"/>
+      <point x="426" y="1456" type="line"/>
+      <point x="891" y="579" type="line"/>
+      <point x="974" y="420" type="line"/>
+      <point x="1055" y="582" type="line"/>
+      <point x="1534" y="1456" type="line"/>
+      <point x="1746" y="1456" type="line"/>
+      <point x="1746" y="0" type="line"/>
+      <point x="1578" y="0" type="line"/>
+      <point x="1578" y="1251" type="line"/>
+      <point x="1503" y="1096" type="line"/>
+      <point x="1032" y="220" type="line"/>
+      <point x="911" y="220" type="line"/>
+      <point x="437" y="1108" type="line"/>
+      <point x="370" y="1268" type="line"/>
+      <point x="370" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -46,13 +46,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>174</integer>
+            <integer>191</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1552</integer>
+            <integer>1569</integer>
             <key>width</key>
             <integer>168</integer>
           </dict>
@@ -60,28 +60,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>M</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1918</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

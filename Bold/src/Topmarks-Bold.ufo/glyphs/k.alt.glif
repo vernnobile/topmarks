@@ -1,52 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k.alt" format="1">
-  <advance width="1838"/>
+  <advance width="1848"/>
   <outline>
     <contour>
-      <point x="314" y="0" type="line"/>
-      <point x="461" y="0" type="line"/>
-      <point x="566.625" y="174"/>
-      <point x="672.25" y="347"/>
-      <point x="778.777" y="521" type="curve"/>
-      <point x="1077.6" y="0" type="line"/>
-      <point x="1289.6" y="0" type="line"/>
-      <point x="876.277" y="680" type="line"/>
-      <point x="982.805" y="855"/>
-      <point x="1091.6" y="1030"/>
-      <point x="1209.6" y="1205" type="curve"/>
-      <point x="1007.18" y="1205" type="line"/>
-      <point x="502.528" y="362" type="line"/>
-      <point x="502.528" y="1791" type="line"/>
-      <point x="314" y="1791" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="577" y="174"/>
+      <point x="682" y="347"/>
+      <point x="789" y="521" type="curve"/>
+      <point x="1088" y="0" type="line"/>
+      <point x="1300" y="0" type="line"/>
+      <point x="886" y="680" type="line"/>
+      <point x="993" y="855"/>
+      <point x="1102" y="1030"/>
+      <point x="1220" y="1205" type="curve"/>
+      <point x="1017" y="1205" type="line"/>
+      <point x="513" y="362" type="line"/>
+      <point x="513" y="1791" type="line"/>
+      <point x="324" y="1791" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>k.alt</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1838</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

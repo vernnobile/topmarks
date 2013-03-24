@@ -1,72 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="1179.81"/>
+  <advance width="1189"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="465.515" y="0" type="line"/>
-      <point x="465.515" y="1248" type="line"/>
-      <point x="56" y="1248" type="line"/>
-      <point x="56" y="1448" type="line"/>
-      <point x="1123.81" y="1448" type="line"/>
-      <point x="1123.81" y="1248" type="line"/>
-      <point x="714.434" y="1248" type="line"/>
-      <point x="714.434" y="0" type="line"/>
+      <point x="470.5" y="0" type="line"/>
+      <point x="470.5" y="1248" type="line"/>
+      <point x="60.5" y="1248" type="line"/>
+      <point x="60.5" y="1448" type="line"/>
+      <point x="1128.5" y="1448" type="line"/>
+      <point x="1128.5" y="1248" type="line"/>
+      <point x="718.5" y="1248" type="line"/>
+      <point x="718.5" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1248</integer>
-            <key>width</key>
-            <integer>200</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>470</integer>
-            <key>width</key>
-            <integer>249</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>T</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>1179.81</real>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1248</integer>
+	    <key>width</key>	    <integer>200</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>470</integer>
+	    <key>width</key>
+	    <integer>248</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

@@ -1,41 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniF6C3" format="1">
-  <advance width="1055"/>
+  <advance width="1065"/>
   <outline>
     <contour>
-      <point x="194" y="-1062" type="line"/>
-      <point x="347" y="-1062" type="line"/>
-      <point x="538" y="-519" type="line"/>
-      <point x="319" y="-519" type="line"/>
+      <point x="204" y="-1062" type="line"/>
+      <point x="357" y="-1062" type="line"/>
+      <point x="548" y="-519" type="line"/>
+      <point x="329" y="-519" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uniF6C3</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1055</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

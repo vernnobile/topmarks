@@ -1,51 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scaron" format="1">
-  <advance width="876"/>
+  <advance width="886"/>
   <unicode hex="0161"/>
   <outline>
-    <component base="caron" xOffset="140" yOffset="1"/>
-    <component base="s"/>
+    <component base="caron" xOffset="150" yOffset="1"/>
+    <component base="s" xOffset="10"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-22</integer>
-	    <key>width</key>	    <integer>136</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>912</integer>
-	    <key>width</key>	    <integer>136</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1171</integer>
-	    <key>width</key>	    <integer>323</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>111</integer>
-	    <key>width</key>
-	    <integer>164</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>169</integer>
-	    <key>width</key>
-	    <integer>633</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>642</integer>
-	    <key>width</key>
-	    <integer>162</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-22</integer>
+            <key>width</key>
+            <integer>136</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>912</integer>
+            <key>width</key>
+            <integer>136</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1171</integer>
+            <key>width</key>
+            <integer>323</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>121</integer>
+            <key>width</key>
+            <integer>164</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>179</integer>
+            <key>width</key>
+            <integer>633</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>652</integer>
+            <key>width</key>
+            <integer>162</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

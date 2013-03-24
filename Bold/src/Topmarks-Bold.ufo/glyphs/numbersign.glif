@@ -1,74 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numbersign" format="1">
-  <advance width="2104"/>
+  <advance width="2114"/>
   <unicode hex="0023"/>
   <outline>
     <contour>
-      <point x="535" y="-127" type="line"/>
-      <point x="629" y="372" type="line"/>
-      <point x="338" y="372" type="line"/>
-      <point x="351" y="519" type="line"/>
-      <point x="654" y="519" type="line"/>
-      <point x="672" y="630"/>
-      <point x="690" y="734"/>
-      <point x="708" y="843" type="curve"/>
-      <point x="414" y="843" type="line"/>
-      <point x="430" y="988" type="line"/>
-      <point x="730" y="988" type="line"/>
-      <point x="814" y="1470" type="line"/>
-      <point x="969" y="1470" type="line"/>
-      <point x="887" y="988" type="line"/>
-      <point x="1164" y="988" type="line"/>
-      <point x="1245" y="1470" type="line"/>
-      <point x="1405" y="1470" type="line"/>
-      <point x="1317" y="988" type="line"/>
-      <point x="1596" y="988" type="line"/>
-      <point x="1579" y="843" type="line"/>
-      <point x="1293" y="843" type="line"/>
-      <point x="1238" y="519" type="line"/>
-      <point x="1522" y="519" type="line"/>
-      <point x="1505" y="372" type="line"/>
-      <point x="1215" y="372" type="line"/>
-      <point x="1127" y="-127" type="line"/>
-      <point x="974" y="-127" type="line"/>
-      <point x="1058" y="372" type="line"/>
-      <point x="782" y="372" type="line"/>
-      <point x="695" y="-127" type="line"/>
+      <point x="545" y="-127" type="line"/>
+      <point x="639" y="372" type="line"/>
+      <point x="348" y="372" type="line"/>
+      <point x="361" y="519" type="line"/>
+      <point x="664" y="519" type="line"/>
+      <point x="682" y="630"/>
+      <point x="700" y="734"/>
+      <point x="718" y="843" type="curve"/>
+      <point x="424" y="843" type="line"/>
+      <point x="440" y="988" type="line"/>
+      <point x="740" y="988" type="line"/>
+      <point x="824" y="1470" type="line"/>
+      <point x="979" y="1470" type="line"/>
+      <point x="897" y="988" type="line"/>
+      <point x="1174" y="988" type="line"/>
+      <point x="1255" y="1470" type="line"/>
+      <point x="1415" y="1470" type="line"/>
+      <point x="1327" y="988" type="line"/>
+      <point x="1606" y="988" type="line"/>
+      <point x="1589" y="843" type="line"/>
+      <point x="1303" y="843" type="line"/>
+      <point x="1248" y="519" type="line"/>
+      <point x="1532" y="519" type="line"/>
+      <point x="1515" y="372" type="line"/>
+      <point x="1225" y="372" type="line"/>
+      <point x="1137" y="-127" type="line"/>
+      <point x="984" y="-127" type="line"/>
+      <point x="1068" y="372" type="line"/>
+      <point x="792" y="372" type="line"/>
+      <point x="705" y="-127" type="line"/>
     </contour>
     <contour>
-      <point x="805" y="519" type="line"/>
-      <point x="1085" y="519" type="line"/>
-      <point x="1139" y="843" type="line"/>
-      <point x="863" y="843" type="line"/>
+      <point x="815" y="519" type="line"/>
+      <point x="1095" y="519" type="line"/>
+      <point x="1149" y="843" type="line"/>
+      <point x="873" y="843" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>numbersign</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>2104</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

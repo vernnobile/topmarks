@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ydieresis" format="1">
-  <advance width="1172"/>
+  <advance width="1182"/>
   <unicode hex="00FF"/>
   <outline>
-    <component base="dieresis" xOffset="176" yOffset="-2"/>
-    <component base="y"/>
+    <component base="dieresis" xOffset="186" yOffset="-2"/>
+    <component base="y" xOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -41,25 +41,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>161</integer>
+            <integer>171</integer>
             <key>width</key>
             <integer>165</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>297</integer>
+            <integer>307</integer>
             <key>width</key>
             <integer>164</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>629</integer>
+            <integer>639</integer>
             <key>width</key>
             <integer>164</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>848</integer>
+            <integer>858</integer>
             <key>width</key>
             <integer>164</integer>
           </dict>
@@ -67,28 +67,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ydieresis</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1172</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ntilde" format="1">
-  <advance width="1534"/>
+  <advance width="1544"/>
   <unicode hex="00D1"/>
   <outline>
-    <component base="N"/>
-    <component base="tilde" xOffset="470" yOffset="430"/>
+    <component base="N" xOffset="10"/>
+    <component base="tilde" xOffset="480" yOffset="430"/>
   </outline>
   <lib>
     <dict>
@@ -41,25 +41,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>174</integer>
+            <integer>184</integer>
             <key>width</key>
             <integer>172</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>484</integer>
+            <integer>494</integer>
             <key>width</key>
             <integer>105</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1020</integer>
+            <integer>1030</integer>
             <key>width</key>
             <integer>108</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1190</integer>
+            <integer>1200</integer>
             <key>width</key>
             <integer>171</integer>
           </dict>
@@ -67,28 +67,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Ntilde</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1534</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

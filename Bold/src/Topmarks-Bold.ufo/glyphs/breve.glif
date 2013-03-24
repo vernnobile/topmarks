@@ -1,52 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breve" format="1">
-  <advance width="1096"/>
+  <advance width="1106"/>
   <unicode hex="02D8"/>
   <outline>
     <contour>
-      <point x="384.766" y="2145" type="curve" smooth="yes"/>
-      <point x="190" y="2145"/>
-      <point x="72" y="2235"/>
-      <point x="57" y="2423" type="curve"/>
-      <point x="159" y="2423" type="line"/>
-      <point x="176" y="2320"/>
-      <point x="262" y="2271"/>
-      <point x="377.246" y="2271" type="curve" smooth="yes"/>
-      <point x="491.771" y="2271"/>
-      <point x="583.771" y="2324"/>
-      <point x="606.771" y="2423" type="curve"/>
-      <point x="708.771" y="2423" type="line"/>
-      <point x="693.771" y="2242"/>
-      <point x="574.771" y="2145"/>
+      <point x="395" y="2145" type="curve" smooth="yes"/>
+      <point x="200" y="2145"/>
+      <point x="82" y="2235"/>
+      <point x="67" y="2423" type="curve"/>
+      <point x="169" y="2423" type="line"/>
+      <point x="186" y="2320"/>
+      <point x="272" y="2271"/>
+      <point x="387" y="2271" type="curve" smooth="yes"/>
+      <point x="502" y="2271"/>
+      <point x="594" y="2324"/>
+      <point x="617" y="2423" type="curve"/>
+      <point x="719" y="2423" type="line"/>
+      <point x="704" y="2242"/>
+      <point x="585" y="2145"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>breve</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1096</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

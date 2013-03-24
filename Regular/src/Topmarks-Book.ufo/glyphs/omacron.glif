@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omacron" format="1">
-  <advance width="1194"/>
+  <advance width="1204"/>
   <unicode hex="014D"/>
   <outline>
-    <component base="macron" xOffset="232"/>
-    <component base="o"/>
+    <component base="macron" xOffset="242"/>
+    <component base="o" xOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -35,19 +35,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>100</integer>
+            <integer>110</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>311</integer>
+            <integer>321</integer>
             <key>width</key>
             <integer>572</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>923</integer>
+            <integer>933</integer>
             <key>width</key>
             <integer>171</integer>
           </dict>
@@ -55,28 +55,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>omacron</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1194</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

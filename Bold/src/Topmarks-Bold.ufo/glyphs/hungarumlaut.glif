@@ -1,48 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut" format="1">
-  <advance width="1674"/>
+  <advance width="1684"/>
   <unicode hex="02DD"/>
   <outline>
     <contour>
-      <point x="286" y="2067" type="line"/>
-      <point x="539.199" y="2435" type="line"/>
-      <point x="726.074" y="2435" type="line"/>
-      <point x="424" y="2067" type="line"/>
+      <point x="296" y="2067" type="line"/>
+      <point x="549" y="2435" type="line"/>
+      <point x="736" y="2435" type="line"/>
+      <point x="434" y="2067" type="line"/>
     </contour>
     <contour>
-      <point x="592.463" y="2067" type="line"/>
-      <point x="829.147" y="2435" type="line"/>
-      <point x="1036.15" y="2435" type="line"/>
-      <point x="719.754" y="2067" type="line"/>
+      <point x="602" y="2067" type="line"/>
+      <point x="839" y="2435" type="line"/>
+      <point x="1046" y="2435" type="line"/>
+      <point x="730" y="2067" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>hungarumlaut</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1674</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

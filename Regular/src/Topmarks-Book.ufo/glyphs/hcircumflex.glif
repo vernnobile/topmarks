@@ -1,94 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hcircumflex" format="1">
-  <advance width="1215"/>
+  <advance width="1225"/>
   <unicode hex="0125"/>
   <outline>
-    <component base="circumflex" xOffset="382" yOffset="235"/>
-    <component base="h"/>
+    <component base="circumflex" xOffset="392" yOffset="235"/>
+    <component base="h" xOffset="10"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-20</integer>
-            <key>width</key>
-            <integer>130</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>912</integer>
-            <key>width</key>
-            <integer>136</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1405</integer>
-            <key>width</key>
-            <integer>324</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1506</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>152</integer>
-            <key>width</key>
-            <integer>164</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>417</integer>
-            <key>width</key>
-            <integer>614</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>844</integer>
-            <key>width</key>
-            <integer>164</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>hcircumflex</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1215</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>130</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>912</integer>
+	    <key>width</key>	    <integer>136</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1405</integer>
+	    <key>width</key>	    <integer>324</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1506</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>162</integer>
+	    <key>width</key>
+	    <integer>164</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>427</integer>
+	    <key>width</key>
+	    <integer>614</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>854</integer>
+	    <key>width</key>
+	    <integer>164</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

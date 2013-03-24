@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcommaaccent" format="1">
-  <advance width="1798"/>
+  <advance width="1808"/>
   <unicode hex="0123"/>
   <outline>
-    <component base="commaaccentcomb"/>
-    <component base="g"/>
+    <component base="commaaccentcomb" xOffset="10"/>
+    <component base="g" xOffset="10"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>gcommaaccent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1798</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

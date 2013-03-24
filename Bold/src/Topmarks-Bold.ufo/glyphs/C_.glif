@@ -1,90 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="C" format="1">
-  <advance width="1360.55"/>
+  <advance width="1370"/>
   <unicode hex="0043"/>
   <outline>
     <contour>
-      <point x="813.388" y="-22" type="curve" smooth="yes"/>
-      <point x="395.403" y="-22"/>
-      <point x="106" y="274"/>
-      <point x="106" y="720" type="curve" smooth="yes"/>
-      <point x="106" y="1172"/>
-      <point x="407" y="1470"/>
-      <point x="826" y="1470" type="curve" smooth="yes"/>
-      <point x="975" y="1470"/>
-      <point x="1141.55" y="1409"/>
-      <point x="1264.55" y="1314" type="curve"/>
-      <point x="1177.55" y="1122" type="line"/>
-      <point x="1102.55" y="1183"/>
-      <point x="956.027" y="1252"/>
-      <point x="823.319" y="1252" type="curve" smooth="yes"/>
-      <point x="533.527" y="1252"/>
-      <point x="362" y="1032"/>
-      <point x="362" y="719" type="curve" smooth="yes"/>
-      <point x="362" y="405"/>
-      <point x="532" y="180"/>
-      <point x="837" y="180" type="curve" smooth="yes"/>
-      <point x="958" y="180"/>
-      <point x="1104" y="232"/>
-      <point x="1203" y="311" type="curve"/>
-      <point x="1280.55" y="125" type="line"/>
-      <point x="1171.55" y="36"/>
-      <point x="971.37" y="-22"/>
+      <point x="823" y="-22" type="curve" smooth="yes"/>
+      <point x="405" y="-22"/>
+      <point x="116" y="274"/>
+      <point x="116" y="720" type="curve" smooth="yes"/>
+      <point x="116" y="1172"/>
+      <point x="417" y="1470"/>
+      <point x="836" y="1470" type="curve" smooth="yes"/>
+      <point x="985" y="1470"/>
+      <point x="1152" y="1409"/>
+      <point x="1275" y="1314" type="curve"/>
+      <point x="1188" y="1122" type="line"/>
+      <point x="1113" y="1183"/>
+      <point x="966" y="1252"/>
+      <point x="833" y="1252" type="curve" smooth="yes"/>
+      <point x="543" y="1252"/>
+      <point x="372" y="1032"/>
+      <point x="372" y="719" type="curve" smooth="yes"/>
+      <point x="372" y="405"/>
+      <point x="542" y="180"/>
+      <point x="847" y="180" type="curve" smooth="yes"/>
+      <point x="968" y="180"/>
+      <point x="1114" y="232"/>
+      <point x="1213" y="311" type="curve"/>
+      <point x="1291" y="125" type="line"/>
+      <point x="1182" y="36"/>
+      <point x="981" y="-22"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-22</integer>
-            <key>width</key>
-            <integer>218</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1252</integer>
-            <key>width</key>
-            <integer>218</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>140</integer>
-            <key>width</key>
-            <integer>256</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>C</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>1360.55</real>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-22</integer>
+	    <key>width</key>	    <integer>218</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1252</integer>
+	    <key>width</key>	    <integer>218</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>150</integer>
+	    <key>width</key>
+	    <integer>256</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

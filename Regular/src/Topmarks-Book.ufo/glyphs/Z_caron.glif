@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zcaron" format="1">
-  <advance width="1199"/>
+  <advance width="1209"/>
   <unicode hex="017D"/>
   <outline>
-    <component base="Z"/>
-    <component base="caron" xOffset="348" yOffset="431"/>
+    <component base="Z" xOffset="10"/>
+    <component base="caron" xOffset="358" yOffset="431"/>
   </outline>
   <lib>
     <dict>
@@ -29,7 +29,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>377</integer>
+	    <integer>387</integer>
 	    <key>width</key>
 	    <integer>633</integer>
 	  </dict>

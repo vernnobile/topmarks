@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="1">
-  <advance width="686"/>
+  <advance width="696"/>
   <unicode hex="013A"/>
   <outline>
-    <component base="acute" xOffset="94" yOffset="448"/>
-    <component base="l"/>
+    <component base="acute" xOffset="104" yOffset="448"/>
+    <component base="l" xOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -35,13 +35,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>168</integer>
+            <integer>178</integer>
             <key>width</key>
             <integer>164</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>269</integer>
+            <integer>279</integer>
             <key>width</key>
             <integer>438</integer>
           </dict>
@@ -49,28 +49,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>lacute</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>686</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="egrave" format="1">
-  <advance width="1069"/>
+  <advance width="1079"/>
   <unicode hex="00E8"/>
   <outline>
-    <component base="e"/>
-    <component base="grave" xOffset="160" yOffset="4"/>
+    <component base="e" xOffset="10"/>
+    <component base="grave" xOffset="170" yOffset="4"/>
   </outline>
   <lib>
     <dict>
@@ -35,19 +35,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>100</integer>
+            <integer>110</integer>
             <key>width</key>
             <integer>180</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>161</integer>
+            <integer>171</integer>
             <key>width</key>
             <integer>461</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>790</integer>
+            <integer>800</integer>
             <key>width</key>
             <integer>163</integer>
           </dict>
@@ -55,28 +55,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>egrave</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1069</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

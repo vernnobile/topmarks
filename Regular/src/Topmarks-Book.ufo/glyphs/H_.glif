@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="1494"/>
+  <advance width="1514"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="190" y="0" type="line"/>
-      <point x="190" y="1456" type="line"/>
-      <point x="362" y="1456" type="line"/>
-      <point x="362" y="822" type="line"/>
-      <point x="1133" y="822" type="line"/>
-      <point x="1133" y="1456" type="line"/>
-      <point x="1304" y="1456" type="line"/>
-      <point x="1304" y="0" type="line"/>
-      <point x="1133" y="0" type="line"/>
-      <point x="1133" y="674" type="line"/>
-      <point x="362" y="674" type="line"/>
-      <point x="362" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="1456" type="line"/>
+      <point x="372" y="1456" type="line"/>
+      <point x="372" y="822" type="line"/>
+      <point x="1142" y="822" type="line"/>
+      <point x="1142" y="1456" type="line"/>
+      <point x="1314" y="1456" type="line"/>
+      <point x="1314" y="0" type="line"/>
+      <point x="1142" y="0" type="line"/>
+      <point x="1142" y="674" type="line"/>
+      <point x="372" y="674" type="line"/>
+      <point x="372" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -47,13 +47,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>174</integer>
+            <integer>195</integer>
             <key>width</key>
             <integer>172</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1117</integer>
+            <integer>1138</integer>
             <key>width</key>
             <integer>171</integer>
           </dict>
@@ -61,28 +61,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>H</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1494</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

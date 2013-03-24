@@ -1,54 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="1">
-  <advance width="2762"/>
+  <advance width="2772"/>
   <unicode hex="2026"/>
   <outline>
     <contour>
-      <point x="280" y="-20" type="line"/>
-      <point x="280" y="227" type="line"/>
-      <point x="534.446" y="227" type="line"/>
-      <point x="534.446" y="-20" type="line"/>
+      <point x="290" y="-20" type="line"/>
+      <point x="290" y="227" type="line"/>
+      <point x="544" y="227" type="line"/>
+      <point x="544" y="-20" type="line"/>
     </contour>
     <contour>
-      <point x="876.598" y="-20" type="line"/>
-      <point x="876.598" y="227" type="line"/>
-      <point x="1116.3" y="227" type="line"/>
-      <point x="1116.3" y="-20" type="line"/>
+      <point x="887" y="-20" type="line"/>
+      <point x="887" y="227" type="line"/>
+      <point x="1126" y="227" type="line"/>
+      <point x="1126" y="-20" type="line"/>
     </contour>
     <contour>
-      <point x="1458.45" y="-20" type="line"/>
-      <point x="1458.45" y="227" type="line"/>
-      <point x="1712.89" y="227" type="line"/>
-      <point x="1712.89" y="-20" type="line"/>
+      <point x="1468" y="-20" type="line"/>
+      <point x="1468" y="227" type="line"/>
+      <point x="1723" y="227" type="line"/>
+      <point x="1723" y="-20" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>ellipsis</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>2762</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

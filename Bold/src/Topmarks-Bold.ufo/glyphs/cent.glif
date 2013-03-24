@@ -1,43 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cent" format="1">
-  <advance width="1110"/>
+  <advance width="1120"/>
   <unicode hex="00A2"/>
   <outline>
+    <component base="c" xOffset="10"/>
     <contour>
-      <point x="585" y="-414" type="line"/>
-      <point x="718" y="-414" type="line"/>
-      <point x="718" y="1366" type="line"/>
-      <point x="585" y="1366" type="line"/>
+      <point x="595" y="-414" type="line"/>
+      <point x="728" y="-414" type="line"/>
+      <point x="728" y="1366" type="line"/>
+      <point x="595" y="1366" type="line"/>
     </contour>
-    <component base="c"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>cent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1110</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,48 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="1">
-  <advance width="1779"/>
+  <advance width="1789"/>
   <unicode hex="201D"/>
   <outline>
     <contour>
-      <point x="366" y="1802" type="line"/>
-      <point x="488" y="2319" type="line"/>
-      <point x="694.13" y="2319" type="line"/>
-      <point x="522" y="1802" type="line"/>
+      <point x="376" y="1802" type="line"/>
+      <point x="498" y="2319" type="line"/>
+      <point x="704" y="2319" type="line"/>
+      <point x="532" y="1802" type="line"/>
     </contour>
     <contour>
-      <point x="735.657" y="1802" type="line"/>
-      <point x="850.786" y="2319" type="line"/>
-      <point x="1063.79" y="2319" type="line"/>
-      <point x="883.786" y="1802" type="line"/>
+      <point x="746" y="1802" type="line"/>
+      <point x="861" y="2319" type="line"/>
+      <point x="1074" y="2319" type="line"/>
+      <point x="894" y="1802" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>quotedblright</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1779</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

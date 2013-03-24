@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jcircumflex" format="1">
-  <advance width="1021"/>
+  <advance width="1031"/>
   <unicode hex="0134"/>
   <outline>
-    <component base="J"/>
-    <component base="circumflex" xOffset="195" yOffset="431"/>
+    <component base="J" xOffset="10"/>
+    <component base="circumflex" xOffset="205" yOffset="431"/>
   </outline>
   <lib>
     <dict>
@@ -35,13 +35,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>230</integer>
+            <integer>240</integer>
             <key>width</key>
             <integer>614</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>571</integer>
+            <integer>581</integer>
             <key>width</key>
             <integer>165</integer>
           </dict>
@@ -49,28 +49,6 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Jcircumflex</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1021</integer>
-        </dict>
       </dict>
     </dict>
   </lib>
