@@ -30,9 +30,9 @@
   font-family: "topmarksbold";
   font-style: normal;
   font-weight: normal;
-  src: url("https://github.com/vernnobile/topmarks/raw/binaries/Bold/topmarks-bold-x.eot?#iefix") format("embedded-opentype"),
-   url("https://github.com/vernnobile/topmarks/raw/binaries/Bold/topmarks-bold-x.woff") format("woff"),
- url("https://github.com/vernnobile/topmarks/raw/binaries/Bold/topmarks-bold-x.ttf") format("truetype");
+  src: url("fonts/topmarks-bold-x.eot?#iefix") format("embedded-opentype"),
+   url("fonts/topmarks-bold-x.woff") format("woff"),
+ url("fonts/topmarks-bold-x.ttf") format("truetype");
 }
 
 @font-face {
@@ -40,7 +40,7 @@
   font-family: "topmarksbook";
   font-style: normal;
   font-weight: normal;
-  src: url("https://github.com/vernnobile/topmarks/raw/binaries/Regular/topmarks-book-x.eot?#iefix") format("embedded-opentype"),
-  url("https://github.com/vernnobile/topmarks/raw/binaries/Regular/topmarks-book-x.woff") format("woff"),
+  src: url("fonts/topmarks-book-x.eot?#iefix") format("embedded-opentype"),
+  url("fonts/topmarks-book-x.woff") format("woff"),
   url("fonts/topmarks-book-x.ttf") format("truetype");
 }
