@@ -32,7 +32,7 @@
   font-weight: normal;
   src: url("fonts/topmarks-bold-x.eot?#iefix") format("embedded-opentype"),
    url("fonts/topmarks-bold-x.woff") format("woff"),
- url("fonts/topmarks-bold-x.ttf") format("truetype");
+ url("https://github.com/vernnobile/topmarks/raw/master/Bold/topmarks-bold-x.ttf") format("truetype");
 }
 
 @font-face {
