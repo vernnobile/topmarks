@@ -71,8 +71,10 @@ line-height:1.8em;
 	padding-left:0px;
 	font-size:1.9em;
 	font-weight:300;
-min-height:40px;
-vertical-align:middle;}
+min-height:34px;
+vertical-align:middle;
+}
+
 .navbar {  
 	margin-top:20px;
 background-color: #476B6B;
