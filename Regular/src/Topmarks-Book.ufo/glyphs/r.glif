@@ -7,10 +7,10 @@
       <point x="211" y="0" type="line"/>
       <point x="211" y="693" type="line" smooth="yes"/>
       <point x="211" y="809"/>
-      <point x="138" y="895"/>
-      <point x="88" y="937" type="curve"/>
-      <point x="229" y="1019" type="line"/>
-      <point x="277" y="977"/>
+      <point x="138" y="902"/>
+      <point x="88" y="944" type="curve"/>
+      <point x="229" y="1026" type="line"/>
+      <point x="277" y="984"/>
       <point x="323" y="920"/>
       <point x="338" y="830" type="curve"/>
       <point x="390" y="958"/>
@@ -66,6 +66,28 @@
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>r</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>813</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

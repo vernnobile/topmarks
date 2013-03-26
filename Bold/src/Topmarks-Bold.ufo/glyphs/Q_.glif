@@ -3,48 +3,73 @@
   <advance width="1582"/>
   <unicode hex="0051"/>
   <outline>
-    <component base="O" xOffset="5"/>
     <contour>
-      <point x="1238" y="-425" type="line"/>
-      <point x="1134" y="-309"/>
-      <point x="1025" y="-149"/>
-      <point x="956" y="13" type="curve"/>
-      <point x="1167" y="86" type="line"/>
-      <point x="1224" y="-43"/>
-      <point x="1322" y="-177"/>
-      <point x="1419" y="-268" type="curve"/>
+      <point x="1238.0" y="-425.0" type="line"/>
+      <point x="956.0" y="13.0" type="line"/>
+      <point x="1162" y="86" type="line"/>
+      <point x="1416" y="-312" type="line"/>
     </contour>
+    <component base="O" xOffset="5"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-22</integer>
-	    <key>width</key>	    <integer>202</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1252</integer>
-	    <key>width</key>	    <integer>218</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>116</integer>
-	    <key>width</key>
-	    <integer>256</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1220</integer>
-	    <key>width</key>
-	    <integer>256</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-22</integer>
+            <key>width</key>
+            <integer>202</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1252</integer>
+            <key>width</key>
+            <integer>218</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>116</integer>
+            <key>width</key>
+            <integer>256</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1220</integer>
+            <key>width</key>
+            <integer>256</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Q</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1582</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

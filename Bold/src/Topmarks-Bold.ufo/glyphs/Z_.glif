@@ -6,11 +6,11 @@
     <contour>
       <point x="100" y="0" type="line"/>
       <point x="100" y="198" type="line"/>
-      <point x="840" y="1248" type="line"/>
-      <point x="131" y="1248" type="line"/>
-      <point x="131" y="1448" type="line"/>
-      <point x="1132" y="1448" type="line"/>
-      <point x="1132" y="1268" type="line"/>
+      <point x="840" y="1256" type="line"/>
+      <point x="131" y="1256" type="line"/>
+      <point x="131" y="1456" type="line"/>
+      <point x="1132" y="1456" type="line"/>
+      <point x="1132" y="1276" type="line"/>
       <point x="395" y="200" type="line"/>
       <point x="1124" y="200" type="line"/>
       <point x="1124" y="0" type="line"/>
@@ -20,17 +20,46 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>200</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1248</integer>
-	    <key>width</key>	    <integer>200</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>200</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1248</integer>
+            <key>width</key>
+            <integer>200</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Z</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1219</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
