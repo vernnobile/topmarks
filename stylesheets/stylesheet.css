@@ -71,16 +71,16 @@ line-height:1.8em;
 	padding-left:10px;
 	font-size:1.9em;
 	font-weight:300;
+	border: solid #ccc 0 1px 0 1px
 }
 .navbar {  
 	margin-top:20px;
 background-color: #476B6B;
-background-image:url('https://lh3.googleusercontent.com/-XN8m3IY-zQs/UVHywRPAw6I/AAAAAAAAF1s/PxmtLaS-UO8/s50/banner_back.gif');
-/*background-image: -moz-linear-gradient(top, #4D9494, #2E5959);
+background-image: -moz-linear-gradient(top, #4D9494, #2E5959);
 background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#4D9494), to(#2E5959));
 background-image: -webkit-linear-gradient(top, #4D9494, #2E5959);
 background-image: -o-linear-gradient(top, #4D9494, #2E5959);
-background-image: linear-gradient(to bottom, #4D9494, #2E5959);*/
+background-image: linear-gradient(to bottom, #4D9494, #2E5959);
 background-repeat: repeat-x;
   border:1px solid #476B6B;
   border-bottom-left-radius:4px;
