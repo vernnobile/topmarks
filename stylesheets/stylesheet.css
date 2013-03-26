@@ -71,7 +71,7 @@ line-height:1.8em;
 	padding-left:10px;
 	font-size:1.9em;
 	font-weight:300;
-	border: 0px 0px 0px 1px solid #ccc
+	border:solid 0px 0px 0px 1px #ccc;
 }
 .navbar {  
 	margin-top:20px;
