@@ -1,19 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="1">
-  <advance width="1278"/>
+  <advance width="815"/>
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="387" y="928" type="line"/>
-      <point x="361" y="1470" type="line"/>
-      <point x="557" y="1470" type="line"/>
-      <point x="540" y="928" type="line"/>
+      <point x="508" y="908" type="line"/>
+      <point x="466" y="1480" type="line"/>
+      <point x="687" y="1480" type="line"/>
+      <point x="657" y="908" type="line"/>
     </contour>
     <contour>
-      <point x="726" y="928" type="line"/>
-      <point x="701" y="1470" type="line"/>
-      <point x="895" y="1470" type="line"/>
-      <point x="878" y="928" type="line"/>
+      <point x="170" y="908" type="line"/>
+      <point x="128" y="1480" type="line"/>
+      <point x="349" y="1480" type="line"/>
+      <point x="319" y="908" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedbl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>815</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

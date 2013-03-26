@@ -1,13 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="minus" format="1">
-  <advance width="2504"/>
+  <advance width="1115"/>
   <unicode hex="2212"/>
   <outline>
     <contour>
-      <point x="359" y="874" type="line"/>
-      <point x="359" y="1035" type="line"/>
-      <point x="1519" y="1035" type="line"/>
-      <point x="1519" y="874" type="line"/>
+      <point x="168.0" y="640.0" type="line"/>
+      <point x="168.0" y="837.0" type="line"/>
+      <point x="947.0" y="837.0" type="line"/>
+      <point x="947.0" y="640.0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>657</integer>
+            <key>width</key>
+            <integer>168</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hyphen</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1115</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
