@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <link href="http://fonts.googleapis.com/css?family=Muli:300,400" rel="stylesheet"
+      type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet"
+      type="text/css">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Topmarks : topmarks font family">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+    <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <title>Topmarks</title>
+    <link href="stylesheets/stylesheet.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <div class="container">
+      <!-- top navigation bar -->
+      <div id="topnavbar" class="span10"> <a id="forkme_banner" href="https://github.com/vernnobile/topmarks">View
+          on GitHub</a></div>
+      <!-- MAIN PAGE -->
+      <div class="span10 offset1" <!--="" header="" --="">
+        <div class="navbar navbar-static-cont-width navbar-teal"> <img style="padding-right:5px;padding-bottom:3px;"
+            alt="tick"
+            src="images/tick.png"
+            height="20px"
+            width="21px">Topmarks
+          Fonts </div>
+        <h5>A free, open, and easy to use typeface, for children's learning</h5>
+        <!-- GRAPHIC CONTENT -->
+        <hr>
+        <div class="span3 nailCenter"> <img alt="one" src="images/apple.svg" width="300px">
+          <p style="color:#556655;font-family:'topmarksbold';font-size:5.8em;line-height:1.2em;letter-spacing:0.2em;">Aa</p>
+        </div>
+        <div class="span3 nailCenter"> <img alt="one" src="images/banana.svg" width="300px">
+          <p style="color:#556655;font-family:'topmarksbold';font-size:5.8em;line-height:1.2em;letter-spacing:0.2em;">Bb</p>
+        </div>
+        <div class="span3 nailCenter"> <img alt="one" src="images/coconut.svg"
+            width="300px">
+          <p style="color:#556655;font-family:'topmarksbold';font-size:5.8em;line-height:1.2em;letter-spacing:0.2em;">Cc</p>
+        </div>
+        <!-- MAIN TEXT CONTENT -->
+        <div class="row-fluid">
+          <div class="span10">
+            <h3>Why Topmarks fonts?</h3>
+            <p>The Topmarks fonts are being developed in response to teachers
+              and educators who find a lack of <i>free</i> and <i>open source</i>
+              typefaces suitable for use in infant learning. The project aims to
+              widen the choice of suitable typefaces that can be used freely and
+              easily in everyday teaching.</p>
+            <p style="color:#444;font-family:'topmarksbook';font-size:2.8em;line-height:1em;letter-spacing:-0.1em">a
+              b c d e f g h i j k l m n o p q r s t u v w x y z</p>
+            <p style="color:#444;font-family:'topmarksbook';font-size:2.8em;line-height:1em;letter-spacing:-0.1em">A
+              B C D E F G H I J K L M N O P Q R S T U V W X Y Z</p>
+            <h3>About the design</h3>
+            <p>The Topmarks fonts are based on the free software font family
+              'Muli', a sans-serif typeface that has proved popular with
+              children and teachers, but the forms of Muli are not quite right
+              for infants.</p>
+            <p style="color:#aaa;font-family:'topmarksbook';font-size:5.8em;line-height:1.2em;letter-spacing:-0.1em">a
+              b c d e g</p>
+            <p style="color:#666;font-family:'Muli';font-size:5.8em;line-height:1em;letter-spacing:-0.1em">a
+              b c d e g</p>
+            <h3>Free and open</h3>
+            <p>The Topmarks fonts are released under the Open Font License
+              (OFL).<br>
+              This license allows Topmarks fonts to be used freely, by an
+              unlimited numbers of children and their teachers, for a wide range
+              of uses. The Topmarks fonts can be used for printing, for setting
+              digital documents, used as a webfont, and embedded in documents or
+              in other software apps.</p>
+          </div>
+        </div>
+        <!-- FOOTER  -->
+        <div class="row-fluid">
+          <hr>
+          <p class="copyright">the topmarks fonts are maintained by <a href="https://github.com/vernnobile">vernon
+              adams</a></p>
+          <p>this site is published with <a href="http://pages.github.com">GitHub
+              Pages</a></p>
+        </div>
+        <!-- END FOOTER  --> </div>
+    </div>
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
