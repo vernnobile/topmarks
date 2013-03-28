@@ -78,21 +78,14 @@ text-decoration:none;
 
 .navbar {  
 	margin-top:20px;
-background-image: linear-gradient(left bottom, rgb(77,118,128) 47%, rgb(110,148,158) 63%, rgb(83,136,143) 100%);
-background-image: -o-linear-gradient(left bottom, rgb(77,118,128) 47%, rgb(110,148,158) 63%, rgb(83,136,143) 100%);
-background-image: -moz-linear-gradient(left bottom, rgb(77,118,128) 47%, rgb(110,148,158) 63%, rgb(83,136,143) 100%);
-background-image: -webkit-linear-gradient(left bottom, rgb(77,118,128) 47%, rgb(110,148,158) 63%, rgb(83,136,143) 100%);
-background-image: -ms-linear-gradient(left bottom, rgb(77,118,128) 47%, rgb(110,148,158) 63%, rgb(83,136,143) 100%);
-
-background-image: -webkit-gradient(
-	linear,
-	left bottom,
-	1 top,
-	color-stop(0.47, rgb(77,118,128)),
-	color-stop(0.63, rgb(110,148,158)),
-	color-stop(1, rgb(83,136,143))
-);
-
+background-color: #476B6B;
+background-image: -moz-linear-gradient(top, #4D9494, #2E5959);
+background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#4D9494), to(#2E5959));
+background-image: -webkit-linear-gradient(top, #4D9494, #2E5959);
+background-image: -o-linear-gradient(top, #4D9494, #2E5959);
+background-image: linear-gradient(to bottom, #4D9494, #2E5959);
+background-repeat: repeat-x;
+  border:1px solid #476B6B;
   border-bottom-left-radius:4px;
   border-bottom-right-radius:4px;
   border-top-left-radius:4px;
