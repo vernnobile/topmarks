@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="1311.6"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="801.6" y="797.6" type="line"/>
+      <point x="929.8" y="871.9" type="line"/>
+      <point x="725.3" y="1127.3" type="line"/>
+      <point x="992.9" y="1216.8" type="line"/>
+      <point x="927.7" y="1343.9" type="line"/>
+      <point x="688.7" y="1220.8" type="line"/>
+      <point x="688.7" y="1524.0" type="line"/>
+      <point x="544.2" y="1524.0" type="line"/>
+      <point x="557.4" y="1422.3"/>
+      <point x="572.7" y="1317.5"/>
+      <point x="585.9" y="1215.7" type="curve"/>
+      <point x="297.0" y="1340.9" type="line"/>
+      <point x="275.6" y="1203.5" type="line"/>
+      <point x="553.4" y="1124.2" type="line"/>
+      <point x="359.0" y="882.0" type="line"/>
+      <point x="485.2" y="805.7" type="line"/>
+      <point x="640.9" y="1068.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1249</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
