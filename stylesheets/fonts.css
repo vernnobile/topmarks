@@ -42,7 +42,7 @@ src: url('fonts/topmarks-bold-x.eot');
   font-style: normal;
   font-weight: normal;
   src: url("http://github.com/vernnobile/topmarks/raw/gh-pages/stylesheets/fonts/topmarks-book-x.eot");
-  src: url("http://github.com/vernnobile/topmarks/raw/gh-pages/stylesheets/fonts/topmarks-book-x.eot?#iefix") format("embedded-opentype"),
+  src: url("fonts/topmarks-book-x.eot?#iefix") format("embedded-opentype"),
   url("fonts/topmarks-book-x.woff") format("woff"),
   url("fonts/topmarks-book-x.ttf") format("truetype");
 }
