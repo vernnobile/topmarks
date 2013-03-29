@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="one" format="1">
+<glyph name="one.alt" format="1">
   <advance width="999"/>
-  <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="471" y="0" type="line"/>
-      <point x="721" y="0" type="line"/>
-      <point x="721" y="1456" type="line"/>
-      <point x="721" y="1456"/>
-      <point x="285" y="1456"/>
-      <point x="285" y="1456" type="curve"/>
-      <point x="285" y="1241" type="line"/>
-      <point x="471" y="1241" type="line"/>
+      <point x="471.0" y="0.0" type="line"/>
+      <point x="721.0" y="0.0" type="line"/>
+      <point x="721.0" y="1456.0" type="line"/>
+      <point x="477.0" y="1456.0" type="line"/>
+      <point x="410.0" y="1405.0"/>
+      <point x="251.0" y="1322.0"/>
+      <point x="135.0" y="1270.0" type="curve"/>
+      <point x="195.0" y="1099.0" type="line"/>
+      <point x="301.0" y="1143.0"/>
+      <point x="405.0" y="1190.0"/>
+      <point x="471.0" y="1241.0" type="curve"/>
     </contour>
   </outline>
   <lib>
