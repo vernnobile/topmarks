@@ -46,3 +46,13 @@ src: url('fonts/topmarks-bold-x.eot');
   url("fonts/topmarks-book-x.woff") format("woff"),
   url("fonts/topmarks-book-x.ttf") format("truetype");
 }
+
+/* OPENTYPE STUFF */
+.fracs {
+    font-feature-settings: "frac";
+/* vendor-prefixes */
+-moz-font-feature-settings: 'frac=1';
+-ms-font-feature-settings: "frac";
+-webkit-font-feature-settings: "frac";
+-o-font-feature-settings: "frac";
+}
