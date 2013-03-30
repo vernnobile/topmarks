@@ -49,8 +49,7 @@ src: url('fonts/topmarks-bold-x.eot');
 
 /* OPENTYPE STUFF */
 .fracs {
-    text-rendering: optimizeLegibility;
-    font-feature-settings: "frac";
+    /*font-feature-settings: "frac";*/
 /* vendor-prefixes */
 -moz-font-feature-settings: 'frac=1';
 -ms-font-feature-settings: "frac";
