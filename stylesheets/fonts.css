@@ -49,10 +49,10 @@ src: url('fonts/topmarks-bold-x.eot');
 
 /* OPENTYPE STUFF */
 .fracs {
-    /*font-feature-settings: "frac";*/
-/* vendor-prefixes */
--moz-font-feature-settings: 'frac=1';
--ms-font-feature-settings: "frac";
--webkit-font-feature-settings: "frac";
--o-font-feature-settings: "frac";
+    -moz-font-feature-settings:"frac" 1, "kern" 1, "liga" 1; 
+-moz-font-feature-settings:"frac=1, kern=1, liga=1"; 
+-ms-font-feature-settings:"frac" 1, "kern" 1, "liga" 1; 
+-o-font-feature-settings:"frac" 1, "kern" 1, "liga" 1; 
+-webkit-font-feature-settings:"frac" 1, "kern" 1, "liga" 1; 
+font-feature-settings:"frac" 1, "kern" 1, "liga" 1;
 }
