@@ -38,9 +38,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>720</integer>
+			<integer>350</integer>
 			<key>y</key>
-			<integer>1483</integer>
+			<integer>1480</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -52,9 +52,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>532</integer>
+			<integer>345</integer>
 			<key>y</key>
-			<integer>1331</integer>
+			<integer>1330</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -111,6 +111,20 @@
 			<integer>512</integer>
 			<key>y</key>
 			<integer>916</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>163</integer>
+			<key>y</key>
+			<integer>1526</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -995,6 +1009,10 @@
 		<string>one.alt</string>
 		<string>nine.alt.add_1</string>
 		<string>four.alt</string>
+		<string>caroncomb</string>
+		<string>circumflexcomb</string>
+		<string>acutecomb</string>
+		<string>gravecomb</string>
 	</array>
 </dict>
 </plist>

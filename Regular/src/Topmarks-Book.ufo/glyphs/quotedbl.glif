@@ -4,38 +4,65 @@
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="160" y="931" type="line"/>
-      <point x="124" y="1456" type="line"/>
-      <point x="291" y="1456" type="line"/>
-      <point x="269" y="931" type="line"/>
+      <point x="168" y="931" type="line"/>
+      <point x="132" y="1456" type="line"/>
+      <point x="298" y="1456" type="line"/>
+      <point x="277" y="931" type="line"/>
     </contour>
     <contour>
-      <point x="449" y="931" type="line"/>
-      <point x="413" y="1456" type="line"/>
-      <point x="579" y="1456" type="line"/>
-      <point x="557" y="931" type="line"/>
+      <point x="467" y="931" type="line"/>
+      <point x="431" y="1456" type="line"/>
+      <point x="598" y="1456" type="line"/>
+      <point x="575" y="931" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>931</integer>
-	    <key>width</key>	    <integer>525</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>124</integer>
-	    <key>width</key>
-	    <integer>455</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>931</integer>
+            <key>width</key>
+            <integer>525</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>124</integer>
+            <key>width</key>
+            <integer>455</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedbl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>730</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

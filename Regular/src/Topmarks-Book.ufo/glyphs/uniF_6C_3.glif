@@ -4,32 +4,59 @@
   <unicode hex="F6C3"/>
   <outline>
     <contour>
-      <point x="120" y="-603" type="line"/>
-      <point x="251" y="-603" type="line"/>
-      <point x="414" y="-140" type="line"/>
-      <point x="227" y="-140" type="line"/>
+      <point x="120" y="-463" type="line"/>
+      <point x="251" y="-463" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-603</integer>
-	    <key>width</key>	    <integer>463</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>120</integer>
-	    <key>width</key>
-	    <integer>294</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-603</integer>
+            <key>width</key>
+            <integer>463</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>120</integer>
+            <key>width</key>
+            <integer>294</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uniF6C3</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>609</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

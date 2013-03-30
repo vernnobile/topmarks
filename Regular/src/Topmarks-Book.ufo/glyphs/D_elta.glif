@@ -7,29 +7,56 @@
       <point x="50" y="0" type="line"/>
       <point x="1244" y="0" type="line"/>
       <point x="1244" y="80" type="line"/>
-      <point x="735" y="1429" type="line"/>
-      <point x="560" y="1429" type="line"/>
+      <point x="735" y="1456" type="line"/>
+      <point x="560" y="1456" type="line"/>
       <point x="50" y="80" type="line"/>
     </contour>
     <contour>
-      <point x="279" y="162" type="line"/>
-      <point x="612" y="1111" type="line"/>
-      <point x="643" y="1218" type="line"/>
-      <point x="675" y="1111" type="line"/>
-      <point x="1014" y="162" type="line"/>
+      <point x="245" y="135" type="line"/>
+      <point x="612" y="1187" type="line"/>
+      <point x="643" y="1294" type="line"/>
+      <point x="675" y="1187" type="line"/>
+      <point x="1050" y="135" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>162</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>162</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Delta</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1294</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

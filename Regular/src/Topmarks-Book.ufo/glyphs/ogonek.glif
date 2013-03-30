@@ -15,46 +15,64 @@
       <point x="248" y="-281"/>
       <point x="199" y="-250"/>
       <point x="199" y="-199" type="curve" smooth="yes"/>
-      <point x="199" y="-183"/>
-      <point x="204" y="-167"/>
-      <point x="214" y="-151" type="curve" smooth="yes"/>
-      <point x="256" y="-86"/>
-      <point x="333" y="-42"/>
+      <point x="199.0" y="-117.374573303"/>
+      <point x="316.17725224" y="-52.2399334194"/>
       <point x="402" y="0" type="curve"/>
       <point x="273" y="12" type="line"/>
-      <point x="219" y="-14"/>
-      <point x="165" y="-49"/>
-      <point x="125" y="-89" type="curve" smooth="yes"/>
-      <point x="92" y="-122"/>
-      <point x="58" y="-167"/>
+      <point x="174.45" y="-35.45"/>
+      <point x="58.0" y="-96.696969697"/>
       <point x="58" y="-225" type="curve" smooth="yes"/>
-      <point x="58" y="-252"/>
-      <point x="64" y="-276"/>
-      <point x="75" y="-296" type="curve" smooth="yes"/>
-      <point x="109" y="-357"/>
-      <point x="182" y="-390"/>
+      <point x="58.0" y="-334.607842619"/>
+      <point x="151.276524849" y="-390.0"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-390</integer>
-	    <key>width</key>	    <integer>109</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>58</integer>
-	    <key>width</key>
-	    <integer>141</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-390</integer>
+            <key>width</key>
+            <integer>109</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>58</integer>
+            <key>width</key>
+            <integer>141</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>518</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
