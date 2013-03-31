@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="1">
-  <advance width="1171"/>
+  <advance width="1185"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="1129" y="0" type="line"/>
-      <point x="640" y="536" type="line"/>
-      <point x="1117" y="1026" type="line"/>
-      <point x="833" y="1026" type="line"/>
-      <point x="353" y="536" type="line"/>
-      <point x="855" y="0" type="line"/>
+      <point x="1143" y="0" type="line"/>
+      <point x="654" y="536" type="line"/>
+      <point x="1131" y="1026" type="line"/>
+      <point x="847" y="1026" type="line"/>
+      <point x="367" y="536" type="line"/>
+      <point x="869" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="404" y="0" type="line"/>
-      <point x="404" y="1470" type="line"/>
-      <point x="162" y="1470" type="line"/>
-      <point x="162" y="0" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="418" y="1470" type="line"/>
+      <point x="176" y="1470" type="line"/>
+      <point x="176" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1171</integer>
+          <integer>1185</integer>
         </dict>
       </dict>
     </dict>
