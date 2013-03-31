@@ -46,3 +46,13 @@ src: url('fonts/topmarks-bold-x.eot');
   url("fonts/topmarks-book-x.woff") format("woff"),
   url("fonts/topmarks-book-x.ttf") format("truetype");
 }
+
+/* OPENTYPE STUFF */
+.fracs {
+    -moz-font-feature-settings:"frac" 1, "kern" 1, "liga" 1; 
+-moz-font-feature-settings:"frac=1, kern=1, liga=1"; 
+-ms-font-feature-settings:"frac" 1, "kern" 1, "liga" 1; 
+-o-font-feature-settings:"frac" 1, "kern" 1, "liga" 1; 
+-webkit-font-feature-settings:"frac" 1, "kern" 1, "liga" 1; 
+font-feature-settings:"frac" 1, "kern" 1, "liga" 1;
+}
