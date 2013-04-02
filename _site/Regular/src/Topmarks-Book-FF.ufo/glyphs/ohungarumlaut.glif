@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohungarumlaut" format="1">
+  <advance width="1216"/>
+  <unicode hex="0151"/>
+  <outline>
+    <component base="hungarumlaut" xOffset="303"/>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-22</integer>
+	    <key>width</key>	    <integer>136</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>912</integer>
+	    <key>width</key>	    <integer>136</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1174</integer>
+	    <key>width</key>	    <integer>313</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>110</integer>
+	    <key>width</key>
+	    <integer>170</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>461</integer>
+	    <key>width</key>
+	    <integer>656</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>933</integer>
+	    <key>width</key>
+	    <integer>171</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

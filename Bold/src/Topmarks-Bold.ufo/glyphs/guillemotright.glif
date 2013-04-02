@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotright" format="1">
-  <advance width="1996"/>
+  <advance width="1249"/>
   <unicode hex="00BB"/>
   <outline>
     <contour>
-      <point x="919" y="1174" type="line"/>
-      <point x="1230" y="737" type="line"/>
-      <point x="914" y="301" type="line"/>
-      <point x="746" y="301" type="line"/>
-      <point x="1028" y="737" type="line"/>
-      <point x="754" y="1174" type="line"/>
+      <point x="748" y="1174" type="line"/>
+      <point x="1059" y="737" type="line"/>
+      <point x="743" y="301" type="line"/>
+      <point x="575" y="301" type="line"/>
+      <point x="857" y="737" type="line"/>
+      <point x="583" y="1174" type="line"/>
     </contour>
     <contour>
-      <point x="494" y="1174" type="line"/>
-      <point x="786" y="737" type="line"/>
-      <point x="489" y="301" type="line"/>
-      <point x="301" y="301" type="line"/>
-      <point x="606" y="737" type="line"/>
-      <point x="308" y="1174" type="line"/>
+      <point x="323" y="1174" type="line"/>
+      <point x="615" y="737" type="line"/>
+      <point x="318" y="301" type="line"/>
+      <point x="130" y="301" type="line"/>
+      <point x="435" y="737" type="line"/>
+      <point x="137" y="1174" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -44,7 +44,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1996</integer>
+          <integer>1249</integer>
         </dict>
       </dict>
     </dict>

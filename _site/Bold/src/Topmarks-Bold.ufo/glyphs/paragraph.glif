@@ -1,25 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="paragraph" format="1">
-  <advance width="2090"/>
+  <advance width="1328"/>
   <unicode hex="00B6"/>
   <outline>
     <contour>
-      <point x="577" y="-261" type="line"/>
-      <point x="729" y="-261" type="line"/>
-      <point x="729" y="1324" type="line"/>
-      <point x="950" y="1324" type="line"/>
-      <point x="950" y="-261" type="line"/>
-      <point x="1101" y="-261" type="line"/>
-      <point x="1101" y="1324" type="line"/>
-      <point x="1202" y="1324" type="line"/>
-      <point x="1202" y="1470" type="line"/>
-      <point x="770" y="1470" type="line" smooth="yes"/>
-      <point x="490" y="1470"/>
-      <point x="198" y="1403"/>
-      <point x="198" y="1093" type="curve" smooth="yes"/>
-      <point x="198" y="870"/>
-      <point x="347" y="693"/>
-      <point x="577" y="689" type="curve"/>
+      <point x="543" y="-139" type="line"/>
+      <point x="695" y="-139" type="line"/>
+      <point x="695" y="1311" type="line"/>
+      <point x="916" y="1311" type="line"/>
+      <point x="916" y="-139" type="line"/>
+      <point x="1068" y="-139" type="line"/>
+      <point x="1068" y="1311" type="line"/>
+      <point x="1190" y="1311" type="line"/>
+      <point x="1190" y="1457" type="line"/>
+      <point x="736" y="1457" type="line" smooth="yes"/>
+      <point x="456" y="1457"/>
+      <point x="164" y="1412"/>
+      <point x="164" y="1102" type="curve" smooth="yes"/>
+      <point x="164" y="879"/>
+      <point x="306" y="748"/>
+      <point x="543" y="748" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>paragraph</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1328</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

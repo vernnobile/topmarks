@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ubreve" format="1">
+  <advance width="1239"/>
+  <unicode hex="016D"/>
+  <outline>
+    <component base="breve" xOffset="273" yOffset="106"/>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-22</integer>
+	    <key>width</key>	    <integer>136</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-3</integer>
+	    <key>width</key>	    <integer>138</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1006</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1218</integer>
+	    <key>width</key>	    <integer>107</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1434</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>171</integer>
+	    <key>width</key>
+	    <integer>165</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>327</integer>
+	    <key>width</key>
+	    <integer>87</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>805</integer>
+	    <key>width</key>
+	    <integer>86</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>854</integer>
+	    <key>width</key>
+	    <integer>164</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
