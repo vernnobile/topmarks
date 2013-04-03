@@ -9,16 +9,20 @@
 		<real>0.0</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
-	<true/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-	<true/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
-	<true/>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Users/vern/Github/topmarks/Bold/src/Topmarks-Bold.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
-	<false/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -38,7 +42,7 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>835</integer>
+			<integer>753</integer>
 			<key>y</key>
 			<integer>184</integer>
 		</dict>
@@ -52,7 +56,7 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>1246</integer>
+			<integer>782</integer>
 			<key>y</key>
 			<integer>-24</integer>
 		</dict>
@@ -367,7 +371,7 @@
 				<string>OE</string>
 				<string>aogonek</string>
 				<string>uni00B3</string>
-				<string>uni00B2</string>
+				<string>one.alt</string>
 				<string>uni00B9</string>
 				<string>J.alt</string>
 				<string>rcaron</string>
@@ -398,7 +402,6 @@
 				<string>rcommaaccent</string>
 				<string>oe</string>
 				<string>guilsinglleft</string>
-				<string>Rcaron</string>
 				<string>uni03BC</string>
 				<string>.notdef</string>
 				<string>uni000D</string>
@@ -408,6 +411,7 @@
 				<string>Racute</string>
 				<string>dagger</string>
 				<string>dblgravecmb</string>
+				<string>uni00B2</string>
 				<string>radical</string>
 				<string>integral</string>
 				<string>Itilde</string>
@@ -416,6 +420,7 @@
 				<string>summation</string>
 				<string>nacute</string>
 				<string>Gcommaaccent</string>
+				<string>f.alt</string>
 				<string>partialdiff</string>
 				<string>endash</string>
 				<string>fraction</string>
@@ -435,6 +440,7 @@
 				<string>Zdotaccent</string>
 				<string>lessequal</string>
 				<string>Eogonek</string>
+				<string>Rcaron</string>
 				<string>ij</string>
 				<string>Lslash</string>
 				<string>ldot</string>
@@ -464,6 +470,7 @@
 				<string>k.alt</string>
 				<string>daggerdbl</string>
 				<string>uni0217</string>
+				<string>four.alt</string>
 				<string>uni0216</string>
 			</array>
 			<key>type</key>
@@ -711,7 +718,7 @@
 		<string>OE</string>
 		<string>aogonek</string>
 		<string>uni00B3</string>
-		<string>uni00B2</string>
+		<string>one.alt</string>
 		<string>uni00B9</string>
 		<string>J.alt</string>
 		<string>rcaron</string>
@@ -742,7 +749,6 @@
 		<string>rcommaaccent</string>
 		<string>oe</string>
 		<string>guilsinglleft</string>
-		<string>Rcaron</string>
 		<string>uni03BC</string>
 		<string>.notdef</string>
 		<string>uni000D</string>
@@ -752,6 +758,7 @@
 		<string>Racute</string>
 		<string>dagger</string>
 		<string>dblgravecmb</string>
+		<string>uni00B2</string>
 		<string>radical</string>
 		<string>integral</string>
 		<string>Itilde</string>
@@ -760,6 +767,7 @@
 		<string>summation</string>
 		<string>nacute</string>
 		<string>Gcommaaccent</string>
+		<string>f.alt</string>
 		<string>partialdiff</string>
 		<string>endash</string>
 		<string>fraction</string>
@@ -779,6 +787,7 @@
 		<string>Zdotaccent</string>
 		<string>lessequal</string>
 		<string>Eogonek</string>
+		<string>Rcaron</string>
 		<string>ij</string>
 		<string>Lslash</string>
 		<string>ldot</string>
@@ -808,6 +817,7 @@
 		<string>k.alt</string>
 		<string>daggerdbl</string>
 		<string>uni0217</string>
+		<string>four.alt</string>
 		<string>uni0216</string>
 	</array>
 </dict>

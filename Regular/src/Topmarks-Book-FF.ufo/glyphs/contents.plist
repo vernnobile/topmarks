@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
+<dict>
 	<key>A</key>
 	<string>A_.glif</string>
 	<key>AE</key>
@@ -332,6 +332,8 @@
 	<string>colon.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
+	<key>commaaccent</key>
+	<string>commaaccent.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
 	<key>currency</key>
@@ -342,6 +344,8 @@
 	<string>dagger.glif</string>
 	<key>daggerdbl</key>
 	<string>daggerdbl.glif</string>
+	<key>dblgravecmb</key>
+	<string>dblgravecmb.glif</string>
 	<key>dcaron</key>
 	<string>dcaron.glif</string>
 	<key>degree</key>
@@ -354,8 +358,12 @@
 	<string>dollar.glif</string>
 	<key>dotaccent</key>
 	<string>dotaccent.glif</string>
+	<key>dotaccentcmb</key>
+	<string>dotaccentcmb.glif</string>
 	<key>dotlessi</key>
 	<string>dotlessi.glif</string>
+	<key>dotlessj</key>
+	<string>dotlessj.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eacute</key>
@@ -754,12 +762,6 @@
 	<string>uni021A_.glif</string>
 	<key>uni021B</key>
 	<string>uni021B_.glif</string>
-	<key>dotlessj</key>
-	<string>dotlessj.glif</string>
-	<key>dotaccentcmb</key>
-	<string>dotaccentcmb.glif</string>
-	<key>dblgravecmb</key>
-	<string>dblgravecmb.glif</string>
 	<key>uni0311</key>
 	<string>uni0311.glif</string>
 	<key>uni0326</key>
@@ -842,7 +844,5 @@
 	<string>zdotaccent.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
-	<key>commaaccent</key>
-	<string>commaaccent.glif</string>
-    </dict>
+</dict>
 </plist>
