@@ -12,9 +12,9 @@
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.autohint</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
@@ -22,7 +22,7 @@
 	<key>com.typemytype.robofont.compileSettings.path</key>
 	<string>/Users/vern/Github/topmarks/Bold/src/Topmarks-Bold.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
