@@ -1,0 +1,65 @@
+
+
+feature kern {
+
+    # glyph, glyph
+    pos F comma -150;
+    pos F period -70;
+    pos K Q -28;
+    pos L Q -22;
+    pos L V -34;
+    pos L W -22;
+    pos L quotedblright -210;
+    pos L quoteright -140;
+    pos L v -12;
+    pos L w -14;
+    pos P comma -160;
+    pos P period -100;
+    pos f quotedblright 30;
+    pos f quoteright 70;
+    pos v period -60;
+    pos w period -50;
+} kern;
+
+table OS/2 {
+    FSType 4;
+    Panose 0 0 0 0 0 0 0 0 0 0;
+    TypoAscender 1960;
+    TypoDescender -656;
+    TypoLineGap 0;
+    winAscent 1960;
+    winDescent 656;
+    XHeight 1026;
+    CapHeight 1456;
+    WeightClass 400;
+    WidthClass 5;
+    Vendor "newt";
+} OS/2;
+
+table head {
+    FontRevision 0.000;
+} head;
+
+table hhea {
+    Ascender 1960;
+    Descender -656;
+    LineGap 0;
+    CaretOffset 0;
+} hhea;
+
+table name {
+    nameid 0 "Copyright (c) 2012-13 by vernon adams. All rights reserved.";
+    nameid 0 1 "Copyright (c) 2012-13 by vernon adams. All rights reserved.";
+    nameid 7 "Topmarks is a trademark of vernon adams.";
+    nameid 7 1 "Topmarks is a trademark of vernon adams.";
+    nameid 8 "vernon adams";
+    nameid 8 1 "vernon adams";
+    nameid 9 "vernon adams";
+    nameid 9 1 "vernon adams";
+    nameid 10 "Copyright (c) 2011 by vernon adams. All rights reserved.";
+    nameid 10 1 "Copyright (c) 2011 by vernon adams. All rights reserved.";
+    nameid 13 "Copyright (c) 2013, vernon adams (<URL|email>),\000Awith Reserved Font Name Topmarks.\000A\000AThis Font Software is licensed under the SIL Open Font License, Version 1.1.\000AThis license is copied below, and is also available with a FAQ at:\000Ahttp://scripts.sil.org/OFL";
+    nameid 13 1 "Copyright (c) 2013, vernon adams (<URL|email>),\0Awith Reserved Font Name Topmarks.\0A\0AThis Font Software is licensed under the SIL Open Font License, Version 1.1.\0AThis license is copied below, and is also available with a FAQ at:\0Ahttp://scripts.sil.org/OFL";
+    nameid 14 "http://scripts.sil.org/OFL";
+    nameid 14 1 "http://scripts.sil.org/OFL";
+} name;
