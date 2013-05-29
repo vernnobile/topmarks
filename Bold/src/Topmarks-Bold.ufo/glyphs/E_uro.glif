@@ -3,6 +3,7 @@
   <advance width="1370"/>
   <unicode hex="20AC"/>
   <outline>
+    <component base="C" xOffset="30"/>
     <contour>
       <point x="1000" y="466" type="line"/>
       <point x="-5" y="466" type="line"/>
@@ -14,40 +15,8 @@
       <point x="1062" y="976" type="line"/>
       <point x="1038" y="814" type="line"/>
       <point x="346" y="814" type="line"/>
-      <point x="346" y="814"/>
-      <point x="346" y="628"/>
-      <point x="346" y="628" type="curve"/>
+      <point x="346" y="628" type="line"/>
       <point x="1023" y="628" type="line"/>
     </contour>
-    <component base="C" xOffset="30"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Euro</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1370</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="1">
-  <advance width="1078"/>
+  <advance width="747"/>
   <unicode hex="00B4"/>
   <outline>
-    <contour>
-      <point x="318" y="2064" type="line"/>
-      <point x="584" y="2440" type="line"/>
-      <point x="903" y="2440" type="line"/>
-      <point x="541" y="2064" type="line"/>
-    </contour>
+    <component base="acutecomb" xOffset="-217" yOffset="-1022"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +20,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>318</integer>
+	    <integer>512</integer>
 	    <key>width</key>
 	    <integer>585</integer>
 	  </dict>

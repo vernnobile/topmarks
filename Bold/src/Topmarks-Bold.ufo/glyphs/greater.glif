@@ -1,45 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="1">
-  <advance width="1217"/>
+  <advance width="1123"/>
   <unicode hex="003E"/>
   <outline>
     <contour>
-      <point x="172" y="1092" type="line"/>
-      <point x="1121" y="658" type="line"/>
-      <point x="1121" y="531" type="line"/>
-      <point x="168" y="78" type="line"/>
-      <point x="168" y="279" type="line"/>
-      <point x="803" y="591" type="line"/>
-      <point x="172" y="890" type="line"/>
+      <point x="92" y="1092" type="line"/>
+      <point x="1041" y="658" type="line"/>
+      <point x="1041" y="531" type="line"/>
+      <point x="88" y="78" type="line"/>
+      <point x="88" y="279" type="line"/>
+      <point x="723" y="591" type="line"/>
+      <point x="92" y="890" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>less</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1217</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

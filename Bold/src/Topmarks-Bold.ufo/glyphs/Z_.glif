@@ -1,65 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="1">
-  <advance width="1234"/>
+  <advance width="1393"/>
   <unicode hex="005A"/>
   <outline>
     <contour>
-      <point x="110" y="0" type="line"/>
-      <point x="110" y="198" type="line"/>
-      <point x="850" y="1256" type="line"/>
-      <point x="141" y="1256" type="line"/>
-      <point x="141" y="1456" type="line"/>
-      <point x="1142" y="1456" type="line"/>
-      <point x="1142" y="1276" type="line"/>
-      <point x="405" y="200" type="line"/>
-      <point x="1134" y="200" type="line"/>
-      <point x="1134" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="180" y="198" type="line"/>
+      <point x="920" y="1256" type="line"/>
+      <point x="211" y="1256" type="line"/>
+      <point x="211" y="1456" type="line"/>
+      <point x="1212" y="1456" type="line"/>
+      <point x="1212" y="1276" type="line"/>
+      <point x="475" y="200" type="line"/>
+      <point x="1204" y="200" type="line"/>
+      <point x="1204" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>200</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1248</integer>
-            <key>width</key>
-            <integer>200</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Z</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1234</integer>
-        </dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>200</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1256</integer>
+	    <key>width</key>	    <integer>200</integer>
+	  </dict>
+	</array>
       </dict>
     </dict>
   </lib>

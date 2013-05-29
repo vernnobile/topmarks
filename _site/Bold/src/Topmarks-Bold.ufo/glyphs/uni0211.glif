@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0211" format="1">
-  <advance width="1233"/>
+  <advance width="890"/>
   <unicode hex="0211"/>
   <outline>
-    <component base="dblgravecmb" xOffset="-138" yOffset="-882"/>
-    <component base="r" xOffset="10"/>
+    <component base="dblgravecmb" xOffset="-327" yOffset="104"/>
+    <component base="r"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni0211</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1233</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
