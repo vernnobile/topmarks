@@ -1,21 +1,31 @@
+html { background: #cbccc8;}
+
+body { 
+    background-repeat: no-repeat;
+    background: #cbccc8;
+    background: -webkit-gradient(linear, left top, left bottom, from(#eee), to(#ddd));
+    background: -moz-linear-gradient(top,  #eee,  #ddd);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee', endColorstr='#dddddd'); 
+line-height:1.8em;
+
+}
+
+
+.lead {
+color:#0066aa;
+}
+
+
 .subheader {
 background-color:#FFF;
 color:#222;
-padding:8px;
+padding:8px 0 0 8px;
 margin-top:44px;
 -webkit-border-radius: 8px 8px 0px 0px;
   border-radius: 8px 8px 0px 0px;
 }
 
 #backBox {
-height:100%;
-width:100%;
-background-image: -moz-linear-gradient(top, #eee, #ccc);
-background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eee), to(#ccc));
-background-image: -webkit-linear-gradient(top, #eee, #ccc);
-background-image: -o-linear-gradient(top, #eee, #ccc);
-background-image: linear-gradient(to bottom, #eee, #ccc);
-background-repeat: repeat-x;padding:21px;
 position:absolute;
 z-index:-90;
 }
@@ -72,17 +82,17 @@ text-shadow: 0px 0px 6px #fff;
 }
 
 .mainheader {
-background-color:#444343;
+background-color:#005687;
 /*background-color:#fff;*/
 color:#ddd;
-padding:8px;
+padding:21px 0 21px 13px;
 margin-top:44px;
 -webkit-border-radius: 8px 8px 0px 0px;
   border-radius: 8px 8px 0px 0px; 
 }
 
 .carousel-inner {
-max-height:500px;
+/*max-height:500px;*/
 background-color:#fff;
 /* background-image: -moz-linear-gradient(top, #eee, #ccc);
 background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eee), to(#ccc));
@@ -125,10 +135,7 @@ line-height:2em;
  }
 
 
-body {
-background-color:#eee;
-line-height:1.8em;
-}
+
 
 
   #mainFooter {  
