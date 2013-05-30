@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="1">
-  <advance width="711"/>
+  <advance width="719"/>
   <unicode hex="0066"/>
   <outline>
     <contour>
@@ -30,30 +30,39 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-404</integer>
-	    <key>width</key>	    <integer>135</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>919</integer>
-	    <key>width</key>	    <integer>107</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1406</integer>
-	    <key>width</key>	    <integer>120</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>263</integer>
-	    <key>width</key>
-	    <integer>159</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-404</integer>
+            <key>width</key>
+            <integer>135</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>919</integer>
+            <key>width</key>
+            <integer>107</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1406</integer>
+            <key>width</key>
+            <integer>120</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>263</integer>
+            <key>width</key>
+            <integer>159</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>

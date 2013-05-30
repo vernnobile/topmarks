@@ -21,8 +21,8 @@
       <point x="795" y="1052"/>
       <point x="935" y="1006"/>
       <point x="1015" y="954" type="curve"/>
-      <point x="1015" y="-386" type="line"/>
-      <point x="1297" y="-268" type="line"/>
+      <point x="1015" y="-394" type="line"/>
+      <point x="1276" y="-285" type="line"/>
       <point x="1322" y="-405" type="line"/>
     </contour>
     <contour>
@@ -45,36 +45,45 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-22</integer>
-	    <key>width</key>	    <integer>136</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>912</integer>
-	    <key>width</key>	    <integer>136</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1006</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>110</integer>
-	    <key>width</key>
-	    <integer>170</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>901</integer>
-	    <key>width</key>
-	    <integer>164</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-22</integer>
+            <key>width</key>
+            <integer>136</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>912</integer>
+            <key>width</key>
+            <integer>136</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1006</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>110</integer>
+            <key>width</key>
+            <integer>170</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>901</integer>
+            <key>width</key>
+            <integer>164</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
       </dict>
     </dict>
   </lib>
