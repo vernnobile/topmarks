@@ -4,9 +4,9 @@
   <unicode hex="0070"/>
   <outline>
     <contour>
-      <point x="183" y="-548" type="line"/>
-      <point x="183" y="651" type="line" smooth="yes"/>
-      <point x="183" y="814"/>
+      <point x="186" y="-574" type="line"/>
+      <point x="186" y="651" type="line" smooth="yes"/>
+      <point x="186" y="814"/>
       <point x="90" y="906"/>
       <point x="54" y="937" type="curve"/>
       <point x="280" y="1026" type="line"/>
@@ -25,7 +25,7 @@
       <point x="531" y="-22"/>
       <point x="492" y="-14"/>
       <point x="425" y="4" type="curve"/>
-      <point x="425" y="-548" type="line"/>
+      <point x="425" y="-574" type="line"/>
     </contour>
     <contour>
       <point x="425" y="188" type="line"/>
@@ -47,36 +47,70 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-22</integer>
-	    <key>width</key>	    <integer>186</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>862</integer>
-	    <key>width</key>	    <integer>186</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1006</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>183</integer>
-	    <key>width</key>
-	    <integer>242</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>880</integer>
-	    <key>width</key>
-	    <integer>248</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-22</integer>
+            <key>width</key>
+            <integer>186</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>862</integer>
+            <key>width</key>
+            <integer>186</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1006</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>183</integer>
+            <key>width</key>
+            <integer>242</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>880</integer>
+            <key>width</key>
+            <integer>248</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>p</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1240</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

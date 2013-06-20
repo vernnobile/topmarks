@@ -32,8 +32,8 @@
       <point x="696" y="1048"/>
       <point x="753" y="1039"/>
       <point x="811" y="1022" type="curve"/>
-      <point x="811" y="1480" type="line"/>
-      <point x="1053" y="1480" type="line"/>
+      <point x="811" y="1560" type="line"/>
+      <point x="1053" y="1560" type="line"/>
       <point x="1053" y="365" type="line" smooth="yes"/>
       <point x="1053" y="217"/>
       <point x="1088" y="176"/>
@@ -47,32 +47,61 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-22</integer>
-	    <key>width</key>	    <integer>186</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>862</integer>
-	    <key>width</key>	    <integer>186</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>112</integer>
-	    <key>width</key>
-	    <integer>248</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>811</integer>
-	    <key>width</key>
-	    <integer>242</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-22</integer>
+            <key>width</key>
+            <integer>186</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>862</integer>
+            <key>width</key>
+            <integer>186</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>112</integer>
+            <key>width</key>
+            <integer>248</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>811</integer>
+            <key>width</key>
+            <integer>242</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>d</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1258</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

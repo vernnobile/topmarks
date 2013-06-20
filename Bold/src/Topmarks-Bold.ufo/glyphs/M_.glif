@@ -5,21 +5,21 @@
   <outline>
     <contour>
       <point x="192" y="0" type="line"/>
-      <point x="192" y="1456" type="line"/>
-      <point x="485" y="1456" type="line"/>
-      <point x="863" y="741" type="line"/>
-      <point x="945" y="569" type="line"/>
-      <point x="1025" y="743" type="line"/>
-      <point x="1405" y="1456" type="line"/>
-      <point x="1697" y="1456" type="line"/>
+      <point x="192" y="1560" type="line"/>
+      <point x="485" y="1560" type="line"/>
+      <point x="863" y="805" type="line"/>
+      <point x="945" y="633" type="line"/>
+      <point x="1025" y="807" type="line"/>
+      <point x="1405" y="1560" type="line"/>
+      <point x="1697" y="1560" type="line"/>
       <point x="1697" y="0" type="line"/>
       <point x="1447" y="0" type="line"/>
-      <point x="1447" y="1085" type="line"/>
-      <point x="1342" y="871" type="line"/>
-      <point x="999" y="229" type="line"/>
-      <point x="886" y="229" type="line"/>
-      <point x="546" y="883" type="line"/>
-      <point x="442" y="1102" type="line"/>
+      <point x="1447" y="1189" type="line"/>
+      <point x="1342" y="955" type="line"/>
+      <point x="999" y="293" type="line"/>
+      <point x="886" y="293" type="line"/>
+      <point x="546" y="967" type="line"/>
+      <point x="442" y="1206" type="line"/>
       <point x="442" y="0" type="line"/>
     </contour>
   </outline>
@@ -27,32 +27,61 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1436</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>192</integer>
-	    <key>width</key>
-	    <integer>250</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1447</integer>
-	    <key>width</key>
-	    <integer>250</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1436</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>192</integer>
+            <key>width</key>
+            <integer>250</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1447</integer>
+            <key>width</key>
+            <integer>250</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>M</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1889</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

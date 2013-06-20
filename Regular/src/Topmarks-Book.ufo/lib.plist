@@ -26,6 +26,23 @@
 		<real>0.5</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.guides</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>431</integer>
+			<key>y</key>
+			<integer>-574</integer>
+		</dict>
+	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
@@ -35,7 +52,7 @@
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
 	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
-	<false/>
+	<true/>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>
