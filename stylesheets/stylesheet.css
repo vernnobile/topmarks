@@ -28,7 +28,7 @@ padding:14px;
 }
 
 .picBox {
-margin:-10px 1px 5px ;
+margin:-8px 1px 5px ;
 /*margin:-10px 0 7px 0;*/
 height:140px;
 overflow:hidden;
@@ -45,10 +45,12 @@ padding: 0 16px 0 16px
 }
 
 .leadbox {
-color:#fff;
+color:#ddd;
 background-color:#333;
-padding: 2px 2px 3px 6px;
-margin:1px 0px 10px ;
+padding: 2px 2px 3px 16px;
+margin:-6px 0px 10px ;
+background-repeat:no-repeat;
+background-position:-2px 0;
 }
 
 .subheader {
@@ -105,11 +107,11 @@ font-family:'Open Sans';
 }
 
 .top_menu {
-padding: 14px 21px 7px 21px;
+padding: 14px 21px 7px 41px;
 font-family:'Open Sans';
 font-size:1em;
-color:#fff;
-background-color:#222222;
+color:#eee;
+background-color:#222;
 
 }
 
