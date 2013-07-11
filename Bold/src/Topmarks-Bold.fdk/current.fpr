@@ -3,4 +3,4 @@ InputFontPath	./font.otf
 FeaturePath	./features
 GlyphAliasDBPath	./glyphOrder
 FontMenuDBPath	./menuname
-DoAliasAndOrder	true
+ReleaseMode	true

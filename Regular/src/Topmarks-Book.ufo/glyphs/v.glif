@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="1">
-  <advance width="1052"/>
+  <advance width="1037.23076923"/>
   <unicode hex="0076"/>
   <outline>
     <contour>
-      <point x="444" y="0" type="line"/>
-      <point x="22" y="1026" type="line"/>
-      <point x="204" y="1026" type="line"/>
-      <point x="478" y="336" type="line" smooth="yes"/>
-      <point x="497" y="290"/>
-      <point x="520" y="217"/>
-      <point x="536" y="163" type="curve"/>
-      <point x="567" y="264"/>
-      <point x="580" y="309"/>
-      <point x="592" y="336" type="curve"/>
-      <point x="853" y="1026" type="line"/>
-      <point x="1030" y="1026" type="line"/>
-      <point x="612" y="0" type="line"/>
+      <point x="436.615384615" y="0" type="line"/>
+      <point x="14.6153846154" y="1026" type="line"/>
+      <point x="196.615384615" y="1026" type="line"/>
+      <point x="470.615384615" y="336" type="line" smooth="yes"/>
+      <point x="489.615384615" y="290"/>
+      <point x="512.615384615" y="217"/>
+      <point x="528.615384615" y="163" type="curve"/>
+      <point x="559.615384615" y="264"/>
+      <point x="572.615384615" y="309"/>
+      <point x="584.615384615" y="336" type="curve"/>
+      <point x="845.615384615" y="1026" type="line"/>
+      <point x="1022.61538462" y="1026" type="line"/>
+      <point x="604.615384615" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -61,7 +61,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1052</integer>
+          <real>1037.230769230769</real>
         </dict>
       </dict>
     </dict>

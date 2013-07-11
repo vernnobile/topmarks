@@ -1,36 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="1">
-  <advance width="998"/>
+  <advance width="965.0"/>
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="122" y="0" type="line"/>
-      <point x="122" y="155" type="line"/>
-      <point x="600" y="856" type="line"/>
-      <point x="128" y="856" type="line"/>
-      <point x="128" y="1026" type="line"/>
-      <point x="888" y="1026" type="line"/>
-      <point x="888" y="873" type="line"/>
-      <point x="418" y="170" type="line"/>
-      <point x="910" y="170" type="line"/>
-      <point x="910" y="0" type="line"/>
+      <point x="116.0" y="0" type="line"/>
+      <point x="116.0" y="155" type="line"/>
+      <point x="594.0" y="856" type="line"/>
+      <point x="122.0" y="856" type="line"/>
+      <point x="122.0" y="1026" type="line"/>
+      <point x="882.0" y="1026" type="line"/>
+      <point x="882.0" y="873" type="line"/>
+      <point x="412.0" y="170" type="line"/>
+      <point x="904.0" y="170" type="line"/>
+      <point x="904.0" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>170</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>856</integer>
-	    <key>width</key>	    <integer>170</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>170</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>856</integer>
+            <key>width</key>
+            <integer>170</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>z</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>965.0</real>
+        </dict>
       </dict>
     </dict>
   </lib>

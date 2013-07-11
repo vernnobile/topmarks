@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="U" format="1">
-  <advance width="1465"/>
+  <advance width="1462.54954955"/>
   <unicode hex="0055"/>
   <outline>
     <contour>
-      <point x="744" y="-24" type="curve" smooth="yes"/>
-      <point x="375" y="-24"/>
-      <point x="176" y="157"/>
-      <point x="176" y="541" type="curve" smooth="yes"/>
-      <point x="176" y="1560" type="line"/>
-      <point x="348" y="1560" type="line"/>
-      <point x="348" y="546" type="line" smooth="yes"/>
-      <point x="348" y="260"/>
-      <point x="482" y="126"/>
-      <point x="743" y="126" type="curve" smooth="yes"/>
-      <point x="985" y="126"/>
-      <point x="1118" y="279"/>
-      <point x="1118" y="539" type="curve" smooth="yes"/>
-      <point x="1118" y="1560" type="line"/>
-      <point x="1289" y="1560" type="line"/>
-      <point x="1289" y="551" type="line"/>
-      <point x="1287" y="191"/>
-      <point x="1092" y="-24"/>
+      <point x="742.774774775" y="-24" type="curve" smooth="yes"/>
+      <point x="373.774774775" y="-24"/>
+      <point x="174.774774775" y="157"/>
+      <point x="174.774774775" y="541" type="curve" smooth="yes"/>
+      <point x="174.774774775" y="1560" type="line"/>
+      <point x="346.774774775" y="1560" type="line"/>
+      <point x="346.774774775" y="546" type="line" smooth="yes"/>
+      <point x="346.774774775" y="260"/>
+      <point x="480.774774775" y="126"/>
+      <point x="741.774774775" y="126" type="curve" smooth="yes"/>
+      <point x="983.774774775" y="126"/>
+      <point x="1116.77477477" y="279"/>
+      <point x="1116.77477477" y="539" type="curve" smooth="yes"/>
+      <point x="1116.77477477" y="1560" type="line"/>
+      <point x="1287.77477477" y="1560" type="line"/>
+      <point x="1287.77477477" y="551" type="line"/>
+      <point x="1285.77477477" y="191"/>
+      <point x="1090.77477477" y="-24"/>
     </contour>
   </outline>
   <lib>
@@ -81,7 +81,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1465</integer>
+          <real>1462.5495495495497</real>
         </dict>
       </dict>
     </dict>

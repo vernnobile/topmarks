@@ -1,38 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="x" format="1">
-  <advance width="1118"/>
+  <advance width="1067.91304348"/>
   <unicode hex="0078"/>
   <outline>
     <contour>
-      <point x="32" y="0" type="line"/>
-      <point x="426" y="535" type="line"/>
-      <point x="77" y="1026" type="line"/>
-      <point x="362" y="1026" type="line"/>
-      <point x="581" y="697" type="line"/>
-      <point x="790" y="1026" type="line"/>
-      <point x="1069" y="1026" type="line"/>
-      <point x="705" y="520" type="line"/>
-      <point x="1086" y="0" type="line"/>
-      <point x="783" y="0" type="line"/>
-      <point x="545" y="361" type="line"/>
-      <point x="298" y="0" type="line"/>
+      <point x="6.95652173913" y="0" type="line"/>
+      <point x="400.956521739" y="535" type="line"/>
+      <point x="51.9565217391" y="1026" type="line"/>
+      <point x="336.956521739" y="1026" type="line"/>
+      <point x="555.956521739" y="697" type="line"/>
+      <point x="764.956521739" y="1026" type="line"/>
+      <point x="1043.95652174" y="1026" type="line"/>
+      <point x="679.956521739" y="520" type="line"/>
+      <point x="1060.95652174" y="0" type="line"/>
+      <point x="757.956521739" y="0" type="line"/>
+      <point x="519.956521739" y="361" type="line"/>
+      <point x="272.956521739" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1006</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1006</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>x</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1067.913043478261</real>
+        </dict>
       </dict>
     </dict>
   </lib>
