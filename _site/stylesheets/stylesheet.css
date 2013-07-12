@@ -226,3 +226,14 @@ hr {
   text-align: center;
 }
 
+.huge {
+	color:#333;
+	font-size: 89px;
+	line-height: 1em;
+	letter-spacing: -.02em;
+	padding:0 0 0 0;
+} 
+.glyph_range {
+	font-size: 34px;
+	line-height: 1.1em;
+}

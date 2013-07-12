@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="581.1"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="107.6" y="-275.5" type="line"/>
+      <point x="240.9" y="-275.5" type="line"/>
+      <point x="406.7" y="195.6" type="line"/>
+      <point x="215.5" y="195.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="167.7" y="818.1" type="line"/>
+      <point x="388.5" y="818.1" type="line"/>
+      <point x="388.5" y="1031.8" type="line"/>
+      <point x="173.2" y="1031.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>semicolon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>540</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
