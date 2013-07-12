@@ -4,32 +4,59 @@
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="200" y="1322" type="line"/>
-      <point x="200" y="1456" type="line"/>
-      <point x="772" y="1456" type="line"/>
-      <point x="772" y="1322" type="line"/>
+      <point x="200" y="1426" type="line"/>
+      <point x="200" y="1560" type="line"/>
+      <point x="772" y="1560" type="line"/>
+      <point x="772" y="1426" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1183</integer>
-	    <key>width</key>	    <integer>134</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>200</integer>
-	    <key>width</key>
-	    <integer>572</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1183</integer>
+            <key>width</key>
+            <integer>134</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>200</integer>
+            <key>width</key>
+            <integer>572</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>macron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>972</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

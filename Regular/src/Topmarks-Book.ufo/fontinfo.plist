@@ -18,6 +18,12 @@
 	<string></string>
 	<key>openTypeHeadCreated</key>
 	<string>2013/05/29 20:36:50</string>
+	<key>openTypeHheaAscender</key>
+	<integer>1968</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-656</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
 	<key>openTypeNameDescription</key>
 	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
 	<key>openTypeNameDesigner</key>
@@ -41,7 +47,7 @@ http://scripts.sil.org/OFL</string>
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>1960</integer>
+	<integer>1968</integer>
 	<key>openTypeOS2TypoDescender</key>
 	<integer>-656</integer>
 	<key>openTypeOS2TypoLineGap</key>
@@ -53,7 +59,7 @@ http://scripts.sil.org/OFL</string>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>1960</integer>
+	<integer>1968</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>656</integer>
 	<key>postscriptBlueFuzz</key>

@@ -24,10 +24,10 @@ feature kern {
 table OS/2 {
     FSType 4;
     Panose 0 0 0 0 0 0 0 0 0 0;
-    TypoAscender 1960;
+    TypoAscender 1968;
     TypoDescender -656;
     TypoLineGap 0;
-    winAscent 1960;
+    winAscent 1968;
     winDescent 656;
     XHeight 1026;
     CapHeight 1560;
@@ -41,9 +41,9 @@ table head {
 } head;
 
 table hhea {
-    Ascender 1392;
+    Ascender 1968;
     Descender -656;
-    LineGap 200;
+    LineGap 0;
     CaretOffset 0;
 } hhea;
 

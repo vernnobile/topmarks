@@ -1,33 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="1316"/>
+  <advance width="1274"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="407" y="0" type="line"/>
-      <point x="931" y="1311" type="line"/>
-      <point x="209" y="1311" type="line"/>
-      <point x="209" y="1456" type="line"/>
-      <point x="1131" y="1456" type="line"/>
-      <point x="1131" y="1365" type="line"/>
-      <point x="593" y="0" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="915" y="1441" type="line"/>
+      <point x="207" y="1441" type="line"/>
+      <point x="207" y="1586" type="line"/>
+      <point x="1102" y="1586" type="line"/>
+      <point x="1102" y="1445" type="line"/>
+      <point x="591" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1311</integer>
-	    <key>width</key>	    <integer>145</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1311</integer>
+            <key>width</key>
+            <integer>145</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>seven</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1274</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
