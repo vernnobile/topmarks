@@ -1,0 +1,239 @@
+.row-fluid .span12 {
+  margin:0 0 5px 0;
+}
+
+
+.boxText {
+font-size:1em;
+line-height:1.5em;
+color:#333;
+padding:6px 8px 6px 4px;
+}
+
+.LayoutGrid {
+min-height: 1180px;
+background-color:#fff;
+-webkit-box-shadow: 0px 0px 10px 5px #bbb;
+box-shadow: 0px 0px 10px 5px #bbb;
+margin-top: 0px;
+margin-bottom: 0px; 
+padding: 0 0px 0 0px;
+}
+
+.sliderBox {
+background-color:#ff4719;
+height:440px;
+margin-bottom:14px;
+padding:14px;
+}
+
+.picBox {
+margin:-8px 1px 5px ;
+/*margin:-10px 0 7px 0;*/
+height:140px;
+overflow:hidden;
+background-repeat:no-repeat;
+}
+
+html { 
+line-height:1.8em;
+font-family:'Open Sans';
+}
+
+.margins {
+padding: 0 16px 0 16px
+}
+
+.leadbox {
+color:#ddd;
+background-color:#333;
+padding: 2px 2px 3px 10px;
+margin:-6px 0px 10px ;
+background-repeat:no-repeat;
+background-position:-3px 0;
+}
+
+.subheader {
+background-color:#FFF;
+color:#222;
+padding:8px 0 0 8px;
+margin-top:44px;
+-webkit-border-radius: 8px 8px 0px 0px;
+  border-radius: 8px 8px 0px 0px;
+}
+
+#backBox {
+position:absolute;
+z-index:-90;
+
+}
+
+.carousel.fade
+{
+    opacity: .8;
+
+    .item
+    {
+        -moz-transition: opacity ease-in-out 3s;
+        -o-transition: opacity ease-in-out 3s;
+        -webkit-transition: opacity ease-in-out 3s;
+        transition: opacity ease-in-out 3s;
+        left: 0 !important;
+        opacity: 0;
+        top:0;
+        position:absolute;
+        width: 100%;
+        display:block !important;
+        z-index:19;
+        &:first-child{
+            top:auto;
+            position:relative;
+        }
+
+        &.active
+        {
+            opacity: .8;
+            -moz-transition: opacity ease-in-out 1s;
+            -o-transition: opacity ease-in-out 1s;
+            -webkit-transition: opacity ease-in-out 1s;
+            transition: opacity ease-in-out 1s;
+            z-index:29;
+        }
+    }
+}
+
+p {
+font-family:'Open Sans';
+}
+
+.top_menu {
+padding: 14px 21px 7px 48px;
+font-family:'Open Sans';
+font-size:1em;
+color:#eee;
+background-color:#222;
+
+}
+
+.top_menu li, .top_menu li a {
+color:#fff;
+}
+
+
+.mainheader {
+background-color:#005687;
+/*background-color:#fff;*/
+color:#ddd;
+padding:21px 0 21px 13px;
+margin-top:44px;
+-webkit-border-radius: 8px 8px 0px 0px;
+  border-radius: 8px 8px 0px 0px; 
+}
+
+.carousel-inner {
+/*max-height:500px;*/
+background-color:#fff;
+/* background-image: -moz-linear-gradient(top, #eee, #ccc);
+background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eee), to(#ccc));
+background-image: -webkit-linear-gradient(top, #eee, #ccc);
+background-image: -o-linear-gradient(top, #eee, #ccc);
+background-image: linear-gradient(to bottom, #eee, #ccc);
+background-repeat: repeat-x;padding:21px;*/
+-webkit-border-radius: 0px 0px 8px 8px;
+  border-radius: 0px 0px 8px 8px; 
+padding: 55px 21px 55px 21px;
+}
+
+.specimen-inner {
+background-color:#fff;
+-webkit-border-radius: 0px 0px 8px 8px;
+  border-radius: 0px 0px 8px 8px; 
+padding: 21px 21px 21px 21px;
+}
+
+.tab {
+width:200px;
+text-align:center;
+margin-left:21px;
+background-color:#aaa;
+color:#fff;
+padding:3px 3px 0px 3px;
+border-bottom-left-radius:0px;
+  border-bottom-right-radius:0px;
+  border-top-left-radius:4px;
+  border-top-right-radius:4px;
+  border:solid 1px 1px 0px 1px #ddd;
+	}
+
+.specimen {
+margin-top:13px;
+color:#555;  
+vertical-align:middle;
+ }
+
+.specimen2 {
+margin-top:13px;
+padding:3px;
+color:#444;
+line-height:2em;
+
+ }
+
+
+
+
+
+  #mainFooter {  
+  background-color: silver;  
+  width: 100%;  
+  padding-top: 13px;  
+  padding-right: 13px;  
+  padding-bottom: 13px;  
+  padding-left: 13px;  
+  height: 44px;
+}
+
+
+#project_tagline {  
+  font-size: 1.6em;  
+  color: #5e6268;  
+font-weight: 300;
+}
+
+hr {  
+  
+  border-top-color: #333;  
+  border-right-color: #333;  
+  border-bottom-color: #333;  
+  border-left-color: #333;  
+  border-top-width: thin;  
+  border-right-width: thin;  
+  border-bottom-width: thin;  
+  border-left-width: thin;  
+  border-top-style: none;  
+  border-right-style: none;  
+  border-bottom-style: solid;  
+  border-left-style: none;
+}
+
+
+#topnavbar a {  
+  color: #cccccc;
+}
+
+
+.nailCenter {  
+  text-align: center;
+}
+
+.huge {
+	color:#333;
+	font-size: 89px;
+	line-height: 1em;
+	letter-spacing: -.02em;
+	padding:0 0 0 0;
+} 
+.glyph_range {
+	font-size: 34px;
+	line-height: 1.1em;
+}

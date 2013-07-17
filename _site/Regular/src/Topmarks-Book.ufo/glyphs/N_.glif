@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="1575"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="194" y="0" type="line"/>
+      <point x="194" y="1560" type="line"/>
+      <point x="399" y="1560" type="line"/>
+      <point x="1135" y="342" type="line"/>
+      <point x="1210" y="215" type="line"/>
+      <point x="1210" y="1560" type="line"/>
+      <point x="1381" y="1560" type="line"/>
+      <point x="1381" y="0" type="line"/>
+      <point x="1174" y="0" type="line"/>
+      <point x="435" y="1217" type="line"/>
+      <point x="366" y="1341" type="line"/>
+      <point x="366" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1436</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>191</integer>
+            <key>width</key>
+            <integer>172</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1207</integer>
+            <key>width</key>
+            <integer>171</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>N</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1575</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
