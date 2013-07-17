@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="856"/>
+  <unicode hex="0165"/>
+  <outline>
+    <component base="comma" xOffset="190" yOffset="-346"/>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-656</integer>
+	    <key>width</key>	    <integer>517</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-8</integer>
+	    <key>width</key>	    <integer>127</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>243</integer>
+	    <key>width</key>
+	    <integer>161</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>321</integer>
+	    <key>width</key>
+	    <integer>294</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
