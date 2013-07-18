@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="1">
+  <advance width="857"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="553" y="994" type="line"/>
+      <point x="488" y="1560" type="line"/>
+      <point x="678" y="1560" type="line"/>
+      <point x="662" y="994" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="244" y="994" type="line"/>
+      <point x="179" y="1560" type="line"/>
+      <point x="369" y="1560" type="line"/>
+      <point x="353" y="994" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>931</integer>
+            <key>width</key>
+            <integer>525</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>182</integer>
+            <key>width</key>
+            <integer>455</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedbl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>857</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
