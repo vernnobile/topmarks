@@ -1,35 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="1">
-  <advance width="1060"/>
+  <advance width="1036"/>
   <unicode hex="0076"/>
   <outline>
     <contour>
-      <point x="448" y="0" type="line"/>
-      <point x="46" y="1026" type="line"/>
-      <point x="228" y="1026" type="line"/>
-      <point x="481" y="353" type="line"/>
-      <point x="538" y="167" type="line"/>
-      <point x="595" y="353" type="line"/>
-      <point x="837" y="1026" type="line"/>
-      <point x="1014" y="1026" type="line"/>
-      <point x="616" y="0" type="line"/>
+      <point x="433" y="0" type="line"/>
+      <point x="37" y="1026" type="line"/>
+      <point x="219" y="1026" type="line"/>
+      <point x="466" y="353" type="line"/>
+      <point x="523" y="167" type="line"/>
+      <point x="580" y="353" type="line"/>
+      <point x="816" y="1026" type="line"/>
+      <point x="999" y="1026" type="line"/>
+      <point x="601" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1006</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1006</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>v</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1036</integer>
+        </dict>
       </dict>
     </dict>
   </lib>
