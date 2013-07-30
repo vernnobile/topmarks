@@ -1,0 +1,54 @@
+
+lookup kernHorizontalKerninglookup0 {
+  lookupflag 0;
+    @kc0_first_1 = [\A ];
+    @kc0_first_2 = [\W ];
+    @kc0_first_3 = [\V ];
+    @kc0_first_4 = [\L ];
+    @kc0_first_5 = [\T ];
+    @kc0_first_6 = [\Y ];
+    @kc0_first_7 = [\K ];
+    @kc0_second_1 = [\W ];
+    @kc0_second_2 = [\A ];
+    @kc0_second_3 = [\V ];
+    @kc0_second_4 = [\T ];
+    @kc0_second_5 = [\a \c \d \e \o \q ];
+    @kc0_second_6 = [\C \G \O \Q ];
+    pos @kc0_first_1 @kc0_second_1 -92;
+    pos @kc0_first_1 @kc0_second_2 141;
+    pos @kc0_first_1 @kc0_second_3 -88;
+    pos @kc0_first_1 @kc0_second_4 -323;
+    pos @kc0_first_2 @kc0_second_1 97;
+    pos @kc0_first_2 @kc0_second_2 -92;
+    pos @kc0_first_2 @kc0_second_3 106;
+    pos @kc0_first_2 @kc0_second_4 168;
+    pos @kc0_first_2 @kc0_second_5 -73;
+    pos @kc0_first_3 @kc0_second_1 105;
+    pos @kc0_first_3 @kc0_second_2 -96;
+    pos @kc0_first_3 @kc0_second_3 114;
+    pos @kc0_first_3 @kc0_second_4 175;
+    pos @kc0_first_3 @kc0_second_5 -85;
+    pos @kc0_first_4 @kc0_second_1 -438;
+    pos @kc0_first_4 @kc0_second_2 190;
+    pos @kc0_first_4 @kc0_second_3 -480;
+    pos @kc0_first_4 @kc0_second_4 -116;
+    pos @kc0_first_4 @kc0_second_5 -41;
+    pos @kc0_first_5 @kc0_second_1 170;
+    pos @kc0_first_5 @kc0_second_2 -325;
+    pos @kc0_first_5 @kc0_second_3 178;
+    pos @kc0_first_5 @kc0_second_4 246;
+    pos @kc0_first_5 @kc0_second_5 -118;
+    pos @kc0_first_6 @kc0_second_5 -127;
+    pos @kc0_first_7 @kc0_second_5 -17;
+    pos @kc0_first_7 @kc0_second_6 -28;
+} kernHorizontalKerninglookup0;
+
+feature kern {
+  script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+  script latn;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+} kern;

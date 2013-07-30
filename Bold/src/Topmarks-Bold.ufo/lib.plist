@@ -22,7 +22,7 @@
 	<key>com.typemytype.robofont.compileSettings.path</key>
 	<string>/Users/vern/Github/topmarks/Bold/src/Topmarks-Bold.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -435,6 +435,9 @@
 				<string>Imacron</string>
 				<string>Nacute</string>
 				<string>bullet</string>
+				<string>uni2611</string>
+				<string>uni2714</string>
+				<string>uni2713</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
