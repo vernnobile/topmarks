@@ -1,5 +1,5 @@
 h5 {
-padding: 0 0 0 13px;
+padding: 0 0 0 0;
 }
 
 .row-fluid .span12 {
@@ -26,9 +26,7 @@ padding: 0 0px 0 0px;
 
 .sliderBox {
 background-color:#ff4719;
-height:440px;
-margin-bottom:14px;
-padding:14px;
+height:460px;
 }
 
 .picBox {
@@ -49,13 +47,13 @@ padding: 0 16px 0 16px
 }
 
 .leadbox {
-color:#ddd;
-background-color:#333;
-padding: 2px 2px 3px 10px;
+color:#eee;
+background-color:#337EA1;
+padding: 2px 2px 3px 16px;
 margin:-6px 0px 10px ;
 background-repeat:no-repeat;
-background-position:-3px 0;
-font-size:1.2em;
+background-position:3px 0 0 0;
+font-size:1.1em;
 }
 
 .subheader {
@@ -112,18 +110,36 @@ font-family:'Open Sans';
 }
 
 .top_menu {
-padding: 14px 21px 7px 48px;
+padding: 8px 3px 0px 20px;
 font-family:'Open Sans';
 font-size:1em;
-color:#eee;
-background-color:#222;
+/*color:#eee;*/
 
 }
 
 .top_menu li, .top_menu li a {
-color:#fff;
+margin: -0px -4px 0px -4px;
+padding: 5px 16px 5px 16px;
+border-radius:3px;
+
 }
 
+.dark, .dark a{
+color:#fff;
+background:#337EA1;
+}
+
+.light, .light a{
+color:#fff;
+background:#60A7C9;
+
+}
+
+li.darktext {
+padding: 2px 8px 2px 8px;
+font-size:1em;
+color:#333;
+}
 
 .mainheader {
 background-color:#005687;
