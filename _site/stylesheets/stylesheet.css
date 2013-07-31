@@ -10,7 +10,7 @@ font-family:'Muli';
 }
 
 body {
-background:#eee;
+background-color:#eee;
 }
 
 .row-fluid .span12 {
@@ -28,8 +28,8 @@ padding:6px 8px 6px 4px;
 .LayoutGrid {
 min-height: 1180px;
 background-color:#fff;
--webkit-box-shadow: 0px 0px 10px 5px #bbb;
-box-shadow: 0px 0px 10px 5px #bbb;
+-webkit-box-shadow: 0px 0px 10px 5px #3D4950;
+box-shadow: 0px 0px 10px 5px #3D4950;
 margin-top: 0px;
 margin-bottom: 0px; 
 padding: 0 0px 0 0px;
@@ -120,10 +120,10 @@ z-index:-90;
 p {
 font-family:'Muli';}
 
-.footerText {
-padding: 8px 3px 0px 20px;
+.footerText, .footerText a,.footerText a:hover {
 font-family:'Muli';font-size:1em;
 text-align:center;
+color:#eee;
 }
 
 .top_menu {
@@ -145,6 +145,10 @@ border-radius:3px;
 .dark, .dark a{
 color:#fff;
 background:#337EA1;
+}
+
+.dark a:hover {
+color:#eee;
 }
 
 .light, .light a{
