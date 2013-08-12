@@ -1,3 +1,18 @@
+#specimen * {
+font-family:'topmarksbook';
+}
+
+#specimenBold * {
+font-family:'topmarksbold';
+}
+
+.page-header h4 {
+font-family:'Muli';
+font-weight:400;
+font-size:22px;
+color:#333;
+}
+
 .listStyle {
 list-style-type:circle;
 font-family:'Muli';
@@ -9,14 +24,6 @@ font-family:'Muli';
 
 }
 
-body {
-background-color:#eee;
-}
-
-.row-fluid .span12 {
-  margin:0 0 5px 0;
-}
-
 
 .boxText {
 font-size:1em;
@@ -26,13 +33,10 @@ padding:6px 8px 6px 4px;
 }
 
 .LayoutGrid {
-min-height: 1180px;
 background-color:#fff;
--webkit-box-shadow: 0px 0px 10px 5px #3D4950;
-box-shadow: 0px 0px 10px 5px #3D4950;
-margin-top: 0px;
-margin-bottom: 0px; 
-padding: 0 0px 0 0px;
+/*-webkit-box-shadow: 0px 0px 25px 2px #eee;
+box-shadow: 0px 0px 25px 2px #eee;*/
+
 }
 
 .sliderBox {
@@ -53,19 +57,15 @@ line-height:1.8em;
 font-family:'Muli';
 }
 
-.margins {
-padding: 0 16px 0 16px
-}
 
 .leadbox {
-color:#eee;
-background-color:#337EA1;
-padding: 2px 2px 2px 16px;
-margin:4px -2px 10px -1px ;
+background-color:#ddd;
+padding: 3px 2px 3px 16px;
 background-repeat:no-repeat;
 background-position:3px 0 0 0;
-font-size:1em;
+/*font-size:0.9em;*/
 border-radius:3px;
+font-weight:300;
 }
 
 .subheader {
@@ -77,88 +77,31 @@ margin-top:44px;
   border-radius: 8px 8px 0px 0px;
 }
 
-#backBox {
-position:absolute;
-z-index:-90;
-
-}
-
-.carousel.fade
-{
-    opacity: .8;
-
-    .item
-    {
-        -moz-transition: opacity ease-in-out 3s;
-        -o-transition: opacity ease-in-out 3s;
-        -webkit-transition: opacity ease-in-out 3s;
-        transition: opacity ease-in-out 3s;
-        left: 0 !important;
-        opacity: 0;
-        top:0;
-        position:absolute;
-        width: 100%;
-        display:block !important;
-        z-index:19;
-        &:first-child{
-            top:auto;
-            position:relative;
-        }
-
-        &.active
-        {
-            opacity: .8;
-            -moz-transition: opacity ease-in-out 1s;
-            -o-transition: opacity ease-in-out 1s;
-            -webkit-transition: opacity ease-in-out 1s;
-            transition: opacity ease-in-out 1s;
-            z-index:29;
-        }
-    }
-}
 
 p {
 font-family:'Muli';}
 
 .footerText, .footerText a,.footerText a:hover {
-font-family:'Muli';font-size:1em;
+font-size:1em;
 text-align:center;
-color:#eee;
+color:#333;
+font-weight:400;
+
 }
 
 .top_menu {
-padding: 8px 3px 0px 20px;
+padding: 10px 0px 10px 0px;
 font-family:'Muli';
 font-weight:300;
-font-size:1em;
+background:#222;
+position: fixed;
+z-index: 1300;
+width: 100%;
+margin: 0;
 }
 
-
-
-.top_menu li, .top_menu li a {
-margin: -0px -4px 0px -4px;
-padding: 4px 16px 4px 16px;
-border-radius:3px;
-
-}
-
-.dark, .dark a{
-color:#fff;
-background:#337EA1;
-}
-
-.dark a:hover {
+.top_menu .btn-group a{
 color:#eee;
-}
-
-.light, .light a{
-color:#fff;
-background:#60A7C9;
-
-}
-
-.lightGap {
-width: 166px;
 }
 
 hr { border-bottom: 1px dotted #bbb;}
@@ -179,19 +122,6 @@ margin-top:44px;
   border-radius: 8px 8px 0px 0px; 
 }
 
-.carousel-inner {
-/*max-height:500px;*/
-background-color:#fff;
-/* background-image: -moz-linear-gradient(top, #eee, #ccc);
-background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eee), to(#ccc));
-background-image: -webkit-linear-gradient(top, #eee, #ccc);
-background-image: -o-linear-gradient(top, #eee, #ccc);
-background-image: linear-gradient(to bottom, #eee, #ccc);
-background-repeat: repeat-x;padding:21px;*/
--webkit-border-radius: 0px 0px 8px 8px;
-  border-radius: 0px 0px 8px 8px; 
-padding: 55px 21px 55px 21px;
-}
 
 .specimen-inner {
 background-color:#fff;
@@ -230,26 +160,7 @@ line-height:2em;
 
 
 
-
-
-  #mainFooter {  
-  background-color: silver;  
-  width: 100%;  
-  padding-top: 13px;  
-  padding-right: 13px;  
-  padding-bottom: 13px;  
-  padding-left: 13px;  
-  height: 44px;
-}
-
-
-#project_tagline {  
-  font-size: 1.6em;  
-  color: #5e6268;  
-font-weight: 300;
-}
-
-hr {  
+/*hr {  
   
   border-top-color: #333;  
   border-right-color: #333;  
@@ -263,12 +174,7 @@ hr {
   border-right-style: none;  
   border-bottom-style: solid;  
   border-left-style: none;
-}
-
-
-#topnavbar a {  
-  color: #cccccc;
-}
+}*/
 
 
 .nailCenter {  
@@ -276,12 +182,22 @@ hr {
 }
 
 .huge {
+    font-family:'topmarksbook';
+} 
+
+.hugeBold {
+    font-family:'topmarksbold';
+}
+.huge, .hugeBold {
 	color:#333;
-	font-size: 89px;
+	font-size: 8em;
 	line-height: 1em;
 	letter-spacing: -.02em;
 	padding:0 0 0 0;
-} 
+    white-space:nowrap;
+    overflow:hidden;
+
+}
 .glyph_range {
 	font-size: 34px;
 	line-height: 1.1em;
