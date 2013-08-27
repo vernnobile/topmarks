@@ -20,33 +20,4 @@
       <point x="129" y="1218" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1347</integer>
-	    <key>width</key>	    <integer>107</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>42</integer>
-	    <key>width</key>
-	    <integer>87</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>520</integer>
-	    <key>width</key>
-	    <integer>86</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -4,6 +4,12 @@
     <dict>
 	<key>F</key>
 	<dict>
+	    <key>comma</key>
+	    <integer>-150</integer>
+	    <key>period</key>
+	    <integer>-70</integer>
+	    <key>comma</key>
+	    <integer>-150</integer>
 	    <key>period</key>
 	    <integer>-70</integer>
 	    <key>comma</key>
@@ -12,6 +18,8 @@
 	    <integer>-70</integer>
 	    <key>comma</key>
 	    <integer>-150</integer>
+	    <key>period</key>
+	    <integer>-70</integer>
 	</dict>
 	<key>K</key>
 	<dict>
@@ -19,40 +27,78 @@
 	    <integer>-28</integer>
 	    <key>Q</key>
 	    <integer>-28</integer>
+	    <key>Q</key>
+	    <integer>-28</integer>
+	    <key>Q</key>
+	    <integer>-28</integer>
 	</dict>
 	<key>L</key>
 	<dict>
-	    <key>w</key>
-	    <integer>-14</integer>
-	    <key>v</key>
-	    <integer>-12</integer>
-	    <key>quoteright</key>
-	    <integer>-140</integer>
-	    <key>quotedblright</key>
-	    <integer>-210</integer>
-	    <key>W</key>
+	    <key>Q</key>
 	    <integer>-22</integer>
 	    <key>V</key>
 	    <integer>-34</integer>
-	    <key>Q</key>
+	    <key>W</key>
 	    <integer>-22</integer>
-	    <key>w</key>
-	    <integer>-14</integer>
-	    <key>v</key>
-	    <integer>-12</integer>
-	    <key>quoteright</key>
-	    <integer>-140</integer>
 	    <key>quotedblright</key>
 	    <integer>-210</integer>
-	    <key>W</key>
+	    <key>quoteright</key>
+	    <integer>-140</integer>
+	    <key>v</key>
+	    <integer>-12</integer>
+	    <key>w</key>
+	    <integer>-14</integer>
+	    <key>Q</key>
 	    <integer>-22</integer>
 	    <key>V</key>
 	    <integer>-34</integer>
+	    <key>W</key>
+	    <integer>-22</integer>
+	    <key>quotedblright</key>
+	    <integer>-210</integer>
+	    <key>quoteright</key>
+	    <integer>-140</integer>
+	    <key>v</key>
+	    <integer>-12</integer>
+	    <key>w</key>
+	    <integer>-14</integer>
 	    <key>Q</key>
 	    <integer>-22</integer>
+	    <key>V</key>
+	    <integer>-34</integer>
+	    <key>W</key>
+	    <integer>-22</integer>
+	    <key>quotedblright</key>
+	    <integer>-210</integer>
+	    <key>quoteright</key>
+	    <integer>-140</integer>
+	    <key>v</key>
+	    <integer>-12</integer>
+	    <key>w</key>
+	    <integer>-14</integer>
+	    <key>Q</key>
+	    <integer>-22</integer>
+	    <key>V</key>
+	    <integer>-34</integer>
+	    <key>W</key>
+	    <integer>-22</integer>
+	    <key>quotedblright</key>
+	    <integer>-210</integer>
+	    <key>quoteright</key>
+	    <integer>-140</integer>
+	    <key>v</key>
+	    <integer>-12</integer>
+	    <key>w</key>
+	    <integer>-14</integer>
 	</dict>
 	<key>P</key>
 	<dict>
+	    <key>comma</key>
+	    <integer>-160</integer>
+	    <key>period</key>
+	    <integer>-100</integer>
+	    <key>comma</key>
+	    <integer>-160</integer>
 	    <key>period</key>
 	    <integer>-100</integer>
 	    <key>comma</key>
@@ -61,9 +107,17 @@
 	    <integer>-100</integer>
 	    <key>comma</key>
 	    <integer>-160</integer>
+	    <key>period</key>
+	    <integer>-100</integer>
 	</dict>
 	<key>f</key>
 	<dict>
+	    <key>quotedblright</key>
+	    <integer>30</integer>
+	    <key>quoteright</key>
+	    <integer>70</integer>
+	    <key>quotedblright</key>
+	    <integer>30</integer>
 	    <key>quoteright</key>
 	    <integer>70</integer>
 	    <key>quotedblright</key>
@@ -72,6 +126,8 @@
 	    <integer>70</integer>
 	    <key>quotedblright</key>
 	    <integer>30</integer>
+	    <key>quoteright</key>
+	    <integer>70</integer>
 	</dict>
 	<key>v</key>
 	<dict>
@@ -79,9 +135,17 @@
 	    <integer>-60</integer>
 	    <key>period</key>
 	    <integer>-60</integer>
+	    <key>period</key>
+	    <integer>-60</integer>
+	    <key>period</key>
+	    <integer>-60</integer>
 	</dict>
 	<key>w</key>
 	<dict>
+	    <key>period</key>
+	    <integer>-50</integer>
+	    <key>period</key>
+	    <integer>-50</integer>
 	    <key>period</key>
 	    <integer>-50</integer>
 	    <key>period</key>

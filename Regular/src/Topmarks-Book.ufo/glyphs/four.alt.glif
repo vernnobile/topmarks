@@ -16,41 +16,11 @@
       <point x="946" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="319" y="520" type="line"/>
+      <point x="319" y="520" type="curve"/>
       <point x="774" y="520" type="line"/>
       <point x="774" y="1287" type="line"/>
-      <point x="651" y="1081" type="line"/>
+      <point x="622" y="1032"/>
+      <point x="470" y="776"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>386</integer>
-	    <key>width</key>	    <integer>150</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1436</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>754</integer>
-	    <key>width</key>
-	    <integer>191</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

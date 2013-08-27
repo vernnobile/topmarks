@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="percent" format="1">
-  <advance width="1789"/>
+  <advance width="1788"/>
   <unicode hex="0025"/>
   <outline>
     <contour>
@@ -66,96 +66,4 @@
       <point x="636" y="824"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-27</integer>
-            <key>width</key>
-            <integer>113</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>-5</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>622</integer>
-            <key>width</key>
-            <integer>113</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>686</integer>
-            <key>width</key>
-            <integer>113</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1335</integer>
-            <key>width</key>
-            <integer>112</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>198</integer>
-            <key>width</key>
-            <integer>144</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>764</integer>
-            <key>width</key>
-            <integer>143</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1127</integer>
-            <key>width</key>
-            <integer>144</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1675</integer>
-            <key>width</key>
-            <integer>144</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>percent</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1789</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

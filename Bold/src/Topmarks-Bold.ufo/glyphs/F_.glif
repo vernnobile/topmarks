@@ -1,81 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="1">
-  <advance width="1092.0"/>
+  <advance width="1093"/>
   <unicode hex="0046"/>
   <outline>
     <contour>
-      <point x="176" y="0" type="line"/>
-      <point x="176" y="1560" type="line"/>
-      <point x="1017" y="1560" type="line"/>
-      <point x="1017" y="1360" type="line"/>
-      <point x="426" y="1360" type="line"/>
-      <point x="426" y="925" type="line"/>
-      <point x="984" y="925" type="line"/>
-      <point x="984" y="732" type="line"/>
-      <point x="426" y="732" type="line"/>
-      <point x="426" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="178" y="1560" type="line"/>
+      <point x="1019" y="1560" type="line"/>
+      <point x="1019" y="1360" type="line"/>
+      <point x="428" y="1360" type="line"/>
+      <point x="428" y="925" type="line"/>
+      <point x="986" y="925" type="line"/>
+      <point x="986" y="732" type="line"/>
+      <point x="428" y="732" type="line"/>
+      <point x="428" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>672</integer>
-            <key>width</key>
-            <integer>193</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1256</integer>
-            <key>width</key>
-            <integer>200</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>192</integer>
-            <key>width</key>
-            <integer>250</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>F</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>1092.0</real>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

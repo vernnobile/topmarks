@@ -1,69 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="1">
-  <advance width="1037.23076923"/>
+  <advance width="1060"/>
   <unicode hex="0076"/>
   <outline>
     <contour>
-      <point x="436.615384615" y="0" type="line"/>
-      <point x="14.6153846154" y="1026" type="line"/>
-      <point x="196.615384615" y="1026" type="line"/>
-      <point x="470.615384615" y="336" type="line" smooth="yes"/>
-      <point x="489.615384615" y="290"/>
-      <point x="512.615384615" y="217"/>
-      <point x="528.615384615" y="163" type="curve"/>
-      <point x="559.615384615" y="264"/>
-      <point x="572.615384615" y="309"/>
-      <point x="584.615384615" y="336" type="curve"/>
-      <point x="845.615384615" y="1026" type="line"/>
-      <point x="1022.61538462" y="1026" type="line"/>
-      <point x="604.615384615" y="0" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="46" y="1026" type="line"/>
+      <point x="228" y="1026" type="line"/>
+      <point x="481" y="353" type="line"/>
+      <point x="538" y="167" type="line"/>
+      <point x="626" y="465"/>
+      <point x="738" y="739"/>
+      <point x="837" y="1026" type="curve"/>
+      <point x="1014" y="1026" type="line"/>
+      <point x="616" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1006</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>v</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>1037.23076923</real>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

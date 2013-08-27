@@ -1,83 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0205" format="1">
-  <advance width="1082"/>
+  <advance width="1070"/>
   <unicode hex="0205"/>
   <outline>
-    <component base="dblgravecmb" xOffset="430" yOffset="74"/>
+    <component base="dblgravecmb" xOffset="424" yOffset="74"/>
     <component base="e"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-22</integer>
-            <key>width</key>
-            <integer>136</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>912</integer>
-            <key>width</key>
-            <integer>136</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1174</integer>
-            <key>width</key>
-            <integer>313</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-801</integer>
-            <key>width</key>
-            <integer>656</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>110</integer>
-            <key>width</key>
-            <integer>180</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>800</integer>
-            <key>width</key>
-            <integer>163</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>uni0205</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1082</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,65 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="1">
-  <advance width="1403.85714286"/>
+  <advance width="1402"/>
   <unicode hex="0056"/>
   <outline>
     <contour>
-      <point x="579.428571428" y="0" type="line"/>
-      <point x="51.4285714286" y="1560" type="line"/>
-      <point x="323.428571428" y="1560" type="line"/>
-      <point x="604" y="665" type="line"/>
-      <point x="719" y="278" type="line"/>
-      <point x="826" y="664" type="line"/>
-      <point x="1072.42857143" y="1560" type="line"/>
-      <point x="1352.42857143" y="1560" type="line"/>
-      <point x="857.428571428" y="0" type="line"/>
+      <point x="579" y="0" type="line"/>
+      <point x="51" y="1560" type="line"/>
+      <point x="323" y="1560" type="line"/>
+      <point x="604" y="630" type="line"/>
+      <point x="719" y="323" type="line"/>
+      <point x="826" y="629" type="line"/>
+      <point x="1072" y="1560" type="line"/>
+      <point x="1352" y="1560" type="line"/>
+      <point x="857" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1436</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>V</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>1403.85714286</real>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

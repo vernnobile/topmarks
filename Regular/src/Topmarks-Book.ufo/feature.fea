@@ -34,133 +34,6 @@ feature frac {
 # GPOS 
 
 
-lookup kernHorizontalKerninginLatinloo {
-  lookupflag 0;
-    pos \F \comma -150;
-    pos \F \period -70;
-    pos \F \comma -150;
-    pos \F \period -70;
-    pos \K \Q -28;
-    pos \K \Q -28;
-    pos \L \Q -22;
-    pos \L \V -34;
-    pos \L \W -22;
-    pos \L \quotedblright -210;
-    pos \L \quoteright -140;
-    pos \L \v -12;
-    pos \L \w -14;
-    pos \L \Q -22;
-    pos \L \V -34;
-    pos \L \W -22;
-    pos \L \quotedblright -210;
-    pos \L \quoteright -140;
-    pos \L \v -12;
-    pos \L \w -14;
-    pos \P \comma -160;
-    pos \P \period -100;
-    pos \P \comma -160;
-    pos \P \period -100;
-    pos \f \quotedblright 30;
-    pos \f \quoteright 70;
-    pos \f \quotedblright 30;
-    pos \f \quoteright 70;
-    pos \v \period -60;
-    pos \v \period -60;
-    pos \w \period -50;
-    pos \w \period -50;
-  subtable;
-    @kc2_first_1 = [\A \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Amacron \Aogonek \Aring 
-	\Atilde \uni0200 \uni0202 ];
-    @kc2_first_2 = [\D ];
-    @kc2_first_3 = [\F ];
-    @kc2_first_4 = [\G \Gcommaaccent ];
-    @kc2_first_5 = [\K ];
-    @kc2_first_6 = [\L ];
-    @kc2_first_7 = [\P ];
-    @kc2_first_8 = [\T \uni021A ];
-    @kc2_first_9 = [\V ];
-    @kc2_first_10 = [\W ];
-    @kc2_first_11 = [\Y \Yacute \Ydieresis ];
-    @kc2_first_12 = [\c \cacute \ccaron \ccedilla ];
-    @kc2_first_13 = [\o \oacute \ocircumflex \odieresis \ograve \otilde \uni020D \uni020F ];
-    @kc2_first_14 = [\r \rcaron \rcommaaccent \uni0211 \uni0213 ];
-    @kc2_second_1 = [\A \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Amacron \Aogonek \Aring 
-	\Atilde \uni0200 \uni0202 ];
-    @kc2_second_2 = [\C \Cacute \Ccaron \Ccedilla ];
-    @kc2_second_3 = [\G \Gcommaaccent ];
-    @kc2_second_4 = [\O \Oacute \Ocircumflex \Odieresis \Ograve \Otilde \uni020C \uni020E ];
-    @kc2_second_5 = [\T \uni021A ];
-    @kc2_second_6 = [\V ];
-    @kc2_second_7 = [\W ];
-    @kc2_second_8 = [\Y \Yacute \Ydieresis ];
-    @kc2_second_9 = [\a \aacute \abreve \acircumflex \adieresis \agrave \amacron \aogonek \aring 
-	\atilde \uni0201 \uni0203 ];
-    @kc2_second_10 = [\comma ];
-    @kc2_second_11 = [\e \eacute \ecircumflex \edieresis \egrave \emacron \eogonek \uni0205 \uni0207 ];
-    @kc2_second_12 = [\g \gcommaaccent ];
-    @kc2_second_13 = [\o \oacute \ocircumflex \odieresis \ograve \otilde \uni020D \uni020F ];
-    @kc2_second_14 = [\period ];
-    @kc2_second_15 = [\q ];
-    @kc2_second_16 = [\quotedblright ];
-    @kc2_second_17 = [\quoteright ];
-    @kc2_second_18 = [\s \sacute \scaron \scommaaccent ];
-    @kc2_second_19 = [\v ];
-    @kc2_second_20 = [\w ];
-    @kc2_second_21 = [\x ];
-    pos @kc2_first_1 @kc2_second_2 -6;
-    pos @kc2_first_1 @kc2_second_3 -6;
-    pos @kc2_first_1 @kc2_second_4 -6;
-    pos @kc2_first_1 @kc2_second_5 -58;
-    pos @kc2_first_1 @kc2_second_6 -26;
-    pos @kc2_first_1 @kc2_second_7 -12;
-    pos @kc2_first_1 @kc2_second_8 -49;
-    pos @kc2_first_1 @kc2_second_16 -150;
-    pos @kc2_first_1 @kc2_second_17 -140;
-    pos @kc2_first_1 @kc2_second_19 -6;
-    pos @kc2_first_1 @kc2_second_20 -6;
-    pos @kc2_first_2 @kc2_second_1 -16;
-    pos @kc2_first_2 @kc2_second_8 -24;
-    pos @kc2_first_3 @kc2_second_1 -22;
-    pos @kc2_first_3 @kc2_second_9 -10;
-    pos @kc2_first_4 @kc2_second_8 -13;
-    pos @kc2_first_5 @kc2_second_2 -24;
-    pos @kc2_first_5 @kc2_second_3 -26;
-    pos @kc2_first_5 @kc2_second_4 -16;
-    pos @kc2_first_5 @kc2_second_9 -4;
-    pos @kc2_first_5 @kc2_second_11 -4;
-    pos @kc2_first_5 @kc2_second_13 -8;
-    pos @kc2_first_6 @kc2_second_2 -22;
-    pos @kc2_first_6 @kc2_second_3 -22;
-    pos @kc2_first_6 @kc2_second_4 -18;
-    pos @kc2_first_6 @kc2_second_5 -82;
-    pos @kc2_first_6 @kc2_second_8 -48;
-    pos @kc2_first_7 @kc2_second_1 -36;
-    pos @kc2_first_8 @kc2_second_1 -27;
-    pos @kc2_first_8 @kc2_second_9 -46;
-    pos @kc2_first_8 @kc2_second_11 -40;
-    pos @kc2_first_8 @kc2_second_13 -36;
-    pos @kc2_first_9 @kc2_second_1 -26;
-    pos @kc2_first_9 @kc2_second_9 -18;
-    pos @kc2_first_9 @kc2_second_11 -8;
-    pos @kc2_first_9 @kc2_second_12 -22;
-    pos @kc2_first_9 @kc2_second_13 -22;
-    pos @kc2_first_10 @kc2_second_1 -22;
-    pos @kc2_first_10 @kc2_second_9 -6;
-    pos @kc2_first_11 @kc2_second_1 -64;
-    pos @kc2_first_11 @kc2_second_4 -14;
-    pos @kc2_first_11 @kc2_second_9 -56;
-    pos @kc2_first_11 @kc2_second_10 -110;
-    pos @kc2_first_11 @kc2_second_11 -18;
-    pos @kc2_first_11 @kc2_second_12 -14;
-    pos @kc2_first_11 @kc2_second_13 -18;
-    pos @kc2_first_11 @kc2_second_14 -60;
-    pos @kc2_first_11 @kc2_second_15 -22;
-    pos @kc2_first_11 @kc2_second_18 -32;
-    pos @kc2_first_12 @kc2_second_13 -6;
-    pos @kc2_first_13 @kc2_second_21 -10;
-    pos @kc2_first_14 @kc2_second_14 -40;
-} kernHorizontalKerninginLatinloo;
-
 lookup markMarkPositioninglookup0 {
   lookupflag 0;
   markClass [\ogonek ] <anchor 308 0> @ogonek;
@@ -182,78 +55,88 @@ lookup markMarkPositioninglookup0 {
   pos base [\A ] <anchor 702 1536> mark @top
 	<anchor 736 0> mark @bottom
 	<anchor 1260 0> mark @ogonek;
-  pos base [\B \D \F \P \R \Z \j \n ] <anchor 700 1536> mark @top
-	<anchor 676 0> mark @bottom;
-  pos base [\C \G \O \b \d \p ] <anchor 790 1536> mark @top
-	<anchor 826 0> mark @bottom;
-  pos base [\E \U ] <anchor 656 1536> mark @top
-	<anchor 826 0> mark @bottom
-	<anchor 850 0> mark @ogonek;
-  pos base [\H ] <anchor 793 1536> mark @top
-	<anchor 788 0> mark @bottom;
-  pos base [\I ] <anchor 390 1536> mark @top
-	<anchor 286 1> mark @bottom;
-  pos base [\J ] <anchor 670 1536> mark @top;
-  pos base [\K ] <anchor 667 1536> mark @top
-	<anchor 726 0> mark @bottom;
-  pos base [\L \T ] <anchor 580 1536> mark @top
-	<anchor 696 0> mark @bottom;
-  pos base [\M ] <anchor 970 1536> mark @top
-	<anchor 976 0> mark @bottom;
-  pos base [\N ] <anchor 809 1536> mark @top
-	<anchor 804 0> mark @bottom;
+  pos base [\B \D \F \P \R ] <anchor 704 1536> mark @top
+	<anchor 680 0> mark @bottom;
+  pos base [\C ] <anchor 794 1534> mark @top
+	<anchor 830 -2> mark @bottom;
+  pos base [\E \G \O ] <anchor 660 1536> mark @top
+	<anchor 830 0> mark @bottom
+	<anchor 854 0> mark @ogonek;
+  pos base [\H ] <anchor 797 1536> mark @top
+	<anchor 792 0> mark @bottom;
+  pos base [\I ] <anchor 494 1536> mark @top
+	<anchor 496 1> mark @bottom;
+  pos base [\J ] <anchor 668 1536> mark @top;
+  pos base [\K ] <anchor 671 1536> mark @top
+	<anchor 730 0> mark @bottom;
+  pos base [\L ] <anchor 584 1536> mark @top
+	<anchor 700 0> mark @bottom;
+  pos base [\M ] <anchor 974 1536> mark @top
+	<anchor 980 0> mark @bottom;
+  pos base [\N ] <anchor 813 1536> mark @top
+	<anchor 808 0> mark @bottom;
   pos base [\S ] <anchor 604 1536> mark @top
 	<anchor 587 -1> mark @bottom;
+  pos base [\T ] <anchor 581 1536> mark @top
+	<anchor 569 0> mark @bottom;
+  pos base [\U \p ] <anchor 656 1536> mark @top
+	<anchor 826 0> mark @bottom
+	<anchor 850 0> mark @ogonek;
   pos base [\W ] <anchor 1023 1536> mark @top
 	<anchor 1017 0> mark @bottom;
   pos base [\Y ] <anchor 620 1536> mark @top
 	<anchor 625 0> mark @bottom;
-  pos base [\a ] <anchor 676 1123> mark @top
-	<anchor 616 0> mark @bottom
-	<anchor 994 0> mark @ogonek;
-  pos base [\c ] <anchor 597 1152> mark @top
-	<anchor 599 0> mark @bottom;
+  pos base [\Z \j ] <anchor 700 1536> mark @top
+	<anchor 676 0> mark @bottom;
+  pos base [\a ] <anchor 672 1123> mark @top
+	<anchor 629 0> mark @bottom
+	<anchor 992 0> mark @ogonek;
+  pos base [\b ] <anchor 816 1536> mark @top
+	<anchor 852 0> mark @bottom;
+  pos base [\c ] <anchor 709 0> mark @ogonek
+	<anchor 591 1152> mark @top
+	<anchor 582 0> mark @bottom;
+  pos base [\d ] <anchor 720 0> mark @ogonek
+	<anchor 784 1536> mark @top
+	<anchor 820 0> mark @bottom;
   pos base [\dotlessi ] <anchor 272 1023> mark @top;
   pos base [\dotlessj ] <anchor 299 1152> mark @top;
-  pos base [\e ] <anchor 616 1122> mark @top
-	<anchor 656 0> mark @bottom
-	<anchor 869 56> mark @ogonek;
+  pos base [\e ] <anchor 610 1122> mark @top
+	<anchor 650 0> mark @bottom
+	<anchor 863 56> mark @ogonek;
   pos base [\f ] <anchor 543 1464> mark @top
-	<anchor 366 0> mark @bottom;
-  pos base [\g ] <anchor 652 1027> mark @top
+	<anchor 377 0> mark @bottom;
+  pos base [\g ] <anchor 641 1027> mark @top
 	<anchor 588 -512> mark @bottom;
-  pos base [\h ] <anchor 737 1260> mark @top
-	<anchor 645 0> mark @bottom;
-  pos base [\i ] <anchor 248 1> mark @bottom;
-  pos base [\k ] <anchor 767 1152> mark @top
-	<anchor 616 -1> mark @bottom;
-  pos base [\l ] <anchor 266 1474> mark @top
-	<anchor 264 0> mark @bottom;
-  pos base [\m ] <anchor 952 1024> mark @top
-	<anchor 946 0> mark @bottom;
-  pos base [\o ] <anchor 619 1152> mark @top
-	<anchor 826 0> mark @bottom
-	<anchor 726 0> mark @ogonek;
-  pos base [\r ] <anchor 487 1152> mark @top
-	<anchor 338 -3> mark @bottom;
-  pos base [\s \t ] <anchor 500 1152> mark @top
-	<anchor 501 0> mark @bottom;
-  pos base [\u ] <anchor 600 1152> mark @top
-	<anchor 587 0> mark @bottom
-	<anchor 947 0> mark @ogonek;
-  pos base [\w ] <anchor 843 1024> mark @top
+  pos base [\h ] <anchor 720 1260> mark @top
+	<anchor 628 0> mark @bottom;
+  pos base [\i ] <anchor 282 1> mark @bottom;
+  pos base [\k ] <anchor 759 1152> mark @top
+	<anchor 608 -1> mark @bottom;
+  pos base [\l ] <anchor 298 1474> mark @top
+	<anchor 290 0> mark @bottom;
+  pos base [\m ] <anchor 958 1024> mark @top
+	<anchor 949 0> mark @bottom;
+  pos base [\n ] <anchor 706 1536> mark @top
+	<anchor 682 0> mark @bottom;
+  pos base [\o ] <anchor 613 1152> mark @top
+	<anchor 820 0> mark @bottom
+	<anchor 720 0> mark @ogonek;
+  pos base [\r ] <anchor 495 1152> mark @top
+	<anchor 352 -3> mark @bottom;
+  pos base [\s ] <anchor 509 1152> mark @top
+	<anchor 510 0> mark @bottom;
+  pos base [\t ] <anchor 543 1152> mark @top
+	<anchor 544 6> mark @bottom;
+  pos base [\u ] <anchor 633 1152> mark @top
+	<anchor 620 0> mark @bottom
+	<anchor 980 0> mark @ogonek;
+  pos base [\w ] <anchor 847 1024> mark @top
 	<anchor 840 0> mark @bottom;
-  pos base [\y ] <anchor 536 1024> mark @top;
-  pos base [\z ] <anchor 506 1024> mark @top
-	<anchor 555 0> mark @bottom;
+  pos base [\y ] <anchor 598 1024> mark @top;
+  pos base [\z ] <anchor 492 1024> mark @top
+	<anchor 541 0> mark @bottom;
 } markMarkPositioninglookup0;
-
-feature kern {
-
- script latn;
-     language dflt ;
-      lookup kernHorizontalKerninginLatinloo;
-} kern;
 
 feature mark {
 

@@ -5,75 +5,13 @@
   <outline>
     <contour>
       <point x="194" y="-200" type="line"/>
-      <point x="194" y="1560" type="line"/>
-      <point x="550" y="1560" type="line"/>
-      <point x="550" y="1438" type="line"/>
-      <point x="357" y="1438" type="line"/>
+      <point x="194" y="1510" type="line"/>
+      <point x="550" y="1510" type="line"/>
+      <point x="550" y="1388" type="line"/>
+      <point x="357" y="1388" type="line"/>
       <point x="357" y="-78" type="line"/>
       <point x="551" y="-78" type="line"/>
       <point x="551" y="-200" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-259</integer>
-            <key>width</key>
-            <integer>122</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1329</integer>
-            <key>width</key>
-            <integer>122</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>194</integer>
-            <key>width</key>
-            <integer>357</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>194</integer>
-            <key>width</key>
-            <integer>163</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>bracketleft</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>731</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
