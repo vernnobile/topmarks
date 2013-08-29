@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucircumflex" format="1">
+  <advance width="1577"/>
+  <unicode hex="00FB"/>
+  <outline>
+    <contour>
+      <point x="850" y="68" type="curve" smooth="yes"/>
+      <point x="781" y="9"/>
+      <point x="641" y="-28"/>
+      <point x="518" y="-28" type="curve" smooth="yes"/>
+      <point x="245" y="-27"/>
+      <point x="147" y="104"/>
+      <point x="127" y="355" type="curve" smooth="yes"/>
+      <point x="119" y="458"/>
+      <point x="114" y="615"/>
+      <point x="114" y="783" type="curve" smooth="yes"/>
+      <point x="114" y="929"/>
+      <point x="118" y="1085"/>
+      <point x="127" y="1223" type="curve" smooth="yes"/>
+      <point x="130" y="1271"/>
+      <point x="155" y="1299"/>
+      <point x="203" y="1299" type="curve" smooth="yes"/>
+      <point x="622" y="1299" type="line" smooth="yes"/>
+      <point x="670" y="1299"/>
+      <point x="698" y="1271"/>
+      <point x="698" y="1223" type="curve" smooth="yes"/>
+      <point x="698" y="300" type="line" smooth="yes"/>
+      <point x="698" y="262"/>
+      <point x="720" y="240"/>
+      <point x="758" y="240" type="curve" smooth="yes"/>
+      <point x="805" y="240" type="line" smooth="yes"/>
+      <point x="843" y="240"/>
+      <point x="865" y="262"/>
+      <point x="865" y="300" type="curve" smooth="yes"/>
+      <point x="865" y="1223" type="line" smooth="yes"/>
+      <point x="865" y="1271"/>
+      <point x="893" y="1299"/>
+      <point x="941" y="1299" type="curve" smooth="yes"/>
+      <point x="1360" y="1299" type="line" smooth="yes"/>
+      <point x="1408" y="1299"/>
+      <point x="1429" y="1271"/>
+      <point x="1436" y="1223" type="curve"/>
+      <point x="1446" y="1015"/>
+      <point x="1451" y="818"/>
+      <point x="1451" y="627" type="curve" smooth="yes"/>
+      <point x="1451" y="437"/>
+      <point x="1446" y="253"/>
+      <point x="1436" y="75" type="curve"/>
+      <point x="1429" y="16"/>
+      <point x="1408" y="-1"/>
+      <point x="1360" y="-1" type="curve" smooth="yes"/>
+      <point x="984" y="-1" type="line" smooth="yes"/>
+      <point x="946" y="-1"/>
+      <point x="920" y="18"/>
+      <point x="908" y="54" type="curve"/>
+      <point x="908" y="52" type="line"/>
+      <point x="902" y="71"/>
+      <point x="891" y="82"/>
+      <point x="878" y="82" type="curve" smooth="yes"/>
+      <point x="870" y="82"/>
+      <point x="860" y="77"/>
+    </contour>
+    <contour>
+      <point x="359.5" y="1554" type="curve" smooth="yes"/>
+      <point x="359.5" y="1569"/>
+      <point x="365.5" y="1587"/>
+      <point x="377.5" y="1606" type="curve" smooth="yes"/>
+      <point x="640.5" y="2015" type="line" smooth="yes"/>
+      <point x="671.5" y="2063"/>
+      <point x="728.5" y="2087"/>
+      <point x="783.5" y="2087" type="curve" smooth="yes"/>
+      <point x="836.5" y="2087"/>
+      <point x="891.5" y="2066"/>
+      <point x="924.5" y="2015" type="curve" smooth="yes"/>
+      <point x="1187.5" y="1606" type="line" smooth="yes"/>
+      <point x="1199.5" y="1587"/>
+      <point x="1205.5" y="1569"/>
+      <point x="1205.5" y="1553" type="curve" smooth="yes"/>
+      <point x="1205.5" y="1516"/>
+      <point x="1177.5" y="1490"/>
+      <point x="1142.5" y="1490" type="curve" smooth="yes"/>
+      <point x="1124.5" y="1490"/>
+      <point x="1104.5" y="1497"/>
+      <point x="1085.5" y="1512" type="curve" smooth="yes"/>
+      <point x="829.592" y="1710.48" type="line" smooth="yes"/>
+      <point x="798.872" y="1734.3"/>
+      <point x="766.128" y="1734.3"/>
+      <point x="735.408" y="1710.48" type="curve" smooth="yes"/>
+      <point x="479.5" y="1512" type="line" smooth="yes"/>
+      <point x="461.5" y="1498"/>
+      <point x="442.5" y="1492"/>
+      <point x="425.5" y="1492" type="curve" smooth="yes"/>
+      <point x="389.5" y="1492"/>
+      <point x="359.5" y="1517"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>
