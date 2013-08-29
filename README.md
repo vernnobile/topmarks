@@ -3,6 +3,7 @@ topmarks
 
 topmarks font family
 ================
+<img src="http://topmarksfont.org/assets/images/hallo.png"/>
 
 Topmarks is a typeface family being developed in response to teachers and educators who find a lack of fonts suitable for everyday use in infant learning. The aim of developing Topmarks is to widen the choice of fonts available to use in creating teaching and educational resources for young children. 
 
