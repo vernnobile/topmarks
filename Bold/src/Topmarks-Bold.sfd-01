@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1374246363
-ModificationTime: 1377672626
+ModificationTime: 1377672547
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -4353,15 +4353,8 @@ Encoding: 109 109 212
 Width: 1888
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1827 -16 m 1
@@ -4380,8 +4373,8 @@ SplineSet
  167 524 l 2
  167 834 132 1026 132 1026 c 1
  380 1026 l 1
- 380 1026 388 985.445378151 395 899 c 5
- 488 1011.0141844 592 1048 709 1048 c 4
+ 380 1026 388 988 395 907 c 1
+ 488 1013 607 1048 709 1048 c 0
  865 1048 932 964 980 862 c 1
  1074 1018 1213 1048 1317 1048 c 0
  1553 1048 1679 890 1679 623 c 2

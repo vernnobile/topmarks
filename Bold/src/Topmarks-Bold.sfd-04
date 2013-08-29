@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1374246363
-ModificationTime: 1377672626
+ModificationTime: 1377640287
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -110,6 +110,13 @@ Width: 1065
 VWidth: 0
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar
 
 StartChar: A
@@ -119,6 +126,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 491 553 m 1
@@ -144,6 +158,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 599 562 m 1
@@ -178,6 +199,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 93 769 N 1 0 0 1 309 422 2
 Refer: 1 65 N 1 0 0 1 0 0 2
@@ -190,6 +218,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 114 728 N 1 0 0 1 140 410 2
 Refer: 1 65 N 1 0 0 1 0 0 2
@@ -202,6 +237,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 128 770 N 1 0 0 1 127 422 2
 Refer: 1 65 N 1 0 0 1 0 0 2
@@ -214,6 +256,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 140 168 N 1 0 0 1 144 430 2
 Refer: 1 65 N 1 0 0 1 0 0 2
@@ -226,6 +275,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 177 768 N 1 0 0 1 67 422 2
 Refer: 1 65 N 1 0 0 1 0 0 2
@@ -238,6 +294,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 213 175 N 1 0 0 1 190 304 2
 Refer: 1 65 N 1 0 0 1 0 0 2
@@ -250,6 +313,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 230 731 N 1 0 0 1 716 0 2
 Refer: 1 65 N 1 0 0 1 0 0 2
@@ -262,6 +332,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 271 730 N 1 0 0 1 189 422 2
 Refer: 1 65 N 1 0 0 1 0 0 2
@@ -274,6 +351,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 289 732 N 1 0 0 1 131 436 2
 Refer: 1 65 N 1 0 0 1 0 0 2
@@ -286,6 +370,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 428 905 m 1
@@ -316,28 +407,8 @@ Encoding: 67 67 13
 Width: 1495
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Back
-SplineSet
-1562 779 m 4
- 1562 1264 1278 1590 832 1590 c 4
- 392 1590 112 1262 112 779 c 4
- 112 296 392 -32 832 -32 c 4
- 1278 -32 1562 294 1562 779 c 4
-376 779 m 4
- 376 1142 525 1379 836 1379 c 4
- 1147 1379 1304 1142 1304 779 c 4
- 1304 416 1147 179 836 179 c 4
- 525 179 376 416 376 779 c 4
-EndSplineSet
 UndoRedoHistory
 Layer: 1
 Undoes
@@ -347,17 +418,18 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-376 782 m 4
- 376 1189.36470588 581 1379 844 1379 c 4
- 974 1379 1117 1333 1257 1245 c 5
- 1344 1435 l 5
- 1173 1540 998 1590 836 1590 c 4
- 435 1590 112 1287.25154895 112 781 c 4
- 112 276.750310559 435 -26 836 -26 c 4
- 998 -26 1173 24 1344 129 c 5
- 1257 319 l 5
- 1117 231 974 185 844 185 c 4
- 581 185 376 374.635294118 376 782 c 4
+862 -24 m 0
+ 859 -24 855 -24 852 -24 c 0
+ 389 -24 116 312 116 785 c 0
+ 116 1312 488 1584 876 1584 c 0
+ 1040 1584 1208 1535 1351 1436 c 1
+ 1259 1234 l 1
+ 1151 1324 1014 1372 880 1372 c 0
+ 621 1372 375 1192 375 784 c 0
+ 375 371 602 186 868 186 c 0
+ 1005 186 1153 235 1285 328 c 1
+ 1368 135 l 1
+ 1252 40 1030 -22 862 -24 c 0
 EndSplineSet
 EndChar
 
@@ -368,6 +440,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 93 769 N 1 0 0 1 386 502 2
 Refer: 13 67 N 1 0 0 1 0 0 2
@@ -380,6 +459,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 120 780 N 1 0 0 1 283 -459 2
 Refer: 13 67 N 1 0 0 1 0 0 2
@@ -390,8 +476,15 @@ Encoding: 199 199 16
 Width: 1370
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 125 184 N 1 0 0 1 457 0 2
 Refer: 13 67 N 1 0 0 1 0 0 2
@@ -404,6 +497,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 178 0 m 1
@@ -428,6 +528,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 350 190 m 1
@@ -453,6 +560,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 178 0 m 1
@@ -478,6 +592,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 93 769 N 1 0 0 1 252 502 2
 Refer: 19 69 N 1 0 0 1 0 0 2
@@ -490,6 +611,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 128 770 N 1 0 0 1 70 502 2
 Refer: 19 69 N 1 0 0 1 0 0 2
@@ -502,6 +630,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 140 168 N 1 0 0 1 87 510 2
 Refer: 19 69 N 1 0 0 1 0 0 2
@@ -514,6 +649,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 177 768 N 1 0 0 1 10 502 2
 Refer: 19 69 N 1 0 0 1 0 0 2
@@ -526,6 +668,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 213 175 N 1 0 0 1 133 384 2
 Refer: 19 69 N 1 0 0 1 0 0 2
@@ -538,6 +687,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 230 731 N 1 0 0 1 306 0 2
 Refer: 19 69 N 1 0 0 1 0 0 2
@@ -550,6 +706,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 187 45 N 1 0 0 1 -131 5 2
 Refer: 17 68 N 1 0 0 1 10 0 2
@@ -560,8 +723,15 @@ Encoding: 8364 8364 27
 Width: 1370
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1000 466 m 1
@@ -588,6 +758,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 178 0 m 1
@@ -612,6 +789,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 862 -24 m 1
@@ -640,6 +824,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 132 806 N 1 0 0 1 408 411 2
 Refer: 29 71 N 1 0 0 1 0 0 2
@@ -652,6 +843,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 178 0 m 1
@@ -677,6 +875,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 766 0 m 1
@@ -700,8 +905,15 @@ Encoding: 306 306 33
 Width: 1614
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 41 74 N 1 0 0 1 479 0 2
 Refer: 32 73 N 1 0 0 1 10 0 2
@@ -714,6 +926,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 93 769 N 1 0 0 1 -3 502 2
 Refer: 32 73 N 1 0 0 1 0 0 2
@@ -726,6 +945,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 128 770 N 1 0 0 1 -185 502 2
 Refer: 32 73 N 1 0 0 1 0 0 2
@@ -738,6 +964,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 140 168 N 1 0 0 1 -168 510 2
 Refer: 32 73 N 1 0 0 1 0 0 2
@@ -750,6 +983,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 177 768 N 1 0 0 1 -245 502 2
 Refer: 32 73 N 1 0 0 1 0 0 2
@@ -762,6 +1002,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 213 175 N 1 0 0 1 -122 384 2
 Refer: 32 73 N 1 0 0 1 0 0 2
@@ -774,6 +1021,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 230 731 N 1 0 0 1 -107 0 2
 Refer: 32 73 N 1 0 0 1 0 0 2
@@ -786,6 +1040,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 289 732 N 1 0 0 1 -181 516 2
 Refer: 32 73 N 1 0 0 1 0 0 2
@@ -796,7 +1057,7 @@ Encoding: 74 74 41
 Width: 1270
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -809,7 +1070,8 @@ Fore
 SplineSet
 100 145 m 1
  218 310 l 1
- 299.12 221 393.76 184 478 184 c 1
+ 296 221 387 184 468 184 c 0
+ 471 184 475 184 478 184 c 0
  592 188 681 268 681 428 c 2
  681 1360 l 1
  317 1360 l 1
@@ -830,6 +1092,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar
 
 StartChar: Jcircumflex
@@ -839,6 +1108,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 128 770 N 1 0 0 1 -36 502 2
 Refer: 41 74 N 1 0 0 1 0 0 2
@@ -851,6 +1127,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 178 0 m 1
@@ -876,6 +1159,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 178 0 m 1
@@ -896,6 +1186,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 249 183 N 1 0 0 1 300 -408 2
 Refer: 45 76 N 1 0 0 1 0 0 2
@@ -908,6 +1205,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 256 0 m 1
@@ -933,7 +1237,7 @@ Encoding: 77 77 48
 Width: 1875
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -944,22 +1248,22 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-178 0 m 5
- 178 1560 l 5
- 471 1560 l 5
- 931 633 l 5
- 1391 1560 l 5
- 1683 1560 l 5
- 1683 0 l 5
- 1433 0 l 5
- 1433 1189 l 5
- 1328 955 l 5
- 985 293 l 5
- 872 293 l 5
- 532 967 l 5
- 428 1206 l 5
- 428 0 l 5
- 178 0 l 5
+178 0 m 1
+ 178 1560 l 1
+ 471 1560 l 1
+ 624 1251 782 947 931 633 c 1
+ 1076 951 1238 1250 1391 1560 c 1
+ 1683 1560 l 1
+ 1683 0 l 1
+ 1433 0 l 1
+ 1433 1189 l 1
+ 1328 955 l 1
+ 985 293 l 1
+ 872 293 l 1
+ 532 967 l 1
+ 428 1206 l 1
+ 428 0 l 1
+ 178 0 l 1
 EndSplineSet
 EndChar
 
@@ -968,7 +1272,7 @@ Encoding: 78 78 49
 Width: 1603
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -979,17 +1283,17 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-178 0 m 5
- 178 1560 l 5
- 439 1560 l 5
- 1191 340 l 5
- 1191 1560 l 5
- 1411 1560 l 5
- 1411 0 l 5
- 1146 0 l 5
- 398 1217 l 5
- 398 0 l 5
- 178 0 l 5
+178 0 m 1
+ 178 1560 l 1
+ 439 1560 l 1
+ 689 1153 947 753 1191 340 c 1
+ 1191 1560 l 1
+ 1411 1560 l 1
+ 1411 0 l 1
+ 1146 0 l 1
+ 897 406 644 808 398 1217 c 1
+ 398 0 l 1
+ 178 0 l 1
 EndSplineSet
 EndChar
 
@@ -1000,6 +1304,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 93 769 N 1 0 0 1 405 502 2
 Refer: 49 78 N 1 0 0 1 0 0 2
@@ -1012,6 +1323,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 289 732 N 1 0 0 1 227 516 2
 Refer: 49 78 N 1 0 0 1 0 0 2
@@ -1022,29 +1340,8 @@ Encoding: 79 79 52
 Width: 1674
 VWidth: 0
 GlyphClass: 2
-Flags: HMWO
+Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Back
-SplineSet
-376 782 m 4
- 376 1189.36470588 581 1379 844 1379 c 4
- 974 1379 1117 1333 1257 1245 c 5
- 1344 1435 l 5
- 1173 1540 998 1590 836 1590 c 4
- 435 1590 112 1287.25154895 112 781 c 4
- 112 276.750310559 435 -26 836 -26 c 4
- 998 -26 1173 24 1344 129 c 5
- 1257 319 l 5
- 1117 231 974 185 844 185 c 4
- 581 185 376 374.635294118 376 782 c 4
-EndSplineSet
 UndoRedoHistory
 Layer: 1
 Undoes
@@ -1054,16 +1351,16 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-1562 782 m 4
- 1562 1265.20591862 1278 1590 832 1590 c 0
- 392 1590 112 1263.21331689 112 782 c 4
- 112 300.786683107 392 -26 832 -26 c 0
- 1278 -26 1562 298.794081381 1562 782 c 4
-376 782 m 4
- 376 1143.185 525 1379 836 1379 c 0
- 1147 1379 1304 1143.185 1304 782 c 4
- 1304 420.815 1147 185 836 185 c 0
- 525 185 376 420.815 376 782 c 4
+834 -24 m 0
+ 407 -24 116 307 116 780 c 0
+ 116 1248 405 1584 834 1584 c 0
+ 1267 1584 1558 1248 1558 780 c 0
+ 1558 307 1265 -24 834 -24 c 0
+834 186 m 0
+ 1062 186 1300 373 1299 778 c 1
+ 1299 1188 1062 1377 834 1377 c 0
+ 606 1377 375 1188 375 778 c 0
+ 375 373 606 186 834 186 c 0
 EndSplineSet
 EndChar
 
@@ -1074,6 +1371,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 988 133 m 0
@@ -1114,6 +1418,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 93 769 N 1 0 0 1 386 502 2
 Refer: 52 79 N 1 0 0 1 0 0 2
@@ -1126,6 +1437,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 128 770 N 1 0 0 1 204 502 2
 Refer: 52 79 N 1 0 0 1 0 0 2
@@ -1136,8 +1454,15 @@ Encoding: 214 214 56
 Width: 1592
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 140 168 N 1 0 0 1 221 510 2
 Refer: 52 79 N 1 0 0 1 0 0 2
@@ -1150,6 +1475,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 177 768 N 1 0 0 1 144 502 2
 Refer: 52 79 N 1 0 0 1 0 0 2
@@ -1160,8 +1492,15 @@ Encoding: 216 216 58
 Width: 1582
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 453 -291 m 1
@@ -1180,6 +1519,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 289 732 N 1 0 0 1 208 516 2
 Refer: 52 79 N 1 0 0 1 0 0 2
@@ -1192,6 +1538,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 428 866 m 1
@@ -1217,7 +1570,7 @@ Encoding: 81 81 61
 Width: 1674
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -1228,13 +1581,25 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-1005 477 m 5
- 1355 -168 l 5
- 1187 -257 l 5
- 827 382 l 5
- 1005 477 l 5
+931 197 m 1
+ 827 382 l 1
+ 1005 477 l 1
+ 1108 287 l 1
+ 1219 381 1299 541 1299 775 c 0
+ 1299 1186 1063 1377 834 1377 c 0
+ 606 1377 375 1188 375 778 c 0
+ 375 373 606 186 834 186 c 0
+ 866 186 899 189 931 197 c 1
+834 -24 m 0
+ 407 -24 116 307 116 780 c 0
+ 116 1248 405 1584 834 1584 c 0
+ 1267 1584 1558 1248 1558 780 c 0
+ 1558 467 1430 217 1219 83 c 1
+ 1355 -168 l 1
+ 1187 -257 l 1
+ 1040 4 l 1
+ 976 -14 907 -24 834 -24 c 0
 EndSplineSet
-Refer: 52 79 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: R
@@ -1244,6 +1609,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 428 889 m 1
@@ -1273,6 +1645,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 93 769 N 1 0 0 1 296 502 2
 Refer: 62 82 N 1 0 0 1 0 0 2
@@ -1285,6 +1664,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 120 780 N 1 0 0 1 313 -459 2
 Refer: 62 82 N 1 0 0 1 0 0 2
@@ -1297,6 +1683,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 132 806 N 1 0 0 1 414 435 2
 Refer: 62 82 N 1 0 0 1 0 0 2
@@ -1309,6 +1702,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 656 -22 m 0
@@ -1337,6 +1737,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 93 769 N 1 0 0 1 200 502 2
 Refer: 66 83 N 1 0 0 1 0 0 2
@@ -1349,6 +1756,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 120 780 N 1 0 0 1 228 -457 2
 Refer: 66 83 N 1 0 0 1 0 0 2
@@ -1361,6 +1775,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 132 806 N 1 0 0 1 328 413 2
 Refer: 66 83 N 1 0 0 1 0 0 2
@@ -1373,6 +1794,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 434 0 m 1
@@ -1394,6 +1822,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 442 650 m 1
@@ -1422,6 +1857,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 754 -24 m 0
@@ -1445,6 +1887,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 93 769 N 1 0 0 1 369 502 2
 Refer: 72 85 N 1 0 0 1 0 0 2
@@ -1457,6 +1906,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 128 770 N 1 0 0 1 187 502 2
 Refer: 72 85 N 1 0 0 1 0 0 2
@@ -1469,6 +1925,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 140 168 N 1 0 0 1 204 510 2
 Refer: 72 85 N 1 0 0 1 0 0 2
@@ -1481,6 +1944,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 177 768 N 1 0 0 1 127 502 2
 Refer: 72 85 N 1 0 0 1 0 0 2
@@ -1493,6 +1963,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 579 0 m 1
@@ -1515,6 +1992,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 513 0 m 1
@@ -1545,6 +2029,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1093 0 m 1
@@ -1570,6 +2061,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 532 0 m 1
@@ -1592,6 +2090,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 93 769 N 1 0 0 1 216 502 2
 Refer: 80 89 N 1 0 0 1 0 0 2
@@ -1604,6 +2109,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 140 168 N 1 0 0 1 51 510 2
 Refer: 80 89 N 1 0 0 1 0 0 2
@@ -1616,6 +2128,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 85 0 m 1
@@ -1639,6 +2158,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 93 769 N 1 0 0 1 366 502 2
 Refer: 83 90 N 1 0 0 1 0 0 2
@@ -1651,6 +2177,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 120 780 N 1 0 0 1 276 -459 2
 Refer: 83 90 N 1 0 0 1 0 0 2
@@ -1663,6 +2196,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 144 775 N 1 0 0 1 367 506 2
 Refer: 83 90 N 1 0 0 1 0 0 2
@@ -1688,6 +2228,13 @@ SplineSet
  432.139648438 862 350.139648438 725 350.139648438 512 c 4
  350.139648438 299 433.139648438 164 605.139648438 164 c 4
 EndSplineSet
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 576.715820312 163.973632812 m 4
@@ -1717,6 +2264,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar
 
 StartChar: aacute
@@ -1726,6 +2280,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 93 769 N 1 0 0 1 233 118 2
 Refer: 87 97 N 1 0 0 1 0 0 2
@@ -1738,6 +2299,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 114 728 N 1 0 0 1 64 106 2
 Refer: 87 97 N 1 0 0 1 0 0 2
@@ -1750,6 +2318,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 128 770 N 1 0 0 1 51 118 2
 Refer: 87 97 N 1 0 0 1 0 0 2
@@ -1762,6 +2337,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 93 769 N 1 0 0 1 -217 -1022 2
 EndChar
@@ -1773,6 +2355,13 @@ VWidth: 0
 GlyphClass: 4
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 300 1144 m 1
@@ -1790,6 +2379,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 140 168 N 1 0 0 1 68 126 2
 Refer: 87 97 N 1 0 0 1 0 0 2
@@ -1802,6 +2398,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1393 758 m 0
@@ -1841,6 +2444,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 177 768 N 1 0 0 1 -9 118 2
 Refer: 87 97 N 1 0 0 1 0 0 2
@@ -1853,6 +2463,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 213 175 N 1 0 0 1 114 0 2
 Refer: 87 97 N 1 0 0 1 0 0 2
@@ -1865,6 +2482,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 586 910 m 1
@@ -1902,6 +2526,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 230 731 N 1 0 0 1 450 0 2
 Refer: 87 97 N 1 0 0 1 0 0 2
@@ -1914,6 +2545,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 412 898 m 1
@@ -1951,6 +2589,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 271 730 N 1 0 0 1 113 118 2
 Refer: 87 97 N 1 0 0 1 0 0 2
@@ -1963,6 +2608,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 162 570 m 1
@@ -1983,6 +2635,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 281 667 m 1
@@ -2008,6 +2667,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 745 618 m 1
@@ -2036,6 +2702,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 826 465 m 0
@@ -2076,6 +2749,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 289 732 N 1 0 0 1 55 132 2
 Refer: 87 97 N 1 0 0 1 0 0 2
@@ -2108,6 +2788,13 @@ SplineSet
  487 862 380 759 380 520 c 6
  380 179 l 5
 EndSplineSet
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 532 164 m 0
@@ -2134,6 +2821,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 656 0 m 1
@@ -2151,6 +2845,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 192 -126 m 1
@@ -2168,6 +2869,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 707 -196 m 1
@@ -2196,6 +2904,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 87 -326 m 1
@@ -2224,6 +2939,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 187 -204 m 1
@@ -2245,6 +2967,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 174 -222 m 1
@@ -2266,6 +2995,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 570 1153 m 0
@@ -2285,6 +3021,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 192 772 m 1
@@ -2307,6 +3050,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 667 678 m 0
@@ -2342,6 +3092,13 @@ SplineSet
  684.159224393 163.991298818 799.270378948 182.528415662 882 236 c 5
  955 81 l 5
 EndSplineSet
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 955 81 m 1
@@ -2365,6 +3122,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 117 99 N 1 0 0 1 0 0 2
 Refer: 93 769 N 1 0 0 1 193 118 2
@@ -2377,6 +3141,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 339 2061 m 1
@@ -2397,6 +3168,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 119 711 N 1 0 0 1 0 0 2
 EndChar
@@ -2408,6 +3186,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 120 780 N 1 0 0 1 123 -891 2
 Refer: 117 99 N 1 0 0 1 0 0 2
@@ -2420,6 +3205,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 125 184 N 1 0 0 1 230 0 2
 Refer: 117 99 N 1 0 0 1 0 0 2
@@ -2432,6 +3224,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 128 770 N 1 0 0 1 11 118 2
 Refer: 117 99 N 1 0 0 1 0 0 2
@@ -2444,6 +3243,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 144 775 N 1 0 0 1 194 122 2
 Refer: 117 99 N 1 0 0 1 0 0 2
@@ -2456,6 +3262,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 367 -481 m 0
@@ -2482,6 +3295,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 566 -414 m 1
@@ -2500,6 +3320,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 514 1509 m 1
@@ -2520,6 +3347,13 @@ VWidth: 0
 GlyphClass: 4
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 514 1509 m 1
@@ -2540,6 +3374,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 192 779 m 1
@@ -2562,6 +3403,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 138 -297 m 1
@@ -2579,6 +3427,13 @@ VWidth: 0
 GlyphClass: 4
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar
 
 StartChar: commaaccentcomb
@@ -2588,6 +3443,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 148 -1101 m 1
@@ -2605,6 +3467,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 932 1480 m 0
@@ -2638,6 +3507,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 652 546 m 0
@@ -2702,6 +3578,13 @@ SplineSet
  100 766.196289062 282.948242188 1048 661.139648438 1048 c 4
  704.700195312 1048 760.379882812 1033.99023438 793.639648438 1023.84179688 c 5
 EndSplineSet
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 576.715820312 163.973632812 m 4
@@ -2733,6 +3616,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 568 199 m 1
@@ -2758,6 +3648,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 551 199 m 1
@@ -2791,6 +3688,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 907 1192 m 1
@@ -2813,6 +3717,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 544 778 m 0
@@ -2835,6 +3746,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 693 1304 m 2
@@ -2861,6 +3779,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 830 37 m 1
@@ -2888,6 +3813,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 565 -213 m 1
@@ -2906,6 +3838,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 334 2195 m 1
@@ -2923,6 +3862,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 401 1412 m 0
@@ -2940,6 +3886,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 747 33 m 1
@@ -2961,6 +3914,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 -25 -756 m 0
@@ -2997,6 +3957,13 @@ SplineSet
  711.107111615 163.856828375 801.239778578 191.8052492 882 236 c 5
  955 81 l 5
 EndSplineSet
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 941 260 m 1
@@ -3022,6 +3989,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 390 564 m 1
@@ -3048,6 +4022,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 147 101 N 1 0 0 1 0 0 2
 Refer: 93 769 N 1 0 0 1 206 87 2
@@ -3060,6 +4041,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 147 101 N 1 0 0 1 0 0 2
 Refer: 114 728 N 1 0 0 1 35 106 2
@@ -3072,6 +4060,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 147 101 N 1 0 0 1 0 0 2
 Refer: 120 780 N 1 0 0 1 151 -891 2
@@ -3084,6 +4079,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 147 101 N 1 0 0 1 0 0 2
 Refer: 128 770 N 1 0 0 1 24 87 2
@@ -3096,6 +4098,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 147 101 N 1 0 0 1 0 0 2
 Refer: 140 168 N 1 0 0 1 41 95 2
@@ -3108,6 +4117,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 147 101 N 1 0 0 1 0 0 2
 Refer: 144 775 N 1 0 0 1 205 122 2
@@ -3120,6 +4136,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 177 768 N 1 0 0 1 -36 87 2
 Refer: 147 101 N 1 0 0 1 0 0 2
@@ -3132,6 +4155,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 206 1107 m 1
@@ -3163,6 +4193,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1468 -20 m 1
@@ -3190,6 +4227,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 213 175 N 1 0 0 1 85 0 2
 Refer: 147 101 N 1 0 0 1 0 0 2
@@ -3202,6 +4246,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 5 861 m 1
@@ -3219,6 +4270,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 0 861 m 1
@@ -3236,6 +4294,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 230 731 N 1 0 0 1 325 56 2
 Refer: 147 101 N 1 0 0 1 0 0 2
@@ -3248,6 +4313,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 193 450 m 1
@@ -3270,6 +4342,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 700 126 m 0
@@ -3309,6 +4388,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 319 498 m 1
@@ -3331,6 +4417,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 164 33 N -1 -2.77556e-16 2.77556e-16 -1 782 1196 2
 EndChar
@@ -3342,6 +4435,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 470 0 m 1
@@ -3372,6 +4472,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 101 -410 m 1
@@ -3403,6 +4510,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 657 -24 m 0
@@ -3431,6 +4545,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 260 -585 m 0
@@ -3465,6 +4586,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 982 868 m 1
@@ -3493,6 +4621,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 344 511 m 1
@@ -3521,6 +4656,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 -583 0 m 1
@@ -3558,6 +4700,13 @@ SplineSet
  1139.44335938 -17 1115.44335938 -18 1094.44335938 -18 c 4
  942.443359375 -18 862.443359375 22 816.443359375 151 c 5
 EndSplineSet
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 580.443359375 186 m 0
@@ -3588,6 +4737,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 173 103 N 1 0 0 1 10 0 2
 Refer: 132 806 N -1 0 0 -1 1030 652 2
@@ -3600,6 +4756,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1181 321 m 0
@@ -3635,6 +4798,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 411 1162 m 1
@@ -3652,6 +4822,13 @@ VWidth: 0
 GlyphClass: 4
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 540 1202 m 1
@@ -3669,6 +4846,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 92 1092 m 1
@@ -3689,6 +4873,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 334 1439 m 1
@@ -3714,6 +4905,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 788 301 m 1
@@ -3740,6 +4938,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 274 1174 m 1
@@ -3766,6 +4971,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 511 301 m 1
@@ -3785,6 +4997,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 383 1174 m 1
@@ -3804,6 +5023,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1199 -16 m 1
@@ -3833,6 +5059,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 34 1154 m 1
@@ -3851,6 +5084,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 560 1164 m 1
@@ -3873,6 +5113,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 192 640 m 1
@@ -3890,6 +5137,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 277 1188 m 0
@@ -3916,6 +5170,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 145 305 N 1 0 0 1 0 0 2
 Refer: 93 769 N 1 0 0 1 -91 -11 2
@@ -3928,6 +5189,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 145 305 N 1 0 0 1 0 0 2
 Refer: 128 770 N 1 0 0 1 -273 -11 2
@@ -3940,6 +5208,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 145 305 N 1 0 0 1 0 0 2
 Refer: 140 168 N 1 0 0 1 -256 -3 2
@@ -3952,6 +5227,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 177 768 N 1 0 0 1 -333 -11 2
 Refer: 145 305 N 1 0 0 1 0 0 2
@@ -3964,6 +5246,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 199 106 N 1 0 0 1 1128 0 2
 Refer: 188 105 N 1 0 0 1 10 0 2
@@ -3976,6 +5265,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 213 175 N 1 0 0 1 -210 -129 2
 Refer: 145 305 N 1 0 0 1 0 0 2
@@ -3988,6 +5284,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1431 556 m 0
@@ -4033,6 +5336,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 387 -703 m 0
@@ -4058,6 +5368,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 230 731 N 1 0 0 1 -6 0 2
 Refer: 188 105 N 1 0 0 1 0 0 2
@@ -4070,6 +5387,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 289 732 N 1 0 0 1 -269 3 2
 Refer: 145 305 N 1 0 0 1 0 0 2
@@ -4082,6 +5406,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 122 -499 m 0
@@ -4108,6 +5439,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 146 567 N 1 0 0 1 0 0 2
 Refer: 128 770 N 1 0 0 1 -327 118 2
@@ -4120,6 +5458,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 382 0 m 1
@@ -4144,6 +5489,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1167 195 m 1
@@ -4173,6 +5525,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 201 107 N 1 0 0 1 0 0 2
 Refer: 132 806 N 1 0 0 1 356 435 2
@@ -4185,6 +5544,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 324 0 m 1
@@ -4209,6 +5575,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 650 -6 m 1
@@ -4230,6 +5603,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 249 183 N 1 0 0 1 764 0 2
 Refer: 205 108 N 1 0 0 1 0 0 2
@@ -4242,6 +5622,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1034 84 m 1
@@ -4262,6 +5649,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 294 15 m 1
@@ -4287,6 +5681,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1168 419 m 1
@@ -4306,6 +5707,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 708 -79 m 1
@@ -4330,6 +5738,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 207 0 m 1
@@ -4353,7 +5768,7 @@ Encoding: 109 109 212
 Width: 1888
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -4380,8 +5795,8 @@ SplineSet
  167 524 l 2
  167 834 132 1026 132 1026 c 1
  380 1026 l 1
- 380 1026 388 985.445378151 395 899 c 5
- 488 1011.0141844 592 1048 709 1048 c 4
+ 380 1026 388 988 395 907 c 1
+ 488 1013 607 1048 709 1048 c 0
  865 1048 932 964 980 862 c 1
  1074 1018 1213 1048 1317 1048 c 0
  1553 1048 1679 890 1679 623 c 2
@@ -4399,6 +5814,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 192 1313 m 1
@@ -4416,6 +5838,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 168 640 m 1
@@ -4433,6 +5862,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 300 271 m 1
@@ -4458,6 +5894,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1248 176 m 1
@@ -4488,6 +5931,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar
 
 StartChar: nacute
@@ -4497,6 +5947,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 216 110 N 1 0 0 1 0 0 2
 Refer: 93 769 N 1 0 0 1 309 124 2
@@ -4509,6 +5966,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1047 0 m 1
@@ -4541,6 +6005,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 656 714 m 0
@@ -4567,6 +6038,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 630 81 m 1
@@ -4600,6 +6078,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 289 732 N 1 0 0 1 131 138 2
 Refer: 216 110 N 1 0 0 1 0 0 2
@@ -4612,6 +6097,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 591 579 m 1
@@ -4656,8 +6148,15 @@ Encoding: 111 111 224
 Width: 1206
 VWidth: 0
 GlyphClass: 2
-Flags: MWO
+Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 601 -22 m 4
@@ -4680,6 +6179,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 224 111 N 1 0 0 1 0 0 2
 Refer: 93 769 N 1 0 0 1 199 100 2
@@ -4692,6 +6198,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 224 111 N 1 0 0 1 0 0 2
 Refer: 114 728 N 1 0 0 1 30 88 2
@@ -4704,6 +6217,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 224 111 N 1 0 0 1 0 0 2
 Refer: 128 770 N 1 0 0 1 17 100 2
@@ -4716,6 +6236,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 224 111 N 1 0 0 1 0 0 2
 Refer: 140 168 N 1 0 0 1 34 108 2
@@ -4728,6 +6255,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1293 698 m 1
@@ -4770,6 +6304,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 452 -458 m 0
@@ -4791,6 +6332,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 224 111 N 1 0 0 1 0 0 2
 Refer: 177 768 N 1 0 0 1 -43 100 2
@@ -4803,6 +6351,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 224 111 N 1 0 0 1 0 0 2
 Refer: 186 733 N 1 0 0 1 131 90 2
@@ -4815,6 +6370,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 224 111 N 1 0 0 1 0 0 2
 Refer: 213 175 N 1 0 0 1 80 -18 2
@@ -4827,6 +6389,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 516 0 m 1
@@ -4844,6 +6413,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 471 0 m 1
@@ -4864,6 +6440,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1363 0 m 1
@@ -4907,6 +6490,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1232 347 m 1
@@ -4952,6 +6542,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 475 757 m 0
@@ -4985,6 +6582,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 590 773 m 0
@@ -5007,6 +6611,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 397 -191 m 1
@@ -5025,6 +6636,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 289 732 N 1 0 0 1 21 114 2
 Refer: 224 111 N 1 0 0 1 0 0 2
@@ -5059,6 +6677,13 @@ SplineSet
  1102.0703125 260 919.0703125 -22 541.0703125 -22 c 0
  497.0703125 -22 442.0703125 -8 409.0703125 2 c 1
 EndSplineSet
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 167 -574 m 5
@@ -5088,6 +6713,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 494 -139 m 1
@@ -5113,6 +6745,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 619 1564 m 1
@@ -5132,6 +6771,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 86 -244 m 1
@@ -5151,6 +6797,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 612 116 m 0
@@ -5187,6 +6840,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 574 0 m 1
@@ -5224,6 +6884,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 350 -12 m 0
@@ -5241,6 +6908,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 192 1025 m 1
@@ -5258,6 +6932,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 2279 85 m 0
@@ -5311,6 +6992,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1201 -14 m 0
@@ -5345,6 +7033,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 621 135 m 1
@@ -5370,6 +7065,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 190 0 m 1
@@ -5400,6 +7102,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 369 -580 m 1
@@ -5425,6 +7134,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 561 164 m 0
@@ -5455,6 +7171,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 315 423 m 1
@@ -5481,6 +7204,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 256 63 N -1 0 0 -1 999 1204 2
 EndChar
@@ -5492,6 +7222,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 224 884 m 1
@@ -5514,6 +7251,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 728 -419 m 1
@@ -5536,6 +7280,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 775 963 m 1
@@ -5558,6 +7309,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 845 937 m 1
@@ -5580,6 +7338,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 575 1456 m 1
@@ -5597,6 +7362,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 257 939 m 1
@@ -5614,6 +7386,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 230 -419 m 1
@@ -5631,6 +7410,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 181 908 m 1
@@ -5648,6 +7434,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 167 0 m 1
@@ -5673,6 +7466,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 742 -269 m 1
@@ -5697,6 +7497,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 266 114 N 1 0 0 1 0 0 2
 Refer: 120 780 N 1 0 0 1 36 -891 2
@@ -5709,6 +7516,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 266 114 N 1 0 0 1 0 0 2
 Refer: 132 806 N 1 0 0 1 137 435 2
@@ -5721,6 +7535,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 872 819 m 1
@@ -5773,6 +7594,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 526 1129 m 0
@@ -5795,6 +7623,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 491 -22 m 0
@@ -5822,6 +7657,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar
 
 StartChar: sacute
@@ -5831,6 +7673,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 272 115 N 1 0 0 1 0 0 2
 Refer: 93 769 N 1 0 0 1 96 118 2
@@ -5843,6 +7692,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 272 115 N 1 0 0 1 0 0 2
 Refer: 120 780 N 1 0 0 1 75 -891 2
@@ -5855,6 +7711,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 272 115 N 1 0 0 1 0 0 2
 Refer: 132 806 N 1 0 0 1 176 413 2
@@ -5867,6 +7730,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 651 501 m 1
@@ -5905,6 +7775,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 136 -297 m 1
@@ -5927,6 +7804,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 418 0 m 1
@@ -5947,6 +7831,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 678 180 m 0
@@ -5973,6 +7864,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 77 0 m 1
@@ -5990,6 +7888,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar
 
 StartChar: sterling
@@ -5999,6 +7904,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 182 0 m 1
@@ -6033,6 +7945,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 111 -580 m 1
@@ -6056,7 +7975,7 @@ Encoding: 116 116 285
 Width: 897
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 UndoRedoHistory
 Layer: 1
@@ -6077,8 +7996,8 @@ SplineSet
  765 862 l 1
  462 862 l 1
  462 431 l 2
- 462 251 496 193 773 193 c 2
- 810 193 l 1
+ 462 251 496 193 773 193 c 0
+ 785 193 797 193 810 193 c 1
  790 -4 l 1
  749 -6 711 -7 676 -7 c 0
  328 -7 220 101 220 421 c 2
@@ -6094,6 +8013,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 822 -123 m 0
@@ -6123,6 +8049,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 627 -24 m 0
@@ -6153,6 +8086,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 650 1266 m 0
@@ -6205,6 +8145,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 233 1182 m 1
@@ -6227,6 +8174,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 426 1208 m 1
@@ -6262,6 +8216,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 627 1480 m 0
@@ -6288,6 +8249,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 497 -22 m 0
@@ -6317,6 +8285,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar
 
 StartChar: uacute
@@ -6326,6 +8301,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 292 117 N 1 0 0 1 0 0 2
 Refer: 93 769 N 1 0 0 1 196 118 2
@@ -6338,6 +8320,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 292 117 N 1 0 0 1 0 0 2
 Refer: 114 728 N 1 0 0 1 27 106 2
@@ -6350,6 +8339,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 292 117 N 1 0 0 1 0 0 2
 Refer: 128 770 N 1 0 0 1 14 118 2
@@ -6362,6 +8358,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 292 117 N 1 0 0 1 0 0 2
 Refer: 140 168 N 1 0 0 1 31 126 2
@@ -6374,6 +8377,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 292 117 N 1 0 0 1 0 0 2
 Refer: 177 768 N 1 0 0 1 -46 118 2
@@ -6386,6 +8396,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 292 117 N 1 0 0 1 0 0 2
 Refer: 186 733 N 1 0 0 1 128 108 2
@@ -6398,6 +8415,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 292 117 N 1 0 0 1 0 0 2
 Refer: 213 175 N 1 0 0 1 77 0 2
@@ -6410,6 +8434,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 192 -152 m 1
@@ -6427,6 +8458,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar
 
 StartChar: uni00A0
@@ -6436,6 +8474,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 EndChar
 
 StartChar: uni00B2
@@ -6445,6 +8490,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 201 532 m 1
@@ -6471,6 +8523,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 431 476 m 0
@@ -6503,6 +8562,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 354 1520 m 1
@@ -6527,6 +8593,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 138 783 N 1 0 0 1 -101 408 2
 Refer: 1 65 N 1 0 0 1 0 0 2
@@ -6539,6 +8612,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 138 783 N 1 0 0 1 -177 104 2
 Refer: 87 97 N 1 0 0 1 0 0 2
@@ -6551,6 +8631,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 333 785 N 1 0 0 1 148 304 2
 Refer: 1 65 N 1 0 0 1 0 0 2
@@ -6563,6 +8650,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 333 785 N 1 0 0 1 72 0 2
 Refer: 87 97 N 1 0 0 1 0 0 2
@@ -6575,6 +8669,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 138 783 N 1 0 0 1 -158 488 2
 Refer: 19 69 N 1 0 0 1 0 0 2
@@ -6587,6 +8688,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 147 101 N 1 0 0 1 0 0 2
 Refer: 138 783 N 1 0 0 1 -204 73 2
@@ -6599,6 +8707,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 333 785 N 1 0 0 1 91 384 2
 Refer: 19 69 N 1 0 0 1 0 0 2
@@ -6611,6 +8726,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 333 785 N 1 0 0 1 45 -31 2
 Refer: 147 101 N 1 0 0 1 0 0 2
@@ -6623,6 +8745,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 138 783 N 1 0 0 1 -413 488 2
 Refer: 32 73 N 1 0 0 1 0 0 2
@@ -6635,6 +8764,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 145 305 N 1 0 0 1 0 0 2
 Refer: 138 783 N 1 0 0 1 -501 -25 2
@@ -6647,6 +8783,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 333 785 N 1 0 0 1 -164 384 2
 Refer: 32 73 N 1 0 0 1 0 0 2
@@ -6659,6 +8802,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 333 785 N 1 0 0 1 -252 -129 2
 Refer: 145 305 N 1 0 0 1 0 0 2
@@ -6671,6 +8821,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 138 783 N 1 0 0 1 -24 488 2
 Refer: 52 79 N 1 0 0 1 0 0 2
@@ -6683,6 +8840,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 224 111 N 1 0 0 1 0 0 2
 Refer: 138 783 N 1 0 0 1 -211 86 2
@@ -6695,6 +8859,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 333 785 N 1 0 0 1 225 384 2
 Refer: 52 79 N 1 0 0 1 0 0 2
@@ -6707,6 +8878,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 333 785 N 1 0 0 1 38 -18 2
 Refer: 224 111 N 1 0 0 1 0 0 2
@@ -6719,6 +8897,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 138 783 N 1 0 0 1 -114 488 2
 Refer: 62 82 N 1 0 0 1 0 0 2
@@ -6731,6 +8916,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 266 114 N 1 0 0 1 0 0 2
 Refer: 138 783 N 1 0 0 1 -327 104 2
@@ -6743,6 +8935,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 333 785 N 1 0 0 1 135 384 2
 Refer: 62 82 N 1 0 0 1 0 0 2
@@ -6755,6 +8954,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 333 785 N 1 0 0 1 -78 0 2
 Refer: 266 114 N 1 0 0 1 0 0 2
@@ -6767,6 +8973,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 138 783 N 1 0 0 1 -41 488 2
 Refer: 72 85 N 1 0 0 1 0 0 2
@@ -6779,6 +8992,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 292 117 N 1 0 0 1 0 0 2
 Refer: 138 783 N 1 0 0 1 -214 104 2
@@ -6791,6 +9011,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 333 785 N 1 0 0 1 208 384 2
 Refer: 72 85 N 1 0 0 1 0 0 2
@@ -6803,6 +9030,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 333 785 N 1 0 0 1 35 0 2
 Refer: 292 117 N 1 0 0 1 0 0 2
@@ -6815,6 +9049,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 132 806 N 1 0 0 1 275 435 2
 Refer: 70 84 N 1 0 0 1 0 0 2
@@ -6827,6 +9068,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 285 116 N 1 0 0 1 0 0 2
 Refer: 132 806 N 1 0 0 1 127 420 2
@@ -6839,6 +9087,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 235 1231 m 1
@@ -6858,6 +9113,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 186 0 m 1
@@ -6895,6 +9157,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 287 -356 m 1
@@ -6924,6 +9193,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 572 891 m 1
@@ -6952,6 +9228,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 303 -612 m 1
@@ -6969,6 +9252,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1066 1535 m 1
@@ -7005,6 +9295,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1331 -277 m 0
@@ -7045,6 +9342,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 292 117 N 1 0 0 1 0 0 2
 Refer: 230 731 N 1 0 0 1 403 0 2
@@ -7057,6 +9361,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 292 117 N 1 0 0 1 0 0 2
 Refer: 271 730 N 1 0 0 1 76 118 2
@@ -7069,6 +9380,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 292 117 N 1 0 0 1 0 0 2
 Refer: 289 732 N 1 0 0 1 18 132 2
@@ -7081,6 +9399,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 430 0 m 1
@@ -7102,6 +9427,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 402 0 m 1
@@ -7129,6 +9461,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 7 0 m 1
@@ -7154,6 +9493,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 497 0 m 0
@@ -7188,6 +9534,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 346 121 N 1 0 0 1 0 0 2
 Refer: 93 769 N 1 0 0 1 132 -10 2
@@ -7200,6 +9553,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 346 121 N 1 0 0 1 0 0 2
 Refer: 140 168 N 1 0 0 1 -33 -2 2
@@ -7212,6 +9572,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 1278 283 m 1
@@ -7238,6 +9605,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 111 0 m 1
@@ -7261,6 +9635,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 350 122 N 1 0 0 1 0 0 2
 Refer: 93 769 N 1 0 0 1 102 -10 2
@@ -7273,6 +9654,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 350 122 N 1 0 0 1 0 0 2
 Refer: 120 780 N 1 0 0 1 96 -891 2
@@ -7285,6 +9673,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: HMW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 Refer: 350 122 N 1 0 0 1 0 0 2
 Refer: 144 775 N 1 0 0 1 103 -6 2
@@ -7297,6 +9692,13 @@ VWidth: 0
 GlyphClass: 2
 Flags: MW
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 640 -24 m 0

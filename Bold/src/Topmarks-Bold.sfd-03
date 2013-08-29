@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1374246363
-ModificationTime: 1377672626
+ModificationTime: 1377671556
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -316,48 +316,22 @@ Encoding: 67 67 13
 Width: 1495
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-Back
-SplineSet
-1562 779 m 4
- 1562 1264 1278 1590 832 1590 c 4
- 392 1590 112 1262 112 779 c 4
- 112 296 392 -32 832 -32 c 4
- 1278 -32 1562 294 1562 779 c 4
-376 779 m 4
- 376 1142 525 1379 836 1379 c 4
- 1147 1379 1304 1142 1304 779 c 4
- 1304 416 1147 179 836 179 c 4
- 525 179 376 416 376 779 c 4
-EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
-376 782 m 4
- 376 1189.36470588 581 1379 844 1379 c 4
- 974 1379 1117 1333 1257 1245 c 5
- 1344 1435 l 5
- 1173 1540 998 1590 836 1590 c 4
- 435 1590 112 1287.25154895 112 781 c 4
- 112 276.750310559 435 -26 836 -26 c 4
- 998 -26 1173 24 1344 129 c 5
- 1257 319 l 5
- 1117 231 974 185 844 185 c 4
- 581 185 376 374.635294118 376 782 c 4
+862 -24 m 0
+ 859 -24 855 -24 852 -24 c 0
+ 389 -24 116 312 116 785 c 0
+ 116 1312 488 1584 876 1584 c 0
+ 1040 1584 1208 1535 1351 1436 c 1
+ 1259 1234 l 1
+ 1151 1324 1014 1372 880 1372 c 0
+ 621 1372 375 1192 375 784 c 0
+ 375 371 602 186 868 186 c 0
+ 1005 186 1153 235 1285 328 c 1
+ 1368 135 l 1
+ 1252 40 1030 -22 862 -24 c 0
 EndSplineSet
 EndChar
 
@@ -390,7 +364,7 @@ Encoding: 199 199 16
 Width: 1370
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 125 184 N 1 0 0 1 457 0 2
@@ -560,7 +534,7 @@ Encoding: 8364 8364 27
 Width: 1370
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -700,7 +674,7 @@ Encoding: 306 306 33
 Width: 1614
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 41 74 N 1 0 0 1 479 0 2
@@ -796,20 +770,14 @@ Encoding: 74 74 41
 Width: 1270
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 100 145 m 1
  218 310 l 1
- 299.12 221 393.76 184 478 184 c 1
+ 296 221 387 184 468 184 c 0
+ 471 184 475 184 478 184 c 0
  592 188 681 268 681 428 c 2
  681 1360 l 1
  317 1360 l 1
@@ -933,33 +901,26 @@ Encoding: 77 77 48
 Width: 1875
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
-178 0 m 5
- 178 1560 l 5
- 471 1560 l 5
- 931 633 l 5
- 1391 1560 l 5
- 1683 1560 l 5
- 1683 0 l 5
- 1433 0 l 5
- 1433 1189 l 5
- 1328 955 l 5
- 985 293 l 5
- 872 293 l 5
- 532 967 l 5
- 428 1206 l 5
- 428 0 l 5
- 178 0 l 5
+178 0 m 1
+ 178 1560 l 1
+ 471 1560 l 1
+ 624 1251 782 947 931 633 c 1
+ 1076 951 1238 1250 1391 1560 c 1
+ 1683 1560 l 1
+ 1683 0 l 1
+ 1433 0 l 1
+ 1433 1189 l 1
+ 1328 955 l 1
+ 985 293 l 1
+ 872 293 l 1
+ 532 967 l 1
+ 428 1206 l 1
+ 428 0 l 1
+ 178 0 l 1
 EndSplineSet
 EndChar
 
@@ -968,28 +929,21 @@ Encoding: 78 78 49
 Width: 1603
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
-178 0 m 5
- 178 1560 l 5
- 439 1560 l 5
- 1191 340 l 5
- 1191 1560 l 5
- 1411 1560 l 5
- 1411 0 l 5
- 1146 0 l 5
- 398 1217 l 5
- 398 0 l 5
- 178 0 l 5
+178 0 m 1
+ 178 1560 l 1
+ 439 1560 l 1
+ 689 1153 947 753 1191 340 c 1
+ 1191 1560 l 1
+ 1411 1560 l 1
+ 1411 0 l 1
+ 1146 0 l 1
+ 897 406 644 808 398 1217 c 1
+ 398 0 l 1
+ 178 0 l 1
 EndSplineSet
 EndChar
 
@@ -1033,17 +987,16 @@ EndRedoes
 EndUndoRedoHistory
 Back
 SplineSet
-376 782 m 4
- 376 1189.36470588 581 1379 844 1379 c 4
- 974 1379 1117 1333 1257 1245 c 5
- 1344 1435 l 5
- 1173 1540 998 1590 836 1590 c 4
- 435 1590 112 1287.25154895 112 781 c 4
- 112 276.750310559 435 -26 836 -26 c 4
- 998 -26 1173 24 1344 129 c 5
- 1257 319 l 5
- 1117 231 974 185 844 185 c 4
- 581 185 376 374.635294118 376 782 c 4
+834.5 -36 m 4
+ 394.5 -36 112.5 293 112.5 775 c 4
+ 112.5 1258 392.5 1590 832.5 1590 c 4
+ 1278.5 1590 1561.5 1262 1561.5 777 c 4
+ 1561.5 295 1280.5 -36 834.5 -36 c 4
+839.5 190 m 4
+ 1148.4765625 190 1303.5 420 1303.5 783 c 4
+ 1303.5 1146 1147.47753906 1379 836.5 1379 c 4
+ 525.245117188 1379 375.5 1146 375.5 783 c 4
+ 375.5 420 527.315429688 190 839.5 190 c 4
 EndSplineSet
 UndoRedoHistory
 Layer: 1
@@ -1054,16 +1007,16 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 SplineSet
-1562 782 m 4
- 1562 1265.20591862 1278 1590 832 1590 c 0
- 392 1590 112 1263.21331689 112 782 c 4
- 112 300.786683107 392 -26 832 -26 c 0
- 1278 -26 1562 298.794081381 1562 782 c 4
-376 782 m 4
- 376 1143.185 525 1379 836 1379 c 0
- 1147 1379 1304 1143.185 1304 782 c 4
- 1304 420.815 1147 185 836 185 c 0
- 525 185 376 420.815 376 782 c 4
+834 -36 m 4
+ 394 -36 112 293 112 775 c 4
+ 112 1258 392 1590 832 1590 c 4
+ 1278 1590 1562 1262 1562 777 c 4
+ 1562 295 1280 -36 834 -36 c 4
+840 190 m 4
+ 1149 190 1304 420 1304 783 c 4
+ 1304 1146 1147 1379 836 1379 c 4
+ 525 1379 376 1146 376 783 c 4
+ 376 420 528 190 840 190 c 4
 EndSplineSet
 EndChar
 
@@ -4353,15 +4306,8 @@ Encoding: 109 109 212
 Width: 1888
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1827 -16 m 1
@@ -4380,8 +4326,8 @@ SplineSet
  167 524 l 2
  167 834 132 1026 132 1026 c 1
  380 1026 l 1
- 380 1026 388 985.445378151 395 899 c 5
- 488 1011.0141844 592 1048 709 1048 c 4
+ 380 1026 388 988 395 907 c 1
+ 488 1013 607 1048 709 1048 c 0
  865 1048 932 964 980 862 c 1
  1074 1018 1213 1048 1317 1048 c 0
  1553 1048 1679 890 1679 623 c 2
@@ -6056,15 +6002,8 @@ Encoding: 116 116 285
 Width: 897
 VWidth: 0
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 17 862 m 1
@@ -6077,8 +6016,8 @@ SplineSet
  765 862 l 1
  462 862 l 1
  462 431 l 2
- 462 251 496 193 773 193 c 2
- 810 193 l 1
+ 462 251 496 193 773 193 c 0
+ 785 193 797 193 810 193 c 1
  790 -4 l 1
  749 -6 711 -7 676 -7 c 0
  328 -7 220 101 220 421 c 2
