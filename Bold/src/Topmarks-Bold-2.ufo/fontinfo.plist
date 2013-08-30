@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>Topmarks</string>
+	<key>styleName</key>
+	<string>Bold</string>
+	<key>copyright</key>
+	<string>Copyright (c) 2012-13 by vernon adams.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>xHeight</key>
+	<integer>1026</integer>
+	<key>capHeight</key>
+	<integer>1557</integer>
+	<key>ascender</key>
+	<integer>1560</integer>
+	<key>descender</key>
+	<integer>-656</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2013/08/30 14:49:58</string>
+	<key>openTypeNameDesigner</key>
+	<string>vernon adams</string>
+	<key>openTypeNameManufacturer</key>
+	<string>vernon adams</string>
+	<key>openTypeNameVersion</key>
+	<string>Version </string>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>700</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>newt</string>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1968</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-656</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1968</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>656</integer>
+	<key>postscriptFontName</key>
+	<string>Topmarks-Bold</string>
+	<key>postscriptFullName</key>
+	<string>Topmarks Bold</string>
+	<key>postscriptWeightName</key>
+	<string>Medium</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>0</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>0</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-24</integer>
+		<integer>0</integer>
+		<integer>1026</integer>
+		<integer>1086</integer>
+		<integer>1456</integer>
+		<integer>1480</integer>
+		<integer>1557</integer>
+		<integer>1584</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-575</integer>
+		<integer>-574</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>20</integer>
+		<integer>126</integer>
+		<integer>142</integer>
+		<integer>157</integer>
+		<integer>164</integer>
+		<integer>170</integer>
+		<integer>182</integer>
+		<integer>186</integer>
+		<integer>193</integer>
+		<integer>200</integer>
+		<integer>208</integer>
+		<integer>213</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>194</integer>
+		<integer>242</integer>
+		<integer>250</integer>
+		<integer>259</integer>
+	</array>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.039625</real>
+	<key>postscriptForceBold</key>
+	<true/>
+    </dict>
+</plist>
