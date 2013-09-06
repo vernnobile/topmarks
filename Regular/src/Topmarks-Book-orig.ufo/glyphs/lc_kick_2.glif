@@ -1,42 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="d" format="1">
-  <advance width="1203"/>
-  <unicode hex="0064"/>
+<glyph name="lc_kick_2" format="1">
+  <advance width="500"/>
   <outline>
     <contour>
-      <point x="839" y="886" type="line"/>
-      <point x="763.657" y="912.908"/>
-      <point x="696" y="920"/>
-      <point x="630" y="920" type="curve" smooth="yes"/>
-      <point x="378" y="920"/>
-      <point x="280" y="724"/>
-      <point x="280" y="473" type="curve" smooth="yes"/>
-      <point x="280" y="243"/>
-      <point x="397" y="110"/>
-      <point x="558" y="110" type="curve" smooth="yes"/>
-      <point x="747" y="110"/>
-      <point x="839" y="258"/>
-      <point x="839" y="497" type="curve" smooth="yes"/>
+      <point x="240" y="235" type="line"/>
+      <point x="240" y="154"/>
+      <point x="272" y="120"/>
+      <point x="347" y="120" type="curve" smooth="yes"/>
+      <point x="373" y="120"/>
+      <point x="404" y="124"/>
+      <point x="441" y="132" type="curve"/>
+      <point x="460" y="6" type="line"/>
+      <point x="394" y="-13"/>
+      <point x="336" y="-22"/>
+      <point x="286" y="-22" type="curve" smooth="yes"/>
+      <point x="147" y="-22"/>
+      <point x="70" y="52"/>
+      <point x="70" y="216" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="863" y="161" type="line"/>
-      <point x="794" y="44"/>
-      <point x="715" y="-22"/>
-      <point x="552" y="-22" type="curve" smooth="yes"/>
-      <point x="318" y="-22"/>
-      <point x="106" y="159"/>
-      <point x="106" y="474" type="curve" smooth="yes"/>
-      <point x="106" y="869"/>
-      <point x="335" y="1052"/>
-      <point x="631" y="1052" type="curve" smooth="yes"/>
-      <point x="696" y="1052"/>
-      <point x="773" y="1037"/>
-      <point x="838" y="1014" type="curve"/>
-      <point x="838" y="1560" type="line"/>
-      <point x="1008" y="1560" type="line"/>
-      <point x="1008" y="228" type="line"/>
-    </contour>
-    <component base="lc_kick" xOffset="768"/>
   </outline>
   <lib>
     <dict>
@@ -59,23 +40,23 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>x</key>
-                  <integer>1008</integer>
+                  <real>240.0</real>
                   <key>y</key>
-                  <integer>228</integer>
+                  <real>235.0</real>
                 </dict>
                 <dict>
                   <key>name</key>
                   <string>inserted</string>
                   <key>x</key>
-                  <integer>1008</integer>
+                  <real>240.0</real>
                   <key>y</key>
-                  <integer>151</integer>
+                  <real>158.0</real>
                 </dict>
                 <dict>
                   <key>x</key>
-                  <integer>1037</integer>
+                  <real>269.0</real>
                   <key>y</key>
-                  <integer>113</integer>
+                  <real>120.0</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -83,23 +64,23 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>1098</integer>
+                  <real>330.0</real>
                   <key>y</key>
-                  <integer>113</integer>
+                  <real>120.0</real>
                 </dict>
                 <dict>
                   <key>name</key>
                   <string>inserted</string>
                   <key>x</key>
-                  <integer>1124</integer>
+                  <real>356.0</real>
                   <key>y</key>
-                  <integer>113</integer>
+                  <real>120.0</real>
                 </dict>
                 <dict>
                   <key>x</key>
-                  <integer>1153</integer>
+                  <real>385.0</real>
                   <key>y</key>
-                  <integer>117</integer>
+                  <real>124.0</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -107,9 +88,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>1187</integer>
+                  <real>419.0</real>
                   <key>y</key>
-                  <integer>125</integer>
+                  <real>132.0</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -117,23 +98,23 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>1205</integer>
+                  <real>437.0</real>
                   <key>y</key>
-                  <integer>-1</integer>
+                  <real>6.0</real>
                 </dict>
                 <dict>
                   <key>name</key>
                   <string>inserted</string>
                   <key>x</key>
-                  <integer>1152</integer>
+                  <real>384.0</real>
                   <key>y</key>
-                  <integer>-20</integer>
+                  <real>-13.0</real>
                 </dict>
                 <dict>
                   <key>x</key>
-                  <integer>1098</integer>
+                  <real>330.0</real>
                   <key>y</key>
-                  <integer>-29</integer>
+                  <real>-22.0</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -141,23 +122,23 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>1044</integer>
+                  <real>276.0</real>
                   <key>y</key>
-                  <integer>-29</integer>
+                  <real>-22.0</real>
                 </dict>
                 <dict>
                   <key>name</key>
                   <string>inserted</string>
                   <key>x</key>
-                  <integer>909</integer>
+                  <real>141.0</real>
                   <key>y</key>
-                  <integer>-29</integer>
+                  <real>-22.0</real>
                 </dict>
                 <dict>
                   <key>x</key>
-                  <integer>838</integer>
+                  <real>70.0</real>
                   <key>y</key>
-                  <integer>50</integer>
+                  <real>57.0</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -165,9 +146,9 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <integer>838</integer>
+                  <real>70.0</real>
                   <key>y</key>
-                  <integer>209</integer>
+                  <real>216.0</real>
                 </dict>
               </array>
             </dict>
@@ -176,12 +157,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>d</string>
+          <string>lc_kick_2</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>1203</integer>
+          <integer>500</integer>
         </dict>
       </dict>
     </dict>

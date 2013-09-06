@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lc_kick" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="240" y="235" type="line"/>
+      <point x="240" y="158" name="inserted"/>
+      <point x="269" y="120"/>
+      <point x="330" y="120" type="curve" smooth="yes"/>
+      <point x="356" y="120" name="inserted"/>
+      <point x="385" y="124"/>
+      <point x="419" y="132" type="curve"/>
+      <point x="437" y="6" type="line"/>
+      <point x="384" y="-13" name="inserted"/>
+      <point x="330" y="-22"/>
+      <point x="276" y="-22" type="curve" smooth="yes"/>
+      <point x="141" y="-22" name="inserted"/>
+      <point x="70" y="57"/>
+      <point x="70" y="216" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
