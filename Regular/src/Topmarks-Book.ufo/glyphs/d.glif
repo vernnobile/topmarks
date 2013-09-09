@@ -19,7 +19,7 @@
       <point x="839" y="497" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="863" y="161" type="curve"/>
+      <point x="863" y="161" type="line"/>
       <point x="794" y="44"/>
       <point x="715" y="-22"/>
       <point x="552" y="-22" type="curve" smooth="yes"/>
@@ -34,14 +34,9 @@
       <point x="838" y="1014" type="curve"/>
       <point x="838" y="1560" type="line"/>
       <point x="1008" y="1560" type="line"/>
-      <point x="1008" y="314" type="line" smooth="yes"/>
-      <point x="1008" y="189"/>
-      <point x="1022" y="121"/>
-      <point x="1153" y="121" type="curve"/>
-      <point x="1124" y="-14" type="line"/>
-      <point x="974" y="-14"/>
-      <point x="890" y="44"/>
+      <point x="1008" y="228" type="line"/>
     </contour>
+    <component base="lc_kick" xOffset="768"/>
   </outline>
   <lib>
     <dict>
@@ -57,6 +52,125 @@
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>x</key>
+                  <real>1008.0</real>
+                  <key>y</key>
+                  <real>228.0</real>
+                </dict>
+                <dict>
+                  <key>name</key>
+                  <string>inserted</string>
+                  <key>x</key>
+                  <real>1008.0</real>
+                  <key>y</key>
+                  <real>151.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>1037.0</real>
+                  <key>y</key>
+                  <real>113.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <real>1098.0</real>
+                  <key>y</key>
+                  <real>113.0</real>
+                </dict>
+                <dict>
+                  <key>name</key>
+                  <string>inserted</string>
+                  <key>x</key>
+                  <real>1124.0</real>
+                  <key>y</key>
+                  <real>113.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>1153.0</real>
+                  <key>y</key>
+                  <real>117.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1187.0</real>
+                  <key>y</key>
+                  <real>125.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>1205.0</real>
+                  <key>y</key>
+                  <real>-1.0</real>
+                </dict>
+                <dict>
+                  <key>name</key>
+                  <string>inserted</string>
+                  <key>x</key>
+                  <real>1152.0</real>
+                  <key>y</key>
+                  <real>-20.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>1098.0</real>
+                  <key>y</key>
+                  <real>-29.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <real>1044.0</real>
+                  <key>y</key>
+                  <real>-29.0</real>
+                </dict>
+                <dict>
+                  <key>name</key>
+                  <string>inserted</string>
+                  <key>x</key>
+                  <real>909.0</real>
+                  <key>y</key>
+                  <real>-29.0</real>
+                </dict>
+                <dict>
+                  <key>x</key>
+                  <real>838.0</real>
+                  <key>y</key>
+                  <real>50.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <real>838.0</real>
+                  <key>y</key>
+                  <real>209.0</real>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>

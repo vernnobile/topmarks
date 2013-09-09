@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="1">
-  <advance width="1252"/>
+  <advance width="1274"/>
   <unicode hex="0068"/>
   <outline>
     <contour>
-      <point x="1199" y="-16" type="line"/>
-      <point x="1171" y="-18"/>
-      <point x="1145" y="-19"/>
-      <point x="1120" y="-19" type="curve" smooth="yes"/>
-      <point x="877" y="-19"/>
-      <point x="811" y="87"/>
-      <point x="811" y="278" type="curve" smooth="yes"/>
+      <point x="811" y="298" type="line"/>
       <point x="811" y="606" type="line" smooth="yes"/>
       <point x="811" y="759"/>
       <point x="763" y="858"/>
@@ -29,13 +23,15 @@
       <point x="923" y="1048"/>
       <point x="1053" y="925"/>
       <point x="1053" y="658" type="curve" smooth="yes"/>
-      <point x="1053" y="324" type="line" smooth="yes"/>
-      <point x="1053" y="212"/>
-      <point x="1076" y="175"/>
-      <point x="1176" y="175" type="curve" smooth="yes"/>
-      <point x="1190" y="175"/>
-      <point x="1206" y="176"/>
-      <point x="1223" y="177" type="curve"/>
+      <point x="1053" y="358" type="line"/>
     </contour>
+    <component base="lc_kick" xOffset="728"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

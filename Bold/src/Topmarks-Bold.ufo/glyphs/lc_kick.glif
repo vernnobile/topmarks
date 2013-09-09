@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="t" format="1">
-  <advance width="872.0"/>
-  <unicode hex="0074"/>
+<glyph name="lc_kick" format="1">
+  <advance width="500"/>
   <outline>
     <contour>
-      <point x="20" y="862" type="line"/>
-      <point x="20" y="1026" type="line"/>
-      <point x="223" y="1026" type="line"/>
-      <point x="223" y="1419" type="line"/>
-      <point x="465" y="1419" type="line"/>
-      <point x="465" y="1026" type="line"/>
-      <point x="768" y="1026" type="line"/>
-      <point x="768" y="862" type="line"/>
-      <point x="465" y="862" type="line"/>
-      <point x="465" y="358" type="line" smooth="yes"/>
-      <point x="223" y="323" type="line"/>
-      <point x="223" y="862" type="line"/>
+      <point x="325" y="358" type="line"/>
+      <point x="325" y="195" name="inserted"/>
+      <point x="386" y="166"/>
+      <point x="551" y="213" type="curve"/>
+      <point x="576" y="20" type="line"/>
+      <point x="300" y="-72" name="inserted"/>
+      <point x="83" y="-28"/>
+      <point x="83" y="323" type="curve"/>
     </contour>
-    <component base="lc_kick_2" xOffset="3"/>
   </outline>
   <lib>
     <dict>
@@ -42,7 +36,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>465.0</real>
+                  <real>325.0</real>
                   <key>y</key>
                   <real>358.0</real>
                 </dict>
@@ -52,7 +46,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>465.0</real>
+                  <real>325.0</real>
                   <key>y</key>
                   <real>195.0</real>
                 </dict>
@@ -60,7 +54,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>526.0</real>
+                  <real>386.0</real>
                   <key>y</key>
                   <real>166.0</real>
                 </dict>
@@ -70,7 +64,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>691.0</real>
+                  <real>551.0</real>
                   <key>y</key>
                   <real>213.0</real>
                 </dict>
@@ -80,7 +74,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>716.0</real>
+                  <real>576.0</real>
                   <key>y</key>
                   <real>20.0</real>
                 </dict>
@@ -90,17 +84,17 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>440.0</real>
+                  <real>291.0</real>
                   <key>y</key>
-                  <real>-72.0</real>
+                  <real>-80.0</real>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>223.0</real>
+                  <real>83.0</real>
                   <key>y</key>
-                  <real>-28.0</real>
+                  <real>-10.0</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -108,9 +102,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>223.0</real>
+                  <real>83.0</real>
                   <key>y</key>
-                  <real>323.0</real>
+                  <real>341.0</real>
                 </dict>
               </array>
             </dict>
@@ -119,12 +113,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>t</string>
+          <string>lc_kick</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <real>872.0</real>
+          <integer>500</integer>
         </dict>
       </dict>
     </dict>
