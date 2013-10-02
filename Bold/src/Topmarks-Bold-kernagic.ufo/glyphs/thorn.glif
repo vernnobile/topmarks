@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="thorn" format="1">
+  <advance width="1278"></advance>
+  <unicode hex="00FE"></unicode>
+  <outline>
+    <contour>
+      <point x="674" y="983" type="curve" smooth="yes"></point>
+      <point x="1008" y="983"></point>
+      <point x="1193" y="718"></point>
+      <point x="1193" y="368" type="curve" smooth="yes"></point>
+      <point x="1193" y="83"></point>
+      <point x="1074" y="-126"></point>
+      <point x="892" y="-224" type="curve"></point>
+      <point x="830" y="-259"></point>
+      <point x="758" y="-278"></point>
+      <point x="674" y="-278" type="curve" smooth="yes"></point>
+      <point x="521" y="-278"></point>
+      <point x="399" y="-216"></point>
+      <point x="308" y="-92" type="curve"></point>
+      <point x="308" y="-752" type="line"></point>
+      <point x="115" y="-752" type="line"></point>
+      <point x="115" y="1458" type="line"></point>
+      <point x="311" y="1458" type="line"></point>
+      <point x="311" y="785" type="line"></point>
+      <point x="390" y="902"></point>
+      <point x="503" y="983"></point>
+    </contour>
+    <contour>
+      <point x="648" y="-123" type="curve" smooth="yes"></point>
+      <point x="888" y="-123"></point>
+      <point x="987" y="97"></point>
+      <point x="987" y="361" type="curve" smooth="yes"></point>
+      <point x="987" y="624"></point>
+      <point x="894" y="826"></point>
+      <point x="655" y="826" type="curve" smooth="yes"></point>
+      <point x="402" y="826"></point>
+      <point x="308" y="609"></point>
+      <point x="308" y="329" type="curve" smooth="yes"></point>
+      <point x="308" y="126"></point>
+      <point x="377" y="-22"></point>
+      <point x="502" y="-89" type="curve" smooth="yes"></point>
+      <point x="544" y="-111"></point>
+      <point x="593" y="-123"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

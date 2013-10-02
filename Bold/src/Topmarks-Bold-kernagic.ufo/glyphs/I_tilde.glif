@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Itilde" format="1">
+  <advance width="824"></advance>
+  <unicode hex="0128"></unicode>
+  <outline>
+    <contour>
+      <point x="61" y="1698" type="line"></point>
+      <point x="72" y="1834"></point>
+      <point x="149" y="1945"></point>
+      <point x="294" y="1945" type="curve" smooth="yes"></point>
+      <point x="376" y="1945"></point>
+      <point x="436" y="1902"></point>
+      <point x="497" y="1878" type="curve" smooth="yes"></point>
+      <point x="518" y="1869"></point>
+      <point x="541" y="1865"></point>
+      <point x="562" y="1865" type="curve" smooth="yes"></point>
+      <point x="624" y="1865"></point>
+      <point x="656" y="1911"></point>
+      <point x="664" y="1971" type="curve"></point>
+      <point x="791" y="1971" type="line"></point>
+      <point x="776" y="1838"></point>
+      <point x="707" y="1718"></point>
+      <point x="562" y="1718" type="curve" smooth="yes"></point>
+      <point x="458" y="1718"></point>
+      <point x="394" y="1798"></point>
+      <point x="291" y="1798" type="curve" smooth="yes"></point>
+      <point x="227" y="1798"></point>
+      <point x="193" y="1764"></point>
+      <point x="184" y="1698" type="curve"></point>
+    </contour>
+    <contour>
+      <point x="775" y="0" type="line"></point>
+      <point x="177" y="0" type="line"></point>
+      <point x="177" y="182" type="line"></point>
+      <point x="351" y="182" type="line"></point>
+      <point x="351" y="1378" type="line"></point>
+      <point x="177" y="1378" type="line"></point>
+      <point x="177" y="1560" type="line"></point>
+      <point x="775" y="1560" type="line"></point>
+      <point x="775" y="1378" type="line"></point>
+      <point x="601" y="1378" type="line"></point>
+      <point x="601" y="182" type="line"></point>
+      <point x="775" y="182" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

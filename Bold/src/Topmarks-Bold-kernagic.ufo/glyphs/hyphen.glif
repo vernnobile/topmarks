@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="hyphen" format="1">
+  <advance width="1031"></advance>
+  <unicode hex="002D"></unicode>
+  <outline>
+    <contour>
+      <point x="115" y="640" type="line"></point>
+      <point x="115" y="837" type="line"></point>
+      <point x="894" y="837" type="line"></point>
+      <point x="894" y="640" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

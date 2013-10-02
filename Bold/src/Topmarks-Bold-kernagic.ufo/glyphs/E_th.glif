@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Eth" format="1">
+  <advance width="1402"></advance>
+  <unicode hex="00D0"></unicode>
+  <outline>
+    <contour>
+      <point x="-17" y="645" type="line"></point>
+      <point x="-17" y="842" type="line"></point>
+      <point x="109" y="842" type="line"></point>
+      <point x="109" y="1560" type="line"></point>
+      <point x="448" y="1560" type="line" smooth="yes"></point>
+      <point x="1042" y="1560"></point>
+      <point x="1353" y="1290"></point>
+      <point x="1353" y="792" type="curve" smooth="yes"></point>
+      <point x="1353" y="275"></point>
+      <point x="1071" y="0"></point>
+      <point x="505" y="0" type="curve" smooth="yes"></point>
+      <point x="109" y="0" type="line"></point>
+      <point x="109" y="645" type="line"></point>
+    </contour>
+    <contour>
+      <point x="359" y="200" type="line"></point>
+      <point x="521" y="200" type="line" smooth="yes"></point>
+      <point x="939" y="200"></point>
+      <point x="1087" y="422"></point>
+      <point x="1087" y="789" type="curve" smooth="yes"></point>
+      <point x="1087" y="1142"></point>
+      <point x="927" y="1360"></point>
+      <point x="481" y="1360" type="curve" smooth="yes"></point>
+      <point x="359" y="1360" type="line"></point>
+      <point x="359" y="842" type="line"></point>
+      <point x="761" y="842" type="line"></point>
+      <point x="761" y="645" type="line"></point>
+      <point x="359" y="645" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

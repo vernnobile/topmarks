@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="imacron" format="1">
+  <advance width="907"></advance>
+  <unicode hex="012B"></unicode>
+  <outline>
+    <contour>
+      <point x="6" y="1184" type="line"></point>
+      <point x="6" y="1341" type="line"></point>
+      <point x="660" y="1341" type="line"></point>
+      <point x="660" y="1184" type="line"></point>
+    </contour>
+    <contour>
+      <point x="771" y="33" type="line"></point>
+      <point x="693" y="2"></point>
+      <point x="613" y="-15"></point>
+      <point x="539" y="-15" type="curve" smooth="yes"></point>
+      <point x="364" y="-15"></point>
+      <point x="221" y="82"></point>
+      <point x="221" y="337" type="curve" smooth="yes"></point>
+      <point x="221" y="1026" type="line"></point>
+      <point x="463" y="1026" type="line"></point>
+      <point x="463" y="334" type="line" smooth="yes"></point>
+      <point x="463" y="217"></point>
+      <point x="509" y="177"></point>
+      <point x="591" y="177" type="curve" smooth="yes"></point>
+      <point x="632" y="177"></point>
+      <point x="682" y="187"></point>
+      <point x="740" y="203" type="curve"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="degree" format="1">
+  <advance width="907"></advance>
+  <unicode hex="00B0"></unicode>
+  <outline>
+    <contour>
+      <point x="453" y="915" type="curve" smooth="yes"></point>
+      <point x="580" y="915"></point>
+      <point x="668" y="1017"></point>
+      <point x="668" y="1125" type="curve" smooth="yes"></point>
+      <point x="668" y="1262"></point>
+      <point x="559" y="1333"></point>
+      <point x="453" y="1333" type="curve" smooth="yes"></point>
+      <point x="329" y="1333"></point>
+      <point x="238" y="1235"></point>
+      <point x="238" y="1125" type="curve" smooth="yes"></point>
+      <point x="238" y="985"></point>
+      <point x="348" y="915"></point>
+    </contour>
+    <contour>
+      <point x="453" y="778" type="curve" smooth="yes"></point>
+      <point x="241" y="778"></point>
+      <point x="91" y="946"></point>
+      <point x="91" y="1126" type="curve" smooth="yes"></point>
+      <point x="91" y="1347"></point>
+      <point x="281" y="1469"></point>
+      <point x="453" y="1469" type="curve" smooth="yes"></point>
+      <point x="667" y="1469"></point>
+      <point x="815" y="1303"></point>
+      <point x="815" y="1126" type="curve" smooth="yes"></point>
+      <point x="815" y="901"></point>
+      <point x="625" y="778"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

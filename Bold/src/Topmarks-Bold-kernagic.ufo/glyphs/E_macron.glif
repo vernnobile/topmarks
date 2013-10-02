@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Emacron" format="1">
+  <advance width="1072"></advance>
+  <unicode hex="0112"></unicode>
+  <outline>
+    <contour>
+      <point x="250" y="1697" type="line"></point>
+      <point x="250" y="1854" type="line"></point>
+      <point x="904" y="1854" type="line"></point>
+      <point x="904" y="1697" type="line"></point>
+    </contour>
+    <contour>
+      <point x="103" y="0" type="line"></point>
+      <point x="103" y="1560" type="line"></point>
+      <point x="961" y="1560" type="line"></point>
+      <point x="961" y="1360" type="line"></point>
+      <point x="353" y="1360" type="line"></point>
+      <point x="353" y="906" type="line"></point>
+      <point x="919" y="906" type="line"></point>
+      <point x="919" y="713" type="line"></point>
+      <point x="353" y="713" type="line"></point>
+      <point x="353" y="200" type="line"></point>
+      <point x="981" y="200" type="line"></point>
+      <point x="981" y="0" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

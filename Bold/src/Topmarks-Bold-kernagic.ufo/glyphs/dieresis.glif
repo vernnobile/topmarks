@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="dieresis" format="1">
+  <advance width="989"></advance>
+  <unicode hex="00A8"></unicode>
+  <outline>
+    <contour>
+      <point x="236" y="1304" type="curve" smooth="yes"></point>
+      <point x="236" y="1345" type="line" smooth="yes"></point>
+      <point x="236" y="1417"></point>
+      <point x="295" y="1476"></point>
+      <point x="367" y="1476" type="curve" smooth="yes"></point>
+      <point x="439" y="1476"></point>
+      <point x="497" y="1417"></point>
+      <point x="497" y="1345" type="curve" smooth="yes"></point>
+      <point x="497" y="1304" type="line" smooth="yes"></point>
+      <point x="497" y="1232"></point>
+      <point x="439" y="1174"></point>
+      <point x="367" y="1174" type="curve" smooth="yes"></point>
+      <point x="295" y="1174"></point>
+      <point x="236" y="1232"></point>
+    </contour>
+    <contour>
+      <point x="742" y="1304" type="curve" smooth="yes"></point>
+      <point x="742" y="1345" type="line" smooth="yes"></point>
+      <point x="742" y="1417"></point>
+      <point x="801" y="1476"></point>
+      <point x="873" y="1476" type="curve" smooth="yes"></point>
+      <point x="945" y="1476"></point>
+      <point x="1003" y="1417"></point>
+      <point x="1003" y="1345" type="curve" smooth="yes"></point>
+      <point x="1003" y="1304" type="line" smooth="yes"></point>
+      <point x="1003" y="1232"></point>
+      <point x="945" y="1174"></point>
+      <point x="873" y="1174" type="curve" smooth="yes"></point>
+      <point x="801" y="1174"></point>
+      <point x="742" y="1232"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

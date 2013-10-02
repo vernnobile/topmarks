@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="hbar" format="1">
+  <advance width="1195"></advance>
+  <unicode hex="0127"></unicode>
+  <outline>
+    <contour>
+      <point x="0" y="1154" type="line"></point>
+      <point x="0" y="1311" type="line"></point>
+      <point x="106" y="1311" type="line"></point>
+      <point x="106" y="1560" type="line"></point>
+      <point x="348" y="1560" type="line"></point>
+      <point x="348" y="1311" type="line"></point>
+      <point x="735" y="1311" type="line"></point>
+      <point x="735" y="1154" type="line"></point>
+      <point x="348" y="1154" type="line"></point>
+      <point x="348" y="925" type="line"></point>
+      <point x="434" y="1027"></point>
+      <point x="571" y="1048"></point>
+      <point x="662" y="1048" type="curve" smooth="yes"></point>
+      <point x="889" y="1048"></point>
+      <point x="1019" y="925"></point>
+      <point x="1019" y="658" type="curve" smooth="yes"></point>
+      <point x="1019" y="358" type="line" smooth="yes"></point>
+      <point x="1019" y="195"></point>
+      <point x="1080" y="166"></point>
+      <point x="1245" y="213" type="curve"></point>
+      <point x="1270" y="20" type="line"></point>
+      <point x="1000" y="-69.7772"></point>
+      <point x="787" y="-30.0468"></point>
+      <point x="777" y="298.094" type="curve"></point>
+      <point x="777" y="298" type="line"></point>
+      <point x="777" y="323" type="line"></point>
+      <point x="777" y="606" type="line" smooth="yes"></point>
+      <point x="777" y="759"></point>
+      <point x="729" y="858"></point>
+      <point x="601" y="858" type="curve" smooth="yes"></point>
+      <point x="439" y="858"></point>
+      <point x="348" y="717"></point>
+      <point x="348" y="503" type="curve" smooth="yes"></point>
+      <point x="348" y="0" type="line"></point>
+      <point x="106" y="0" type="line"></point>
+      <point x="106" y="1154" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

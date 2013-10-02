@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Ldot" format="1">
+  <advance width="1072"></advance>
+  <unicode hex="013F"></unicode>
+  <outline>
+    <contour>
+      <point x="423" y="617" type="line"></point>
+      <point x="423" y="864" type="line"></point>
+      <point x="678" y="864" type="line"></point>
+      <point x="678" y="617" type="line"></point>
+    </contour>
+    <contour>
+      <point x="109" y="0" type="line"></point>
+      <point x="109" y="1560" type="line"></point>
+      <point x="359" y="1560" type="line"></point>
+      <point x="359" y="200" type="line"></point>
+      <point x="965" y="200" type="line"></point>
+      <point x="965" y="0" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

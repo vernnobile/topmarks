@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="jcircumflex" format="1">
+  <advance width="1031"></advance>
+  <unicode hex="0135"></unicode>
+  <outline>
+    <contour>
+      <point x="381" y="-756" type="curve" smooth="yes"></point>
+      <point x="329" y="-756"></point>
+      <point x="282" y="-750"></point>
+      <point x="237" y="-740" type="curve"></point>
+      <point x="236" y="-573" type="line"></point>
+      <point x="271" y="-578"></point>
+      <point x="300" y="-585"></point>
+      <point x="335" y="-585" type="curve" smooth="yes"></point>
+      <point x="518" y="-585"></point>
+      <point x="561" y="-423"></point>
+      <point x="561" y="-216" type="curve" smooth="yes"></point>
+      <point x="561" y="953" type="line"></point>
+      <point x="755" y="953" type="line"></point>
+      <point x="755" y="-166" type="line" smooth="yes"></point>
+      <point x="755" y="-428"></point>
+      <point x="703" y="-650"></point>
+      <point x="521" y="-730" type="curve" smooth="yes"></point>
+      <point x="481" y="-747"></point>
+      <point x="435" y="-756"></point>
+    </contour>
+    <contour>
+      <point x="593" y="1627" type="line"></point>
+      <point x="759" y="1627" type="line"></point>
+      <point x="1047" y="1246" type="line"></point>
+      <point x="821" y="1246" type="line"></point>
+      <point x="676" y="1430" type="line"></point>
+      <point x="524" y="1246" type="line"></point>
+      <point x="306" y="1246" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="zcaron" format="1">
+  <advance width="989"></advance>
+  <unicode hex="017E"></unicode>
+  <outline>
+    <contour>
+      <point x="91" y="0" type="line"></point>
+      <point x="91" y="155" type="line"></point>
+      <point x="569" y="856" type="line"></point>
+      <point x="97" y="856" type="line"></point>
+      <point x="97" y="1026" type="line"></point>
+      <point x="857" y="1026" type="line"></point>
+      <point x="857" y="873" type="line"></point>
+      <point x="387" y="170" type="line"></point>
+      <point x="879" y="170" type="line"></point>
+      <point x="879" y="0" type="line"></point>
+    </contour>
+    <contour>
+      <point x="415" y="1170" type="line"></point>
+      <point x="137" y="1549" type="line"></point>
+      <point x="310" y="1549" type="line"></point>
+      <point x="490" y="1296" type="line"></point>
+      <point x="674" y="1549" type="line"></point>
+      <point x="856" y="1549" type="line"></point>
+      <point x="579" y="1170" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

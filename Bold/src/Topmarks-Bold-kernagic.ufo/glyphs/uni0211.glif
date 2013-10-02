@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni0211" format="1">
+  <advance width="948"></advance>
+  <unicode hex="0211"></unicode>
+  <outline>
+    <contour>
+      <point x="210" y="0" type="line"></point>
+      <point x="210" y="524" type="line" smooth="yes"></point>
+      <point x="210" y="834"></point>
+      <point x="175" y="1026"></point>
+      <point x="175" y="1026" type="curve"></point>
+      <point x="423" y="1026" type="line"></point>
+      <point x="423" y="1026"></point>
+      <point x="430" y="986"></point>
+      <point x="438" y="902" type="curve"></point>
+      <point x="507" y="996"></point>
+      <point x="612" y="1044"></point>
+      <point x="698" y="1044" type="curve" smooth="yes"></point>
+      <point x="778" y="1044"></point>
+      <point x="819" y="1027"></point>
+      <point x="831" y="1022" type="curve"></point>
+      <point x="813" y="815" type="line"></point>
+      <point x="769" y="826"></point>
+      <point x="732" y="831"></point>
+      <point x="697" y="831" type="curve" smooth="yes"></point>
+      <point x="526" y="831"></point>
+      <point x="452" y="648"></point>
+      <point x="452" y="566" type="curve" smooth="yes"></point>
+      <point x="452" y="553" type="line"></point>
+      <point x="452" y="0" type="line"></point>
+    </contour>
+    <contour>
+      <point x="328" y="1296" type="line"></point>
+      <point x="12" y="1664" type="line"></point>
+      <point x="218" y="1664" type="line"></point>
+      <point x="456" y="1296" type="line"></point>
+    </contour>
+    <contour>
+      <point x="623" y="1296" type="line"></point>
+      <point x="322" y="1664" type="line"></point>
+      <point x="508" y="1664" type="line"></point>
+      <point x="762" y="1296" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

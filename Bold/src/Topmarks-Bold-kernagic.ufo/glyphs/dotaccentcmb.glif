@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="dotaccentcmb" format="1">
+  <advance width="659"></advance>
+  <unicode hex="0307"></unicode>
+  <outline>
+    <contour>
+      <point x="361" y="1412" type="curve" smooth="yes"></point>
+      <point x="445" y="1412"></point>
+      <point x="486" y="1352"></point>
+      <point x="486" y="1293" type="curve" smooth="yes"></point>
+      <point x="486" y="1234"></point>
+      <point x="445" y="1174"></point>
+      <point x="361" y="1174" type="curve" smooth="yes"></point>
+      <point x="277" y="1174"></point>
+      <point x="236" y="1234"></point>
+      <point x="236" y="1293" type="curve" smooth="yes"></point>
+      <point x="236" y="1352"></point>
+      <point x="277" y="1412"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Icircumflex" format="1">
+  <advance width="866"></advance>
+  <unicode hex="00CE"></unicode>
+  <outline>
+    <contour>
+      <point x="348" y="2011" type="line"></point>
+      <point x="514" y="2011" type="line"></point>
+      <point x="802" y="1630" type="line"></point>
+      <point x="576" y="1630" type="line"></point>
+      <point x="431" y="1814" type="line"></point>
+      <point x="279" y="1630" type="line"></point>
+      <point x="61" y="1630" type="line"></point>
+    </contour>
+    <contour>
+      <point x="785" y="0" type="line"></point>
+      <point x="187" y="0" type="line"></point>
+      <point x="187" y="182" type="line"></point>
+      <point x="361" y="182" type="line"></point>
+      <point x="361" y="1378" type="line"></point>
+      <point x="187" y="1378" type="line"></point>
+      <point x="187" y="1560" type="line"></point>
+      <point x="785" y="1560" type="line"></point>
+      <point x="785" y="1378" type="line"></point>
+      <point x="611" y="1378" type="line"></point>
+      <point x="611" y="182" type="line"></point>
+      <point x="785" y="182" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>

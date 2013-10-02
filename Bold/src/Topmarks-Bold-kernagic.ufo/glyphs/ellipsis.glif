@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><glyph name="ellipsis" format="1">
+  <advance width="1649"></advance>
+  <unicode hex="2026"></unicode>
+  <outline>
+    <contour>
+      <point x="103" y="-20" type="line"></point>
+      <point x="103" y="227" type="line"></point>
+      <point x="357" y="227" type="line"></point>
+      <point x="357" y="-20" type="line"></point>
+    </contour>
+    <contour>
+      <point x="700" y="-20" type="line"></point>
+      <point x="700" y="227" type="line"></point>
+      <point x="939" y="227" type="line"></point>
+      <point x="939" y="-20" type="line"></point>
+    </contour>
+    <contour>
+      <point x="1281" y="-20" type="line"></point>
+      <point x="1281" y="227" type="line"></point>
+      <point x="1536" y="227" type="line"></point>
+      <point x="1536" y="-20" type="line"></point>
+    </contour>
+  </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
+</glyph>
