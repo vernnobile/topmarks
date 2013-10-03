@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="lslash" format="1">
-  <advance width="824"></advance>
+  <advance width="810"></advance>
   <unicode hex="0142"></unicode>
   <outline>
     <contour>
-      <point x="342" y="0" type="line"></point>
-      <point x="342" y="809" type="line"></point>
-      <point x="145" y="691" type="line"></point>
-      <point x="145" y="852" type="line"></point>
-      <point x="342" y="970" type="line"></point>
-      <point x="342" y="1752" type="line"></point>
-      <point x="536" y="1752" type="line"></point>
-      <point x="536" y="1086" type="line"></point>
-      <point x="737" y="1206" type="line"></point>
-      <point x="737" y="1045" type="line"></point>
-      <point x="536" y="925" type="line"></point>
-      <point x="536" y="0" type="line"></point>
+      <point x="327" y="0" type="line"></point>
+      <point x="327" y="809" type="line"></point>
+      <point x="130" y="691" type="line"></point>
+      <point x="130" y="852" type="line"></point>
+      <point x="327" y="970" type="line"></point>
+      <point x="327" y="1752" type="line"></point>
+      <point x="521" y="1752" type="line"></point>
+      <point x="521" y="1086" type="line"></point>
+      <point x="722" y="1206" type="line"></point>
+      <point x="722" y="1045" type="line"></point>
+      <point x="521" y="925" type="line"></point>
+      <point x="521" y="0" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

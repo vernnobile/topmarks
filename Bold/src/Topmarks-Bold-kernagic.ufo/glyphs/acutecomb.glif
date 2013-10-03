@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="acutecomb" format="1">
-  <advance width="866"></advance>
+  <advance width="841"></advance>
   <unicode hex="0301"></unicode>
   <outline>
     <contour>
-      <point x="236" y="1144" type="line"></point>
-      <point x="502" y="1520" type="line"></point>
-      <point x="821" y="1520" type="line"></point>
-      <point x="459" y="1144" type="line"></point>
+      <point x="220" y="1144" type="line"></point>
+      <point x="486" y="1520" type="line"></point>
+      <point x="805" y="1520" type="line"></point>
+      <point x="443" y="1144" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

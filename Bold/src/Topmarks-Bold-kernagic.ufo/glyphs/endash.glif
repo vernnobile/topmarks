@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="endash" format="1">
-  <advance width="1319"></advance>
+  <advance width="1278"></advance>
   <unicode hex="2013"></unicode>
   <outline>
     <contour>
-      <point x="55" y="861" type="line"></point>
-      <point x="55" y="1022" type="line"></point>
-      <point x="1257" y="1022" type="line"></point>
-      <point x="1257" y="861" type="line"></point>
+      <point x="39" y="861" type="line"></point>
+      <point x="39" y="1022" type="line"></point>
+      <point x="1241" y="1022" type="line"></point>
+      <point x="1241" y="861" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

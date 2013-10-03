@@ -1,48 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="Q" format="1">
-  <advance width="1525"></advance>
+  <advance width="1652"></advance>
   <unicode hex="0051"></unicode>
   <outline>
     <contour>
-      <point x="760" y="-24" type="curve" smooth="yes"></point>
-      <point x="333" y="-24"></point>
-      <point x="42" y="307"></point>
-      <point x="42" y="780" type="curve" smooth="yes"></point>
-      <point x="42" y="1248"></point>
-      <point x="331" y="1584"></point>
-      <point x="760" y="1584" type="curve" smooth="yes"></point>
-      <point x="1193" y="1584"></point>
-      <point x="1484" y="1248"></point>
-      <point x="1484" y="780" type="curve" smooth="yes"></point>
-      <point x="1484" y="467"></point>
-      <point x="1356" y="217"></point>
-      <point x="1145" y="83" type="curve"></point>
-      <point x="1281" y="-168" type="line"></point>
-      <point x="1113" y="-257" type="line"></point>
-      <point x="966" y="4" type="line"></point>
-      <point x="902" y="-14"></point>
-      <point x="833" y="-24"></point>
+      <point x="829" y="-24" type="curve" smooth="yes"></point>
+      <point x="402" y="-24"></point>
+      <point x="111" y="307"></point>
+      <point x="111" y="780" type="curve" smooth="yes"></point>
+      <point x="111" y="1248"></point>
+      <point x="400" y="1584"></point>
+      <point x="829" y="1584" type="curve" smooth="yes"></point>
+      <point x="1262" y="1584"></point>
+      <point x="1553" y="1248"></point>
+      <point x="1553" y="780" type="curve" smooth="yes"></point>
+      <point x="1553" y="467"></point>
+      <point x="1425" y="217"></point>
+      <point x="1214" y="83" type="curve"></point>
+      <point x="1350" y="-168" type="line"></point>
+      <point x="1182" y="-257" type="line"></point>
+      <point x="1035" y="4" type="line"></point>
+      <point x="971" y="-14"></point>
+      <point x="902" y="-24"></point>
     </contour>
     <contour>
-      <point x="857" y="197" type="curve"></point>
-      <point x="753" y="382" type="line"></point>
-      <point x="931" y="477" type="line"></point>
-      <point x="1034" y="287" type="line"></point>
-      <point x="1145" y="381"></point>
-      <point x="1225" y="541"></point>
-      <point x="1225" y="775" type="curve" smooth="yes"></point>
-      <point x="1225" y="1186"></point>
-      <point x="989" y="1377"></point>
-      <point x="760" y="1377" type="curve" smooth="yes"></point>
-      <point x="532" y="1377"></point>
-      <point x="301" y="1188"></point>
-      <point x="301" y="778" type="curve" smooth="yes"></point>
-      <point x="301" y="373"></point>
-      <point x="532" y="186"></point>
-      <point x="760" y="186" type="curve" smooth="yes"></point>
-      <point x="792" y="186"></point>
-      <point x="825" y="189"></point>
+      <point x="926" y="197" type="curve"></point>
+      <point x="822" y="382" type="line"></point>
+      <point x="1000" y="477" type="line"></point>
+      <point x="1103" y="287" type="line"></point>
+      <point x="1214" y="381"></point>
+      <point x="1294" y="541"></point>
+      <point x="1294" y="775" type="curve" smooth="yes"></point>
+      <point x="1294" y="1186"></point>
+      <point x="1058" y="1377"></point>
+      <point x="829" y="1377" type="curve" smooth="yes"></point>
+      <point x="601" y="1377"></point>
+      <point x="370" y="1188"></point>
+      <point x="370" y="778" type="curve" smooth="yes"></point>
+      <point x="370" y="373"></point>
+      <point x="601" y="186"></point>
+      <point x="829" y="186" type="curve" smooth="yes"></point>
+      <point x="861" y="186"></point>
+      <point x="894" y="189"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

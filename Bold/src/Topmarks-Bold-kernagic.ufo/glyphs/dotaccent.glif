@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="dotaccent" format="1">
-  <advance width="618"></advance>
+  <advance width="561"></advance>
   <unicode hex="02D9"></unicode>
   <outline>
     <contour>
-      <point x="236" y="2195" type="line"></point>
-      <point x="236" y="2386" type="line"></point>
-      <point x="425" y="2386" type="line"></point>
-      <point x="425" y="2195" type="line"></point>
+      <point x="220" y="2195" type="line"></point>
+      <point x="220" y="2386" type="line"></point>
+      <point x="409" y="2386" type="line"></point>
+      <point x="409" y="2195" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="hbar" format="1">
-  <advance width="1147"></advance>
+  <advance width="1176"></advance>
   <unicode hex="0127"></unicode>
   <outline>
     <contour>
-      <point x="12" y="1207" type="line"></point>
-      <point x="12" y="1341" type="line"></point>
+      <point x="13" y="1207" type="line"></point>
+      <point x="13" y="1341" type="line"></point>
       <point x="137" y="1341" type="line"></point>
       <point x="137" y="1560" type="line"></point>
       <point x="307" y="1560" type="line"></point>
@@ -20,18 +20,18 @@
       <point x="1000" y="946"></point>
       <point x="1000" y="625" type="curve" smooth="yes"></point>
       <point x="1000" y="235" type="line" smooth="yes"></point>
-      <point x="1000" y="158"></point>
-      <point x="1029" y="120"></point>
-      <point x="1090" y="120" type="curve" smooth="yes"></point>
-      <point x="1116" y="120"></point>
-      <point x="1145" y="124"></point>
-      <point x="1179" y="132" type="curve"></point>
-      <point x="1197" y="6" type="line"></point>
-      <point x="1144" y="-13"></point>
-      <point x="1090" y="-22"></point>
-      <point x="1036" y="-22" type="curve" smooth="yes"></point>
-      <point x="901" y="-22"></point>
-      <point x="830" y="57"></point>
+      <point x="1000" y="139"></point>
+      <point x="1044" y="110"></point>
+      <point x="1095" y="110" type="curve" smooth="yes"></point>
+      <point x="1138" y="110"></point>
+      <point x="1186" y="131"></point>
+      <point x="1216" y="148" type="curve"></point>
+      <point x="1236" y="33" type="line"></point>
+      <point x="1176" y="-6"></point>
+      <point x="1098" y="-22"></point>
+      <point x="1037" y="-22" type="curve" smooth="yes"></point>
+      <point x="902" y="-22"></point>
+      <point x="830" y="55"></point>
       <point x="830" y="216" type="curve" smooth="yes"></point>
       <point x="830" y="607" type="line" smooth="yes"></point>
       <point x="830" y="853"></point>
@@ -46,7 +46,6 @@
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

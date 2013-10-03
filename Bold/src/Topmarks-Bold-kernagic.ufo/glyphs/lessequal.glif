@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="lessequal" format="1">
-  <advance width="1195"></advance>
+  <advance width="1340"></advance>
   <unicode hex="2264"></unicode>
   <outline>
     <contour>
-      <point x="1112" y="259" type="line"></point>
-      <point x="66" y="787" type="line"></point>
-      <point x="66" y="882" type="line"></point>
-      <point x="1112" y="1437" type="line"></point>
-      <point x="1112" y="1272" type="line"></point>
-      <point x="271" y="838" type="line"></point>
-      <point x="1112" y="424" type="line"></point>
+      <point x="1181" y="259" type="line"></point>
+      <point x="135" y="787" type="line"></point>
+      <point x="135" y="882" type="line"></point>
+      <point x="1181" y="1437" type="line"></point>
+      <point x="1181" y="1272" type="line"></point>
+      <point x="340" y="838" type="line"></point>
+      <point x="1181" y="424" type="line"></point>
     </contour>
     <contour>
-      <point x="24" y="15" type="line"></point>
-      <point x="24" y="159" type="line"></point>
-      <point x="1146" y="159" type="line"></point>
-      <point x="1146" y="15" type="line"></point>
+      <point x="93" y="15" type="line"></point>
+      <point x="93" y="159" type="line"></point>
+      <point x="1215" y="159" type="line"></point>
+      <point x="1215" y="15" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

@@ -4,19 +4,19 @@
   <outline>
     <contour>
       <point x="240" y="235" type="line"/>
-      <point x="240" y="158" name="inserted"/>
-      <point x="269" y="120"/>
-      <point x="330" y="120" type="curve" smooth="yes"/>
-      <point x="356" y="120" name="inserted"/>
-      <point x="385" y="124"/>
-      <point x="419" y="132" type="curve"/>
-      <point x="437" y="6" type="line"/>
-      <point x="384" y="-13" name="inserted"/>
-      <point x="330" y="-22"/>
-      <point x="276" y="-22" type="curve" smooth="yes"/>
-      <point x="141" y="-22" name="inserted"/>
-      <point x="70" y="57"/>
-      <point x="70" y="216" type="curve" smooth="yes"/>
+      <point x="240" y="139"/>
+      <point x="284" y="110"/>
+      <point x="335" y="110" type="curve" smooth="yes"/>
+      <point x="378" y="110"/>
+      <point x="426" y="131"/>
+      <point x="456" y="148" type="curve"/>
+      <point x="476" y="33" type="line"/>
+      <point x="416" y="-6" name="inserted"/>
+      <point x="338" y="-22"/>
+      <point x="277" y="-22" type="curve" smooth="yes"/>
+      <point x="142" y="-22" name="inserted"/>
+      <point x="70" y="55"/>
+      <point x="70" y="216" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -33,6 +33,87 @@
           </array>
           <key>contours</key>
           <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>239</integer>
+                  <key>y</key>
+                  <integer>241</integer>
+                </dict>
+                <dict>
+                  <key>name</key>
+                  <string>inserted</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>239</integer>
+                  <key>y</key>
+                  <integer>52</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>406</integer>
+                  <key>y</key>
+                  <integer>136</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>454</integer>
+                  <key>y</key>
+                  <integer>158</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>476</integer>
+                  <key>y</key>
+                  <integer>33</integer>
+                </dict>
+                <dict>
+                  <key>name</key>
+                  <string>inserted</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>408</integer>
+                  <key>y</key>
+                  <integer>-17</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>115</integer>
+                  <key>y</key>
+                  <integer>-101</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>curve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>75</integer>
+                  <key>y</key>
+                  <integer>145</integer>
+                </dict>
+              </array>
+            </dict>
           </array>
           <key>lib</key>
           <dict>

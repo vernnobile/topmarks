@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="lc_kick_2" format="1">
-  <advance width="824"></advance>
+  <advance width="810"></advance>
   <outline>
     <contour>
-      <point x="375" y="358" type="line"></point>
-      <point x="375" y="195"></point>
-      <point x="498" y="166"></point>
-      <point x="663" y="213" type="curve"></point>
-      <point x="688" y="20" type="line"></point>
-      <point x="412" y="-72"></point>
-      <point x="133" y="-28"></point>
-      <point x="133" y="323" type="curve"></point>
+      <point x="360" y="358" type="line"></point>
+      <point x="360" y="195"></point>
+      <point x="483" y="166"></point>
+      <point x="648" y="213" type="curve"></point>
+      <point x="673" y="20" type="line"></point>
+      <point x="397" y="-72"></point>
+      <point x="118" y="-28"></point>
+      <point x="118" y="323" type="curve"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

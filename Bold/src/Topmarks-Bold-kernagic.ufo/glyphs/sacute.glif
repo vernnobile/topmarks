@@ -1,48 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="sacute" format="1">
-  <advance width="989"></advance>
+  <advance width="935"></advance>
   <unicode hex="015B"></unicode>
   <outline>
     <contour>
-      <point x="452" y="-22" type="curve" smooth="yes"></point>
-      <point x="296" y="-22"></point>
-      <point x="152" y="36"></point>
-      <point x="90" y="69" type="curve"></point>
-      <point x="143" y="246" type="line"></point>
-      <point x="266" y="193"></point>
-      <point x="368" y="167"></point>
-      <point x="442" y="167" type="curve" smooth="yes"></point>
-      <point x="528" y="167"></point>
-      <point x="584" y="202"></point>
-      <point x="584" y="283" type="curve" smooth="yes"></point>
-      <point x="584" y="463"></point>
-      <point x="96" y="420"></point>
-      <point x="83" y="742" type="curve" smooth="yes"></point>
-      <point x="79" y="839"></point>
-      <point x="130" y="1048"></point>
-      <point x="438" y="1048" type="curve" smooth="yes"></point>
-      <point x="623" y="1048"></point>
-      <point x="744" y="988"></point>
-      <point x="771" y="973" type="curve"></point>
-      <point x="714" y="810" type="line"></point>
-      <point x="621" y="848"></point>
-      <point x="531" y="868"></point>
-      <point x="462" y="868" type="curve" smooth="yes"></point>
-      <point x="372" y="868"></point>
-      <point x="316" y="836"></point>
-      <point x="314" y="767" type="curve" smooth="yes"></point>
-      <point x="310" y="598"></point>
-      <point x="820" y="631"></point>
-      <point x="813" y="297" type="curve" smooth="yes"></point>
-      <point x="809" y="101"></point>
-      <point x="690" y="-22"></point>
+      <point x="436" y="-22" type="curve" smooth="yes"></point>
+      <point x="280" y="-22"></point>
+      <point x="136" y="36"></point>
+      <point x="74" y="69" type="curve"></point>
+      <point x="127" y="246" type="line"></point>
+      <point x="250" y="193"></point>
+      <point x="352" y="167"></point>
+      <point x="426" y="167" type="curve" smooth="yes"></point>
+      <point x="512" y="167"></point>
+      <point x="568" y="202"></point>
+      <point x="568" y="283" type="curve" smooth="yes"></point>
+      <point x="568" y="463"></point>
+      <point x="80" y="420"></point>
+      <point x="67" y="742" type="curve" smooth="yes"></point>
+      <point x="63" y="839"></point>
+      <point x="114" y="1048"></point>
+      <point x="422" y="1048" type="curve" smooth="yes"></point>
+      <point x="607" y="1048"></point>
+      <point x="728" y="988"></point>
+      <point x="755" y="973" type="curve"></point>
+      <point x="698" y="810" type="line"></point>
+      <point x="605" y="848"></point>
+      <point x="515" y="868"></point>
+      <point x="446" y="868" type="curve" smooth="yes"></point>
+      <point x="356" y="868"></point>
+      <point x="300" y="836"></point>
+      <point x="298" y="767" type="curve" smooth="yes"></point>
+      <point x="294" y="598"></point>
+      <point x="804" y="631"></point>
+      <point x="797" y="297" type="curve" smooth="yes"></point>
+      <point x="793" y="101"></point>
+      <point x="674" y="-22"></point>
     </contour>
     <contour>
-      <point x="370" y="1262" type="line"></point>
-      <point x="636" y="1638" type="line"></point>
-      <point x="955" y="1638" type="line"></point>
-      <point x="593" y="1262" type="line"></point>
+      <point x="354" y="1262" type="line"></point>
+      <point x="620" y="1638" type="line"></point>
+      <point x="939" y="1638" type="line"></point>
+      <point x="577" y="1262" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 </dict></lib>
 </glyph>

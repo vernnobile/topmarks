@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><glyph name="lcaron" format="1">
-  <advance width="735"></advance>
+  <advance width="754"></advance>
   <unicode hex="013E"></unicode>
   <outline>
     <contour>
@@ -10,25 +10,24 @@
     </contour>
     <contour>
       <point x="379" y="235" type="line" smooth="yes"></point>
-      <point x="379" y="154"></point>
-      <point x="411" y="120"></point>
-      <point x="486" y="120" type="curve" smooth="yes"></point>
-      <point x="512" y="120"></point>
-      <point x="543" y="124"></point>
-      <point x="580" y="132" type="curve"></point>
-      <point x="599" y="6" type="line"></point>
-      <point x="533" y="-13"></point>
-      <point x="475" y="-22"></point>
-      <point x="425" y="-22" type="curve" smooth="yes"></point>
-      <point x="286" y="-22"></point>
-      <point x="209" y="52"></point>
+      <point x="379" y="139"></point>
+      <point x="410" y="110"></point>
+      <point x="461" y="110" type="curve" smooth="yes"></point>
+      <point x="504" y="110"></point>
+      <point x="552" y="131"></point>
+      <point x="582" y="148" type="curve"></point>
+      <point x="602" y="33" type="line"></point>
+      <point x="542" y="-6"></point>
+      <point x="477" y="-22"></point>
+      <point x="416" y="-22" type="curve" smooth="yes"></point>
+      <point x="281" y="-22"></point>
+      <point x="209" y="55"></point>
       <point x="209" y="216" type="curve" smooth="yes"></point>
       <point x="209" y="1560" type="line"></point>
       <point x="379" y="1560" type="line"></point>
     </contour>
   </outline>
 <lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
-<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
 <key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>

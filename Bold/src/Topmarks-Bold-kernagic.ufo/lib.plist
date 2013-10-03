@@ -9,6 +9,20 @@
 		<real>0.0</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.autohint</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.decompose</key>
+	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.path</key>
+	<string>/Users/vern/gitHub/topmarks/Bold/src/Topmarks-Bold.otf</string>
+	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -233,7 +247,7 @@
 		<string>quoteleft</string>
 		<string>quoteright</string>
 		<string>minus</string>
-		<string>uni0217</string>
+		<string>utilde</string>
 		<string>obreve</string>
 		<string>quotedblright</string>
 		<string>kcommaaccent</string>
@@ -248,7 +262,8 @@
 		<string>Sacute</string>
 		<string>Cacute</string>
 		<string>lessequal</string>
-		<string>ebreve</string>
+		<string>gcommaaccent</string>
+		<string>a.alt</string>
 		<string>s.alt</string>
 		<string>Rcaron</string>
 		<string>Ldot</string>
@@ -273,6 +288,7 @@
 		<string>uring</string>
 		<string>nine.alt</string>
 		<string>ccircumflex</string>
+		<string>lc_kick</string>
 		<string>omacron</string>
 		<string>uni0206</string>
 		<string>endash</string>
@@ -285,7 +301,6 @@
 		<string>.notdef</string>
 		<string>notequal</string>
 		<string>radical</string>
-		<string>lc_kick</string>
 		<string>Delta</string>
 		<string>Rcommaaccent</string>
 		<string>Ydieresis</string>
@@ -299,6 +314,7 @@
 		<string>Emacron</string>
 		<string>gravecomb</string>
 		<string>ohungarumlaut</string>
+		<string>emacron</string>
 		<string>uni2074</string>
 		<string>guilsinglright</string>
 		<string>lozenge</string>
@@ -322,7 +338,6 @@
 		<string>uni0202</string>
 		<string>uni0201</string>
 		<string>uni0200</string>
-		<string>gcommaaccent</string>
 		<string>rcaron</string>
 		<string>Ccaron</string>
 		<string>sacute</string>
@@ -362,7 +377,7 @@
 		<string>uni0214</string>
 		<string>uni0215</string>
 		<string>uni0216</string>
-		<string>utilde</string>
+		<string>uni0217</string>
 		<string>uni0210</string>
 		<string>uni0211</string>
 		<string>uni0212</string>
@@ -370,19 +385,19 @@
 		<string>ellipsis</string>
 		<string>zcaron</string>
 		<string>scommaaccent</string>
-		<string>a.alt</string>
+		<string>ebreve</string>
 		<string>uni021A</string>
 		<string>uni021B</string>
 		<string>rcommaaccent</string>
 		<string>oe</string>
 		<string>guilsinglleft</string>
-		<string>emacron</string>
 		<string>dagger</string>
 		<string>integral</string>
 		<string>uni000D</string>
 		<string>uogonek</string>
 		<string>fraction</string>
 		<string>Iogonek</string>
+		<string>Nacute</string>
 		<string>iogonek</string>
 		<string>nacute</string>
 		<string>Zdotaccent</string>
@@ -392,7 +407,6 @@
 		<string>ubreve</string>
 		<string>approxequal</string>
 		<string>Imacron</string>
-		<string>Nacute</string>
 		<string>bullet</string>
 	</array>
 </dict>
